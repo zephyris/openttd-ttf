@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="1200"
+   viewBox="0 0 1200 1200"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="162_cent-sign.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.78606705"
+     inkscape:cx="340.30176"
+     inkscape:cy="643.07491"
+     inkscape:window-width="1350"
+     inkscape:window-height="1230"
+     inkscape:window-x="1722"
+     inkscape:window-y="67"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="false">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="25"
+       spacingy="25"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2"
+       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke-width:0.999873"
+       d="M 600,600 C 600,525 525,400 300,400 72.8417,404.00102 0,575 0,675 v 50 c 0,100 75,275 300,275 250,0 300,-125 300,-200 H 475 C 475,874.61408 400,900 300,900 200,900 125,800 125,725 v -50 c 0,-75 75,-175 175,-175 100,0 175,25 175,100 z"
+       sodipodi:nodetypes="ccsssccscsscc" />
+    <rect
+       style="opacity:0.504444;fill:#000000;fill-opacity:0.56;stroke-width:4;stroke-linecap:square;paint-order:stroke markers fill"
+       id="rect493"
+       width="200"
+       height="800"
+       x="200"
+       y="300" />
+    <path
+       id="path2-6"
+       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke-width:0.999873"
+       d="M 200 300 L 200 414.58789 C 50.897331 458.49756 0 591.47702 0 675 L 0 725 C 0 808.38209 52.232192 943.82593 200 986.56641 L 200 1100 L 400 1100 L 400 992.01367 C 563.8848 963.35455 600 863.67658 600 800 L 475 800 C 475 846.39578 445.97611 873.7388 400 887.79883 L 400 512.09961 C 445.97589 526.08114 475 553.36438 475 600 L 600 600 C 600 537.46346 547.76762 440.22448 400 409.61328 L 400 300 L 200 300 z M 200 536.17578 L 200 863.82422 C 154.0241 827.90879 125 771.63562 125 725 L 125 675 C 125 628.36438 154.0241 572.09121 200 536.17578 z " />
+  </g>
+</svg>
