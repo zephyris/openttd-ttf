@@ -1,7 +1,7 @@
 # OpenTTD Sans
 OpenTTD Sans is a heavy regular typeface designed for medium-sized text in a pixel art style. Drawn to broadly capture the look and feel of the medium pixel font in Transport Tycoon Deluxe.
 
-The glyphs are designed with a pixel art aesthetic, heavily aligned to a pixel grid but with some flourishes for character. Pixel-perfect appearance when rendered at a height of 11 pixel (or multiples thereof).
+The glyphs are designed with a pixel art aesthetic, heavily aligned to a pixel grid but with some flourishes for character. Pixel-perfect appearance when rendered at a height of 10 pixel (or multiples thereof).
 
 The small ascender height and heavy weight give a dense, compact feel. This is enhanced by the peculiarity of majuscules with diacritics being compressed to fit the diacritic within the ascender space.
 
@@ -43,16 +43,16 @@ SVGs are prepared at 1 pixel = 1 unit
 * ascent: 900 units
 * descender: 200 units
 * overshoot: 0 units
-The top 100 units are always empty. During TTF and OTF generation from the FontForge SFD file height is set to 1100.
+The top 100 units are always empty. During TTF generation from the FontForge SFD file, height is set to 1000.
 
 Bearings are optimised for pixel-perfect rendering:
 * left bearing: 0 units
 * right bearing: 100 units
 And, kerning adjusts spacing in steps of 100 units.
 
-Diacritics are similarly positioned in steps of 100 units.
+Diacritics are similarly positioned in steps of 100 units. This can lead to them being off-centre.
 
-This is designed for rendering at 11 pixel height:
+This is designed for rendering at 10 pixel height:
 * line height: 10 pixel
 * baseline offset: 2 pixel
 * x height: 6 pixel

@@ -4,7 +4,7 @@ import sys
 from PIL import Image, ImageDraw, ImageFont
 
 fontpath = "OpenTTD-Sans.ttf"
-size = 11
+size = 10
 background = (131, 133, 133)
 background_shade = [(168, 168, 168), (98, 101, 98)]
 foreground = (252, 252, 252)
