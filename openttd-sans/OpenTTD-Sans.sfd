@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1702571817
+ModificationTime: 1702573927
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -923,22 +923,20 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 38
-Width: 240
+Width: 200
 VWidth: 1440
-Flags: W
+Flags: HWO
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: uni00A0
 Encoding: 160 160 39
-Width: 200
-Flags: W
+Width: 300
+VWidth: 1440
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 38 32 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: dotlessi
@@ -2414,7 +2412,7 @@ EndChar
 StartChar: nine
 Encoding: 57 57 94
 Width: 700
-Flags: HWO
+Flags: HW
 HStem: 0 21G<100 245> 0 21G<100 245> 300 100<150 411.976> 700 100<150 450>
 VStem: 0 200<450 650> 400 200<455.922 650>
 LayerCount: 2
