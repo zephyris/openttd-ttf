@@ -6,16 +6,16 @@ These typefaces have a pixel-perfect appearance when rendered a specific height 
 ## Faces
 ### OpenTTD Sans
 Heavy sans serif designed for use for dense medium-sized text.
-Designed for use at 11 pixel height.
+Designed for use at 10 pixel height.
 
-![OpenTTD Sans preview, 11px aliased](openttd-sans/OpenTTD-Sans-11px-aliased.png)
-![OpenTTD Sans preview, 44px anti-aliased](openttd-sans/OpenTTD-Sans-44px-anti-aliased.png)
+![OpenTTD Sans preview, 10px aliased](openttd-sans/OpenTTD-Sans-10px-aliased.png)
+![OpenTTD Sans preview, 40px anti-aliased](openttd-sans/OpenTTD-Sans-40px-anti-aliased.png)
 
 Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A` and `Currency Symbols`.
 
 ### OpenTTD Serif
 Light serif designed for use in sparse large text.
-Designed for use at 19 pixel height.
+Designed for use at 18 pixel height.
 
 _TODO_
 
@@ -23,7 +23,11 @@ _TODO_
 Specialised very small size font for use in small text.
 Designed for use at 6 pixel height.
 
-_TODO_
+![OpenTTD Sans preview, 6px aliased](openttd-small/OpenTTD-Small-6px-aliased.png)
+![OpenTTD Sans preview, 24px anti-aliased](openttd-small/OpenTTD-Small-24px-anti-aliased.png)
+
+Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A`.
+_TODO: `Currency Symbols`_
 
 ## Building
 Run `build.sh` to build the output TTF files. Requires `FontForge` and `Python`. `Python` requires `PIL`.
