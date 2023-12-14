@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Ensure bash and python files have lf end of line
+*.sh text eol=lf
+*.py text eol=lf
