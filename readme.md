@@ -28,8 +28,6 @@ Designed for use at 18 pixel height.
 
 Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A` and `Currency Symbols`.
 
-_TODO_
-
 ### OpenTTD Small
 Specialised very small size typeface for use in small text.
 Designed for use at 6 pixel height.
