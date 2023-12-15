@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1200"
-   height="1200"
-   viewBox="0 0 1200 1200"
+   width="800"
+   height="800"
+   viewBox="0 0 800 800"
    version="1.1"
    id="svg1"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.1116667"
-     inkscape:cx="418.29085"
-     inkscape:cy="772.71364"
-     inkscape:window-width="3840"
-     inkscape:window-height="2066"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
+     inkscape:zoom="1.1334165"
+     inkscape:cx="344.53354"
+     inkscape:cy="334.38723"
+     inkscape:window-width="1918"
+     inkscape:window-height="2054"
+     inkscape:window-x="-10"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showguides="false"><inkscape:grid
        id="grid1"
@@ -53,6 +53,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><path
-       id="path2-8"
-       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke-width:0.999873"
-       d="M 1150,400 C 975.00027,400.18455 900,525.00013 900,625 v 150 425 h 200 V 996.26172 c 15.6781,2.40167 32.3023,3.73828 50,3.73828 199.9998,0 250,-125.00008 250,-200 V 600 c 0,-74.9999 -75.0002,-200 -250,-200 z m 25,100 c 44.0823,0 75,25.0001 75,100 v 200 c 0,74.61403 -34.7341,100 -75,100 -49.9999,0 -75,-50.00008 -75,-125 v -75 -75 c 0,-74.9999 25.0001,-125 75,-125 z M 400,400 150,900 H 650 Z M 0,1000 V 850 L 325,200 h 150 l 325,650 v 150 z" /></g></svg>
+       id="path34741"
+       style="fill:#000000;fill-opacity:0.555319;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 125 100 C 125 100 0 375.00013 0 500 L 0 600 L 100 600 L 200 600 L 300 600 L 300 500 C 300 375.00013 175 100 175 100 L 125 100 z M 150 300 C 174.99998 324.99998 200 450.00005 200 500 L 100 500 C 100 454.94419 119.96166 328.07421 150 300 z " /><path
+       id="path352-3-2-9"
+       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke:none;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 550 200 C 475.00029 200 400 300.00007 400 375 L 400 400 L 400 425 L 400 700 L 500 700 L 500 586.06836 C 516.09176 594.84909 533.04118 600 550 600 C 624.99971 600 700 495.5472 700 425 L 700 375 C 700 300.00007 624.99971 200 550 200 z M 550 300 C 574.99992 300 600 325.00008 600 350 L 600 450 C 600 474.99992 574.99992 500 550 500 C 525.00008 500 500 474.99992 500 450 L 500 400 L 500 350 C 500 325.00008 525.00008 300 550 300 z " /></g></svg>

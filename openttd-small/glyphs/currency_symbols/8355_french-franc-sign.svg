@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1200"
-   height="1200"
-   viewBox="0 0 1200 1200"
+   width="800"
+   height="800"
+   viewBox="0 0 800 800"
    version="1.1"
    id="svg1"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.1116667"
-     inkscape:cx="135.38231"
-     inkscape:cy="484.85757"
-     inkscape:window-width="3840"
-     inkscape:window-height="2066"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
+     inkscape:zoom="1.602893"
+     inkscape:cx="291.66014"
+     inkscape:cy="408.3242"
+     inkscape:window-width="1918"
+     inkscape:window-height="2054"
+     inkscape:window-x="-10"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showguides="false"><inkscape:grid
        id="grid1"
@@ -53,6 +53,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><path
-       id="rect365"
-       style="opacity:0.504444;fill:#000000;fill-opacity:0.56;stroke-width:4;stroke-linecap:square;paint-order:stroke markers fill"
-       d="M 100 200 L 100 700 L 0 700 L 0 800 L 100 800 L 100 1000 L 300 1000 L 300 800 L 500 800 L 500 700 L 300 700 L 300 600 L 600 600 L 600 500 L 300 500 L 300 300 L 700 300 L 700 200 L 100 200 z " /></g></svg>
+       id="rect18442"
+       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke:none;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.5;stop-color:#000000"
+       d="M 100 100 L 100 400 L 0 400 L 0 500 L 100 500 L 100 600 L 200 600 L 200 500 L 300 500 L 300 400 L 200 400 L 200 325 L 325 325 L 325 250 L 200 250 L 200 175 L 400 175 L 400 100 L 100 100 z " /></g></svg>

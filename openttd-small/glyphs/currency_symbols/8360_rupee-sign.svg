@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1200"
-   height="1200"
-   viewBox="0 0 1200 1200"
+   width="800"
+   height="800"
+   viewBox="0 0 800 800"
    version="1.1"
    id="svg1"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="8360_rupeea-sign.svg"
+   sodipodi:docname="8360_rupee-sign.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.1116667"
-     inkscape:cx="202.3988"
-     inkscape:cy="484.85757"
-     inkscape:window-width="3840"
-     inkscape:window-height="2066"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
+     inkscape:zoom="1.1334165"
+     inkscape:cx="353.35642"
+     inkscape:cy="334.38723"
+     inkscape:window-width="1918"
+     inkscape:window-height="2054"
+     inkscape:window-x="-10"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showguides="false"><inkscape:grid
        id="grid1"
@@ -53,11 +53,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><path
-       id="path2-8"
-       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke-width:0.999873"
-       d="m 0,200 v 799.99995 h 199.99999 v -300 h 75 l 300,300 h 125 v -75 l -225,-225 c 119.3979,-2.9464 225,-134.417 225,-225 v -50 c 0,-99.99985 -75.0002,-224.99997 -250,-224.99995 h -250 z M 199.99999,599.99995 V 300 h 200 c 48.2848,0 100,50.00007 100,124.99995 v 50 c 0,75 -50,125 -100,125 z"
-       sodipodi:nodetypes="cccccccccsssccccssscc" /><path
-       id="path2-1"
-       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke-width:0.999873"
-       d="M 1050,1000 C 875,1000 800,900 800,825 h 150 c 0,50 55.9177,75 100,75 50,0 75,-25 75,-50 0,-124.99998 -325,-149.99998 -325,-299.99998 0,-75 100,-150 250,-150 175,0 250,100 250,175 h -150 c 0,-50 -55.9177,-75 -100,-75 -50,0 -75,25 -75,50 0,125 328.8164,147.06977 325,299.99998 -1.7564,70.3786 -100,150 -250,150 z"
-       sodipodi:nodetypes="cccssscccsssc" /></g></svg>
+       id="path9691-5"
+       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 200,300 c 75.12844,102.61333 100,150 100,300 H 200 c 0,-75 0,-150 -50,-200 l -25,-25 z"
+       sodipodi:nodetypes="cccc" /><path
+       id="path352-3-3"
+       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke:none;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 600,275 h 100 c 0,-50 -50,-75 -150,-75 -74.99993,0 -150,50.00007 -150,125 0,50 25,100 75,100 h 75 c 24.99997,0 50,25.00002 50,50 0,24.99998 -25.00003,50 -50,50 H 500 400 c 0,50 53.82515,73.23542 150,75 74.98731,1.37584 150,-50.00008 150,-125 0,-50 -25,-125 -75,-125 h -75 c -24.99998,0 -50,-2e-5 -50,-25 0,-24.99998 25.00002,-50 50,-50 z"
+       sodipodi:nodetypes="ccssssscccssssscc" /><path
+       id="path352-3-7"
+       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke:none;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,0 V 150 250 600 H 100 V 400 h 50 c 74.99972,0 150,-75.00028 150,-150 V 150 C 300,75.00029 224.99972,0 150,0 h -50 z m 100,100 h 50 c 24.99992,0 50,25.00008 50,50 v 100 c 0,24.99992 -25.00008,50 -50,50 H 100 V 250 150 Z"
+       sodipodi:nodetypes="ccccccsssscccsssscccc" /><path
+       id="path9691-5-7"
+       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0 0 L 0 150 L 0 250 L 0 600 L 100 600 L 100 400 L 150 400 C 199.99995 449.99995 200 525.00008 200 600 L 300 600 C 300 483.60277 284.89619 428.93541 243.08203 362.36328 C 276.68062 333.54775 300 291.79168 300 250 L 300 150 C 300 75.000365 224.99965 0 150 0 L 100 0 L 0 0 z M 100 100 L 150 100 C 174.9999 100 200 125.0001 200 150 L 200 250 C 200 274.9999 174.9999 300 150 300 L 100 300 L 100 250 L 100 150 L 100 100 z " /></g></svg>

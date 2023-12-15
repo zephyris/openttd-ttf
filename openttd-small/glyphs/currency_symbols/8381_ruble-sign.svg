@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1200"
-   height="1200"
-   viewBox="0 0 1200 1200"
+   width="800"
+   height="800"
+   viewBox="0 0 800 800"
    version="1.1"
    id="svg1"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="1.1116667"
-     inkscape:cx="329.68515"
-     inkscape:cy="556.82157"
-     inkscape:window-width="3840"
-     inkscape:window-height="2066"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
+     inkscape:zoom="1.1534679"
+     inkscape:cx="382.7588"
+     inkscape:cy="537.943"
+     inkscape:window-width="1918"
+     inkscape:window-height="2054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showguides="false"><inkscape:grid
        id="grid1"
@@ -53,6 +53,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><path
-       id="rect73600"
-       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke-width:5.2915;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4.5;stroke-opacity:0.56;stop-color:#000000"
-       d="M 100 200 L 100 600 L 0 600 L 0 700 L 100 700 L 100 800 L 0 800 L 0 900 L 100 900 L 100 1000 L 300 1000 L 300 900 L 700 900 L 700 800 L 300 800 L 300 700 L 550 700 C 724.99973 700 800 574.99985 800 475 L 800 425 C 800 325.0002 724.99973 199.99998 550 200 L 300 200 L 100 200 z M 300 300 L 500 300 C 548.28475 300 600 350.00014 600 425 L 600 475 C 600 549.99987 549.99995 600 500 600 L 300 600 L 300 300 z " /></g></svg>
+       id="path352-3-2-3"
+       style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke:none;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 100 0 L 100 200 L 0 200 L 0 300 L 100 300 L 100 400 L 0 400 L 0 500 L 100 500 L 100 600 L 200 600 L 200 500 L 300 500 L 300 400 L 200 400 L 200 300 C 324.99963 300 400 274.99963 400 150 C 400 25.000375 324.99963 0 200 0 L 100 0 z M 200 100 L 225 100 C 274.99985 100 300 100.00005 300 150 C 300 199.99995 274.99985 200 225 200 L 200 200 L 200 100 z " /></g></svg>
