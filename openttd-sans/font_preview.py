@@ -27,7 +27,7 @@ fontmodes = [{
 
 for scale in scales:
     for fontmode in fontmodes:
-        image = Image.new("RGB", (400 * scale, int(8.5 * line * scale)), background_shade[1])
+        image = Image.new("RGB", (430 * scale, int(8.5 * line * scale)), background_shade[1])
         draw = ImageDraw.Draw(image)
         draw.rectangle((0, 0, image.size[0] - scale - 1, image.size[1] - scale - 1), fill=background_shade[0], outline=None)
         draw.rectangle((0 + scale, 0 + scale, image.size[0] - scale - 1, image.size[1] - scale - 1), fill=background, outline=None)
@@ -35,11 +35,11 @@ for scale in scales:
             draw.fontmode = fontmode["mode"]
         font = ImageFont.truetype(fontpath, size * scale)
         shadowtext(draw, scale, (3, 2 + line * 0), "OpenTTD Sans", font, (252, 176, 48), shadow)
-        shadowtext(draw, scale, (3, 2 + line * 1), "A pixel art-style font for OᴘᴇɴTTD, inspired by Transport Tycoon Deluxe.", font, foreground, shadow)
-        shadowtext(draw, scale, (3, 2 + line * 2), "Numerics: 0123456789 ½¾¾ 6×7=42 95%", font, foreground, shadow)
+        shadowtext(draw, scale, (3, 2 + line * 1), "A pixel art-style typeface for OᴘᴇɴTTD, inspired by Transport Tycoon Deluxe.", font, foreground, shadow)
+        shadowtext(draw, scale, (3, 2 + line * 2), "Numerics: 0123456789 ⁰¹²³⁴ ½¾¾ 6×7=42 95%", font, foreground, shadow)
         shadowtext(draw, scale, (3, 2 + line * 3), "Upper case: ABCDEFGHIJKLMNOPQRSTUVWXYZ", font, foreground, shadow)
         shadowtext(draw, scale, (3, 2 + line * 4), "Lower case: abcdefghijklmnopqrstuvwxyz", font, foreground, shadow)
-        shadowtext(draw, scale, (3, 2 + line * 5), "Symbols: !\"#$%@()*+,-./;/<=>?[\]^_{|}~¡¤¦§¨©ª«¬­®", font, foreground, shadow)
-        shadowtext(draw, scale, (3, 2 + line * 6), "Diacritics: ÀÁÂÃÄÅĀĂĄÆāàáâãäåăąæ", font, foreground, shadow)
-        shadowtext(draw, scale, (3, 2 + line * 7), "Currencies: $£¥₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿", font, foreground, shadow)
+        shadowtext(draw, scale, (3, 2 + line * 5), "Symbols: !\"#$%@()*+,-.;/<=>?[\]^_{|}~¡¤¦§©ª«¬­®", font, foreground, shadow)
+        shadowtext(draw, scale, (3, 2 + line * 6), "Diacritics: ÀÁÂÃÄÅĀĂĄÆāàáâãäåăąæ ÇçÈèÍíÐðÑñÔôÜüÞþŊŋ", font, foreground, shadow)
+        shadowtext(draw, scale, (3, 2 + line * 7), "Currencies: $£¥¢₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿", font, foreground, shadow)
         image.save("OpenTTD-Sans-" + str(scale * size) + "px-" + fontmode["description"] + ".png", "PNG")

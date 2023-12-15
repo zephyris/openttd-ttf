@@ -8,7 +8,10 @@ These typefaces have a pixel-perfect appearance when rendered a specific height 
 Heavy sans serif designed for use for dense medium-sized text.
 Designed for use at 10 pixel height.
 
+[OpenTTD-Sans.ttf](openttd-sans/OpenTTD-Sans.ttf)
+
 ![OpenTTD Sans preview, 10px aliased](openttd-sans/OpenTTD-Sans-10px-aliased.png)
+
 ![OpenTTD Sans preview, 40px anti-aliased](openttd-sans/OpenTTD-Sans-40px-anti-aliased.png)
 
 Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A` and `Currency Symbols`.
@@ -17,14 +20,26 @@ Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A` and `C
 Light serif designed for use in sparse large text.
 Designed for use at 18 pixel height.
 
+[OpenTTD-Serif.ttf](openttd-serif/OpenTTD-Serif.ttf)
+
+![OpenTTD Serif preview, 18px aliased](openttd-serif/OpenTTD-Serif-18px-aliased.png)
+
+![OpenTTD Serif preview, 72px anti-aliased](openttd-serif/OpenTTD-Serif-72px-anti-aliased.png)
+
+Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A`.
+_TODO: `Currency Symbols`_
+
 _TODO_
 
 ### OpenTTD Small
-Specialised very small size font for use in small text.
+Specialised very small size typeface for use in small text.
 Designed for use at 6 pixel height.
 
-![OpenTTD Sans preview, 6px aliased](openttd-small/OpenTTD-Small-6px-aliased.png)
-![OpenTTD Sans preview, 24px anti-aliased](openttd-small/OpenTTD-Small-24px-anti-aliased.png)
+[OpenTTD-Small.ttf](openttd-small/OpenTTD-Small.ttf)
+
+![OpenTTD Small preview, 6px aliased](openttd-small/OpenTTD-Small-6px-aliased.png)
+
+![OpenTTD Small preview, 24px anti-aliased](openttd-small/OpenTTD-Small-24px-anti-aliased.png)
 
 Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A`.
 _TODO: `Currency Symbols`_

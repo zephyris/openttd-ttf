@@ -19,7 +19,7 @@ Partial coverage:
 * Combining Diacritical Marks (`U+0300–U+036F`)
 These ranges provide glyphs which are combined to build the full coverage core set.
 
-Plus a few additional glyphs - stray small caps and glyps of particular use in OpenTTD.
+Plus a few additional glyphs - stray small caps and glyphs of particular use in OpenTTD.
 
 ## Features
 OpenTTD Sans is designed with the creation of standalone bitmap strikes in mind, for example for generation of an image/sprite-based font.

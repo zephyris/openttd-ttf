@@ -6,8 +6,8 @@ from PIL import Image, ImageDraw, ImageFont
 fontpath = "OpenTTD-Small.ttf"
 size = 6
 line = size + 1
-background = (131, 133, 133)
-background_shade = [(168, 168, 168), (98, 101, 98)]
+background = (152, 132, 92)
+background_shade = [(212, 188, 148), (104, 80, 44)]
 foreground = (16, 16, 16)
 shadow = (16, 16, 16)
 
@@ -35,11 +35,11 @@ for scale in scales:
             draw.fontmode = fontmode["mode"]
         font = ImageFont.truetype(fontpath, size * scale)
         shadowtext(draw, scale, (3, 2 + line * 0), "OpenTTD Small", font, (252, 176, 48), None)
-        shadowtext(draw, scale, (3, 2 + line * 1), "A pixel art-style font for OᴘᴇɴTTD, inspired by Transport Tycoon Deluxe.", font, foreground, None)
-        shadowtext(draw, scale, (3, 2 + line * 2), "Numerics: 0123456789 ½¾¾ 6×7=42 95%", font, foreground, None)
+        shadowtext(draw, scale, (3, 2 + line * 1), "A pixel art-style typeface for OᴘᴇɴTTD, inspired by Transport Tycoon Deluxe.", font, foreground, None)
+        shadowtext(draw, scale, (3, 2 + line * 2), "Numerics: 0123456789 ⁰¹²³⁴ ½¾¾ 6×7=42 95%", font, foreground, None)
         shadowtext(draw, scale, (3, 2 + line * 3), "Upper case: ABCDEFGHIJKLMNOPQRSTUVWXYZ", font, foreground, None)
         shadowtext(draw, scale, (3, 2 + line * 4), "Lower case: abcdefghijklmnopqrstuvwxyz", font, foreground, None)
-        shadowtext(draw, scale, (3, 2 + line * 5), "Symbols: !\"#$%@()*+,-./;/<=>?[\]^_{|}~¡¤¦§¨©ª«¬­®", font, foreground, None)
-        shadowtext(draw, scale, (3, 2 + line * 6), "Diacritics: ÀÁÂÃÄÅĀĂĄÆāàáâãäåăąæ", font, foreground, None)
+        shadowtext(draw, scale, (3, 2 + line * 5), "Symbols: !\"#$%@()*+,-./;<=>?[\]^_{|}~¡¤¦§©ª«¬­®", font, foreground, None)
+        shadowtext(draw, scale, (3, 2 + line * 6), "Diacritics: ÀÁÂÃÄÅĀĂĄÆāàáâãäåăąæ ÇçÈèÍíÐðÑñÔôÜüÞþŊŋ", font, foreground, None)
         shadowtext(draw, scale, (3, 2 + line * 7), "Currencies: $£¥¢₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿", font, foreground, None)
         image.save("OpenTTD-Small-" + str(scale * size) + "px-" + fontmode["description"] + ".png", "PNG")
