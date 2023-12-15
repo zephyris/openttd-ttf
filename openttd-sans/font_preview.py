@@ -41,5 +41,5 @@ for scale in scales:
         shadowtext(draw, scale, (3, 2 + line * 4), "Lower case: abcdefghijklmnopqrstuvwxyz", font, foreground, shadow)
         shadowtext(draw, scale, (3, 2 + line * 5), "Symbols: !\"#$%@()*+,-.;/<=>?[\]^_{|}~¡¤¦§©ª«¬­®", font, foreground, shadow)
         shadowtext(draw, scale, (3, 2 + line * 6), "Diacritics: ÀÁÂÃÄÅĀĂĄÆāàáâãäåăąæ ÇçÈèÍíÐðÑñÔôÜüÞþŊŋ", font, foreground, shadow)
-        shadowtext(draw, scale, (3, 2 + line * 7), "Currencies: $£¥¢₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿", font, foreground, shadow)
+        shadowtext(draw, scale, (3, 2 + line * 7), "Currencies: $£¥¢֏฿₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿", font, foreground, shadow)
         image.save("OpenTTD-Sans-" + str(scale * size) + "px-" + fontmode["description"] + ".png", "PNG")

@@ -26,8 +26,7 @@ Designed for use at 18 pixel height.
 
 ![OpenTTD Serif preview, 72px anti-aliased](openttd-serif/OpenTTD-Serif-72px-anti-aliased.png)
 
-Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A`.
-_TODO: `Currency Symbols`_
+Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A` and `Currency Symbols`.
 
 _TODO_
 
