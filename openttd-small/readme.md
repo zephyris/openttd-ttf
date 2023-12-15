@@ -10,7 +10,7 @@ Full coverage:
 * Basic Latin (`U+0000..U+007F`)
 * Latin-1 Supplement (`U+0080..U+00FF`)
 * Latin Extended-A (`U+0100..U+017F`)
-* [TODO: Currency Symbols (`U+20A0..U+20CF`)]
+* Currency Symbols (`U+20A0..U+20CF`)
 
 Partial coverage:
 * IPA Extensions (`U+0250–U+02AF`)

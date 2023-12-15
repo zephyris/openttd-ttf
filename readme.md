@@ -38,8 +38,7 @@ Designed for use at 6 pixel height.
 
 ![OpenTTD Small preview, 24px anti-aliased](openttd-small/OpenTTD-Small-24px-anti-aliased.png)
 
-Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A`.
-_TODO: `Currency Symbols`_
+Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A`, `Currency Symbols`.
 
 ## Using in OpenTTD
 1. Download the typeface (font) TTF files. For each link, download the TTF file by clicking on "View raw": [OpenTTD-Sans.ttf](openttd-sans/OpenTTD-Sans.ttf), [OpenTTD-Serif.ttf](openttd-serif/OpenTTD-Serif.ttf) and [OpenTTD-Small.ttf](openttd-small/OpenTTD-Small.ttf).
