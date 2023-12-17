@@ -14,6 +14,9 @@ Full coverage:
 * Latin Extended-A (`U+0100..U+017F`)
 * Currency Symbols (`U+20A0..U+20CF`)
 
+Targeted coverage:
+* Greek and Coptic (`U+0384..U+03D7`) [contempary Greek only `U+0370..U+03FF`]
+
 Partial coverage:
 * IPA Extensions (`U+0250–U+02AF`)
 * Combining Diacritical Marks (`U+0300–U+036F`)

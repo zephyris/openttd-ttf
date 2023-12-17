@@ -12,6 +12,9 @@ Full coverage:
 * Latin Extended-A (`U+0100..U+017F`)
 * Currency Symbols (`U+20A0..U+20CF`)
 
+Targeted coverage:
+* Greek and Coptic (`U+0384..U+03D7`) [contempary Greek only `U+0370..U+03FF`]
+
 Partial coverage:
 * IPA Extensions (`U+0250–U+02AF`)
 * Combining Diacritical Marks (`U+0300–U+036F`)
@@ -34,9 +37,13 @@ SVGs are prepared at 1 pixel = 1 unit
 * x height: 400 units
 * ascender: 100 units
 * ascent: 600 units
-* descender: 200 units
+* descender: 100 units
 * overshoot: 0 units
 The top and bottom 100 units are always empty. During TTF generation from the FontForge SFD file, height is set to 600 and descent to 0.
+
+Glyphs are almost always, unless necessary for uniqueness:
+* width: 300 units
+* height: 500 units
 
 Bearings are optimised for pixel-perfect rendering:
 * left bearing: 0 units
