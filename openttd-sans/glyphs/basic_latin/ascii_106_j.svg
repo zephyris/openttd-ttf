@@ -7,7 +7,7 @@
    viewBox="0 0 1200 1200"
    version="1.1"
    id="svg1"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="ascii_106_j.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.78606705"
-     inkscape:cx="431.897"
-     inkscape:cy="368.92527"
+     inkscape:cx="242.98182"
+     inkscape:cy="369.56135"
      inkscape:window-width="1350"
      inkscape:window-height="1230"
      inkscape:window-x="1722"
@@ -62,11 +62,12 @@
        style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke-width:0.999873"
        d="m 200,400 v 600 c 0,74.9998 -25.03643,98.093 -75,100 -66.662733,2.5443 -125,-25 -125,-25 v 100 c 0,0 50.44322,25 150,25 174.99982,0 250,-100.0003 250,-200 V 400 Z"
        sodipodi:nodetypes="cssccsscc" />
-    <circle
-       style="fill:#000000;fill-opacity:0.56;fill-rule:evenodd;stroke-width:8;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4.5;stop-color:#000000"
+    <ellipse
+       style="fill:#000000;fill-opacity:0.56;fill-rule:evenodd;stroke-width:6.9282;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4.5;stop-color:#000000"
        id="path39584"
        cx="300"
-       cy="225"
-       r="100" />
+       cy="250"
+       rx="100"
+       ry="75" />
   </g>
 </svg>

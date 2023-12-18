@@ -7,7 +7,7 @@
    viewBox="0 0 1200 1200"
    version="1.1"
    id="svg1"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="7434_J-smallcaps.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,12 +25,12 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.78606705"
-     inkscape:cx="231.53241"
-     inkscape:cy="510.1346"
-     inkscape:window-width="1649"
+     inkscape:cx="43.889386"
+     inkscape:cy="513.31499"
+     inkscape:window-width="1731"
      inkscape:window-height="1416"
-     inkscape:window-x="56"
-     inkscape:window-y="210"
+     inkscape:window-x="1424"
+     inkscape:window-y="94"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showguides="false"><inkscape:grid
@@ -53,7 +53,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><path
-       id="path2-8-6"
+       id="path2-8-6-7"
        style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke-width:0.999873"
-       d="m 200,400 v 100 h 200 v 275 c 0,74.9998 -25.00007,125 -100,125 -74.99993,0 -100,-50.0002 -100,-125 H 4e-6 c 0,99.99975 50.00025,225 299.999996,225 249.99975,0 300,-125.00025 300,-225 V 400 Z"
-       sodipodi:nodetypes="cccssccsscc" /></g></svg>
+       d="m 200,400 v 100 h 100 v 300 c 0,74.9998 -25,100 -50,100 -25,0 -50,-25.0002 -50,-100 H 0 C 0,899.99975 55.975119,997.45569 250,999.99999 444.02488,1002.5443 500,899.99975 500,800 V 400 Z"
+       sodipodi:nodetypes="cccszcczscc" /></g></svg>
