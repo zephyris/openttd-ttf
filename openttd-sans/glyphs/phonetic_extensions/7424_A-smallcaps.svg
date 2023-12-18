@@ -7,7 +7,7 @@
    viewBox="0 0 1200 1200"
    version="1.1"
    id="svg1"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="7424_A-smallcaps.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,12 +25,12 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.78606705"
-     inkscape:cx="301.501"
-     inkscape:cy="477.05854"
+     inkscape:cx="113.85797"
+     inkscape:cy="477.69462"
      inkscape:window-width="1649"
-     inkscape:window-height="1566"
+     inkscape:window-height="1440"
      inkscape:window-x="1272"
-     inkscape:window-y="62"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showguides="false"><inkscape:grid
@@ -55,5 +55,5 @@
      id="layer1"><path
        id="path357"
        style="fill:#000000;fill-opacity:0.56;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 200,700 c 0,-100 100,-175 150,-225 50,50 150,125 150,225 z M 0,1000 H 200 V 800 h 300 v 200 H 700 V 700 C 700,549.81259 500,425 450,375 H 250 C 200,425 0,550 0,700 Z"
+       d="m 200,700 c 0,-50 100,-150 150,-200 50,50 150,150 150,200 z M 0,1000 H 200 V 800 h 300 v 200 H 700 V 700 C 700,625 500,450 450,400 H 250 C 200,450 0,623.34193 0,700 Z"
        sodipodi:nodetypes="ccccccccccsccsc" /></g></svg>

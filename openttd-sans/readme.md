@@ -42,7 +42,7 @@ SVGs are prepared at 1 pixel = 1 unit
 * height: 1200 units
 * baseline offset: 200 units
 * x height: 600 units
-* ascender: 200 units
+* ascender: 100 units
 * ascent: 900 units
 * descender: 200 units
 * overshoot: 0 units
@@ -59,11 +59,11 @@ This is designed for rendering at 10 pixel height:
 * line height: 10 pixel
 * baseline offset: 2 pixel
 * x height: 6 pixel
-* ascender: 2 pixel
+* ascender: 1 pixel
 * ascent: 9 pixel
 * descender: 2 pixel
 
-The recommended line height of 10 pixel is smaller than the glyph height of up to 11 pixel. It is intended for diacritics to overflow out of the top of the 10 pixel line height.
+Diacritics are highly compressed to fit within the 10 pixel height.
 
 ### Building
 Run `build.sh` to build the output TTD and OTF files.

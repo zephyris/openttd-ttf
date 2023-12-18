@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="172_redistered-sign.svg"
+   sodipodi:docname="174_registered-sign.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.55583334"
-     inkscape:cx="673.76311"
-     inkscape:cy="679.16041"
+     inkscape:cx="406.5967"
+     inkscape:cy="680.95951"
      inkscape:window-width="1350"
      inkscape:window-height="1230"
      inkscape:window-x="1722"
@@ -58,9 +58,9 @@
        transform="translate(100,300)"><path
          id="path2-8-0"
          style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke-width:1.1179"
-         d="m 500,675 c 125,0 300,-187.5 300,-343.75 v -62.5 C 800,112.5 624.99348,-73.40422 500,-75 H 400 C 275,-75 100,112.5 100,268.75 v 62.5 C 100,487.5 275.00652,673.40422 400,675 Z M 400,800 C 175,800 -100,581.25 -100,331.25 v -62.5 C -100,18.75 175,-200 400,-200 h 100 c 225,0 500,218.75 500,468.75 v 62.5 C 1000,581.25 725,800 500,800 Z"
+         d="m 500,775 c 125,0 300,-187.5 300,-343.75 v -62.5 C 800,212.5 624.99348,26.59578 500,25 H 400 C 275,25 100,212.5 100,368.75 v 62.5 C 100,587.5 275.00652,773.40422 400,775 Z M 400,900 C 175,900 -100,681.25 -100,431.25 v -62.5 C -100,118.75 175,-100 400,-100 h 100 c 225,0 500,218.75 500,468.75 v 62.5 C 1000,681.25 725,900 500,900 Z"
          sodipodi:nodetypes="ssscssscssssssssss" /><path
          id="path2-8"
          style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke-width:0.999873"
-         d="M 675,525 525,375 c 50,0 175,-50 175,-175 0,-1.49308 -0.0214,-2.97902 -0.0639,-4.45779 C 696.41661,73.219006 629.16782,-1.7991004 400,0 H 250 V 600 H 400 V 450 L 575,625 Z M 400,300 V 100 h 75 c 48.28475,0 75,50 75,100 0,50 -25.00005,100 -75,100 z"
+         d="M 675,625 525,475 c 50,0 175,-50 175,-175 0,-1.49308 -0.0214,-2.97902 -0.0639,-4.45779 C 696.41661,173.21901 629.16782,98.2009 400,100 H 250 V 700 H 400 V 550 L 575,725 Z M 400,400 V 200 h 75 c 48.28475,0 75,50 75,100 0,50 -25.00005,100 -75,100 z"
          sodipodi:nodetypes="ccsscccccccccsscc" /></g></g></svg>

@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.78606705"
-     inkscape:cx="171.74107"
-     inkscape:cy="307.2257"
+     inkscape:zoom="1.1116667"
+     inkscape:cx="152.92354"
+     inkscape:cy="285.60719"
      inkscape:window-width="1350"
      inkscape:window-height="1230"
      inkscape:window-x="1214"
@@ -57,17 +57,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="fill:#000000;fill-opacity:0.56;fill-rule:evenodd;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4.5;stop-color:#000000"
+    <path
        id="path39582"
-       cx="75"
-       cy="250"
-       r="75" />
-    <circle
        style="fill:#000000;fill-opacity:0.56;fill-rule:evenodd;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4.5;stop-color:#000000"
-       id="path39584"
-       cx="325"
-       cy="250"
-       r="75" />
+       d="m 50,200 c -18.462144,0 -50,4.28932 -50,50 0,45.71068 33.578644,75 75,75 41.42136,0 75,-29.28932 75,-75 0,-45.71068 -31.54998,-50 -50,-50 z"
+       sodipodi:nodetypes="szszss" />
+    <path
+       id="path39582-2"
+       style="fill:#000000;fill-opacity:0.56;fill-rule:evenodd;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4.5;stop-color:#000000"
+       d="m 300,200 c -18.46214,0 -50,4.28932 -50,50 0,45.71068 33.57864,75 75,75 41.42136,0 75,-29.28932 75,-75 0,-45.71068 -31.54998,-50 -50,-50 z"
+       sodipodi:nodetypes="szszss" />
   </g>
 </svg>
