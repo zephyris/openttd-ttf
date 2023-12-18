@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1702846755
+ModificationTime: 1702909683
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 812 29 11
+WinInfo: 145 29 11
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65536 519
@@ -5394,13 +5394,13 @@ StartChar: Eogonek
 Encoding: 280 280 259
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<163.905 250> -25 25<250 300> 0 100<100 300> 175 75<100 225> 325 75<100 300>
 VStem: 0 100<100 175 250 325> 150 100<-63.6858 -25.2342>
 LayerCount: 2
 Fore
-Refer: 256 808 S 1 0 0 1 200 0 2
-Refer: 198 7431 N 1 0 0 1 0 0 2
+Refer: 51 69 S 1 0 0 1 0 0 2
+Refer: 256 808 N 1 0 0 1 200 0 2
 EndChar
 
 StartChar: eogonek
@@ -6830,14 +6830,14 @@ EndChar
 
 StartChar: Scedilla
 Encoding: 350 350 345
-Width: 560
+Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<150 236.095> -25 25<100 150> 0 100<101.345 185.483> 200 100<115.13 184.87> 400 100<114.517 198.48>
 VStem: 0 100<104.586 125 314.517 385.483> 150 100<-63.6858 -25.2342> 200 100<114.517 185.483 375 395.414>
 LayerCount: 2
 Fore
-Refer: 133 184 S 1 0 0 1 100 0 2
+Refer: 133 184 N 1 0 0 1 100 0 2
 Refer: 63 83 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6903,13 +6903,13 @@ StartChar: uni0156
 Encoding: 342 342 349
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 75<125 175> 0 21G<0 100 0 100 205 300 205 300> 300 100<100 159.87>
 VStem: 0 100<0 100 200 300> 175 100<213.943 285.483>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 100 0 2
-Refer: 347 640 N 1 0 0 1 0 0 2
+Refer: 62 82 S 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 100 0 2
 EndChar
 
 StartChar: Racute
@@ -6998,13 +6998,13 @@ StartChar: uni0122
 Encoding: 290 290 355
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 75<125 175> 0 75<115.13 200> 300 100<114.517 198.655>
 VStem: 0 100<91.7702 284.87> 175 125<125 200> 200 100<75 125 275 295.414>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 100 0 2
-Refer: 351 610 N 1 0 0 1 0 0 2
+Refer: 53 71 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 100 0 2
 EndChar
 
 StartChar: uni029C

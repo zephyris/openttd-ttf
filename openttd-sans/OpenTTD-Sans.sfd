@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1702903483
+ModificationTime: 1702915717
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -44,24 +44,37 @@ HheadDOffset: 1
 OS2CapHeight: 800
 OS2XHeight: 600
 OS2Vendor: 'PfEd'
-Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [180,0,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "Greek Kern" { "Greek Kern" [100,0,6] } ['????' ('copt' <'dflt' > 'grek' <'dflt' > ) ]
+Lookup: 258 0 0 "Latin Kern" { "Latin Kern" [100,0,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 7+ 7 "'kern' Horizontal Kerning in Latin lookup 0-1"
+KernClass2: 5+ 5 "Greek Kern"
  0 
- 1 T
- 7 F V W Y
- 1 f
- 1 t
- 41 a b c d e h i k l m n o p r s u v w x y z
- 41 A B C D E G H I J K L M N O P Q R S U X Z
- 33 a c d e g m n o q r s u v w x y z
- 1 f
- 1 t
- 1 j
- 5 V W Y
- 1 T
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} -100 {} -100 {} -200 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} -200 {} 0 {} 0 {} 0 {} -100 {} -100 {} 0 {} -200 {} 0 {} 0 {} 0 {} 0 {} -100 {} -100 {} -200 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} -200 {} 0 {} 0 {}
+ 9 Gamma Tau
+ 37 Upsilontonos Upsilon Upsilon1 uni03D3
+ 193 alphatonos epsilontonos etatonos alpha gamma epsilon eta iota kappa uni03BC nu omicron pi rho sigma1 sigma tau upsilon phi chi psi omega omicrontonos upsilontonos omegatonos phi1 omega1 uni03D7
+ 38 Alphatonos Alpha uni0394 Lambda lambda
+ 44 Epsilontonos Etatonos Iotatonos Omicrontonos
+ 41 Upsilontonos Tau Upsilon Upsilon1 uni03D3
+ 199 alphatonos epsilontonos etatonos alpha gamma delta epsilon eta iota kappa uni03BC nu omicron pi rho sigma1 sigma tau upsilon phi chi psi omega omicrontonos upsilontonos omegatonos phi1 omega1 uni03D7
+ 20 Alpha uni0394 Lambda
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -300 {} 0 {} 0 {} 0 {} -100 {} -200 {} 0 {} -100 {} -100 {} 0 {} 0 {} 0 {} -200 {} -300 {} 0 {} 0 {}
+KernClass2: 8+ 7 "Latin Kern"
+ 0 
+ 17 T uni0162 uni021A
+ 27 F V W Y Wcircumflex uni0191
+ 96 f Icircumflex icircumflex Itilde itilde Imacron imacron Ibreve ibreve lcaron tcaron longs florin
+ 9 t uni0163
+ 360 a b c e g h k m n o p r s u v w x y z agrave ae egrave ograve oslash ugrave thorn cdotaccent edotaccent eogonek gdotaccent dotlessi uni0137 kgreenlandic uni0146 uni0157 scedilla wcircumflex zdotaccent uni01B6 uni0219 uni0259 uni0262 uni026A uni0274 uni0280 uni028F uni029C uni1D00 uni1D04 uni1D05 uni1D07 uni1D0A uni1D0F uni1D18 uni1D1B uni1D1C uni1D21 uni1D22
+ 1 q
+ 21 L Ldot Lslash uni029F
+ 261 a c d e g m n o p q r s u v w x y z aacute ae ccedilla eacute oacute oslash uacute aogonek cacute cdotaccent dcaron edotaccent eogonek gdotaccent uni0123 dotlessi kgreenlandic uni0146 eng oe uni0157 sacute scedilla uogonek wcircumflex zdotaccent uni01B6 uni0219
+ 17 f Eth Dcroat hbar
+ 24 t uni0163 tcaron uni021B
+ 8 j florin
+ 34 V W Y Yacute Wcircumflex Ydieresis
+ 17 T uni0162 uni021A
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} -200 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} -200 {} 0 {} 0 {} 0 {} -100 {} -100 {} 0 {} -200 {} 0 {} 0 {} 0 {} 0 {} -100 {} 100 {} -200 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -200 {} -200 {} 0 {}
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "OpenTTD Sans" "Bold" "" "" "" "OpenTTD Sans" "Bold"
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -69,10 +82,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 29 11
+WinInfo: 174 29 11
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 510
+BeginChars: 65536 508
 
 StartChar: a
 Encoding: 97 97 0
@@ -579,8 +592,8 @@ EndChar
 
 StartChar: t
 Encoding: 116 116 19
-Width: 475
-Flags: W
+Width: 500
+Flags: HW
 HStem: 0 100<218.353 374.976> 500 100<200 300>
 VStem: 0 200<117.85 500 600 700>
 LayerCount: 2
@@ -3720,7 +3733,7 @@ HStem: 0 21G<0 200 0 200 500 700 500 700> 200 100<200 500> 580 20G<225 475> 625 
 VStem: 0 200<0 200 300 356.837> 500 200<0 200 300 356.195>
 LayerCount: 2
 Fore
-Refer: 508 732 S 1 0 0 1 100 0 2
+Refer: 506 732 S 1 0 0 1 100 0 2
 Refer: 192 7424 N 1 0 0 1 0 0 2
 EndChar
 
@@ -3938,7 +3951,7 @@ HStem: 0 21G<0 200 0 200 500 700 500 700> 580 20G<0 170 500 700> 625 75<395.403 
 VStem: 0 200<0 350> 500 200<0 50 250 600>
 LayerCount: 2
 Fore
-Refer: 508 732 S 1 0 0 1 100 0 2
+Refer: 506 732 S 1 0 0 1 100 0 2
 Refer: 237 628 N 1 0 0 1 0 0 2
 EndChar
 
@@ -3988,7 +4001,7 @@ HStem: 0 100<294.254 505.746> 500 100<289.442 510.558> 625 75<395.403 450> 700 7
 VStem: 0 200<190.317 409.832> 600 200<190.317 409.832>
 LayerCount: 2
 Fore
-Refer: 508 732 S 1 0 0 1 100 0 2
+Refer: 506 732 S 1 0 0 1 100 0 2
 Refer: 241 7439 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4201,7 +4214,7 @@ HStem: 0 100<203.562 296.27> 300 100<226.593 300> 500 100<50.0366 301.431> 625 7
 VStem: 0 200<105.469 274.097> 300 200<102.885 300> 400 100<0 100>
 LayerCount: 2
 Fore
-Refer: 508 732 S 1 0 0 1 0 0 2
+Refer: 506 732 S 1 0 0 1 0 0 2
 Refer: 0 97 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4399,7 +4412,7 @@ HStem: 0 21G<0 200 0 200 300 500 300 500> 500 100.053<200 258.13> 625 75<295.403
 VStem: 0 200<0 500> 300 200<0 456.989>
 LayerCount: 2
 Fore
-Refer: 508 732 S 1 0 0 1 0 0 2
+Refer: 506 732 S 1 0 0 1 0 0 2
 Refer: 13 110 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4411,7 +4424,7 @@ HStem: 0 100<210.804 285.767> 500 100<201.732 298.268> 625 75<295.403 350> 700 7
 VStem: 0 175<133.252 475.18> 325 175<138.506 475.18>
 LayerCount: 2
 Fore
-Refer: 508 732 S 1 0 0 1 0 0 2
+Refer: 506 732 S 1 0 0 1 0 0 2
 Refer: 15 111 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4874,7 +4887,7 @@ HStem: 0 100<241.87 300> 500 100<241.87 300> 500 300 780 20G<300 500>
 VStem: 0 200<142.832 456.989> 300 200<100 500 600.053 800> 650 150<587.5 725>
 LayerCount: 2
 Fore
-Refer: 509 700 S 1 0 0 1 600 0 2
+Refer: 507 700 S 1 0 0 1 600 0 2
 Refer: 2 100 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4995,7 +5008,7 @@ HStem: 0 21G<100 300 100 300> 580 20G<100 300> 625 75<295.403 350> 700 75<150 20
 VStem: 100 200<0 600>
 LayerCount: 2
 Fore
-Refer: 508 732 S 1 0 0 1 0 0 2
+Refer: 506 732 S 1 0 0 1 0 0 2
 Refer: 40 305 N 1 0 0 1 100 0 2
 EndChar
 
@@ -5049,7 +5062,7 @@ HStem: 0 21G<100 300 100 300> 580 20G<100 300> 625 75<295.403 350> 700 75<150 20
 VStem: 100 200<0 600>
 LayerCount: 2
 Fore
-Refer: 508 732 S 1 0 0 1 0 0 2
+Refer: 506 732 S 1 0 0 1 0 0 2
 Refer: 226 618 N 1 0 0 1 100 0 2
 EndChar
 
@@ -5121,7 +5134,7 @@ HStem: 0 100<284.406 415.594> 580 20G<0 200 500 700> 625 75<395.403 450> 700 75<
 VStem: 0 200<206.488 600> 500 200<206.488 600>
 LayerCount: 2
 Fore
-Refer: 508 732 S 1 0 0 1 100 0 2
+Refer: 506 732 S 1 0 0 1 100 0 2
 Refer: 231 7452 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5286,7 +5299,7 @@ HStem: -200 75<500 600> -200 200<300 400> 0 100<203.562 296.27> 300 100<226.593 
 VStem: 0 200<105.469 274.097> 200 200<-109.46 -33.5107> 300 200<102.885 300> 400 100<0 100>
 LayerCount: 2
 Fore
-Refer: 507 731 S 1 0 0 1 200 0 2
+Refer: 505 731 S 1 0 0 1 200 0 2
 Refer: 0 97 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5298,7 +5311,7 @@ HStem: -200 75<700 800> -200 200<500 600> 0 21G<0 200 0 200 500 700 500 700> 200
 VStem: 0 200<0 200 300 527.918> 400 200<-109.46 -33.5107> 500 200<0 200 300 531.942>
 LayerCount: 2
 Fore
-Refer: 507 731 S 1 0 0 1 400 0 2
+Refer: 505 731 S 1 0 0 1 400 0 2
 Refer: 44 65 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5310,7 +5323,7 @@ HStem: -200 75<600 700> -200 200<400 500> 0 100<200 600> 300 100<200 500> 500 10
 VStem: 0 200<100 300 400 500> 300 200<-109.46 -33.5107>
 LayerCount: 2
 Fore
-Refer: 507 731 S 1 0 0 1 300 0 2
+Refer: 505 731 S 1 0 0 1 300 0 2
 Refer: 198 7431 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5322,7 +5335,7 @@ HStem: -200 75<400 500> -200 200<200 300> 0 100<233.886 324.763> 300 100<200 350
 VStem: 0 200<133.252 300 400 476.173> 100 200<-109.46 -33.5107> 350 150<124.836 200 400 483.796>
 LayerCount: 2
 Fore
-Refer: 507 731 S 1 0 0 1 100 0 2
+Refer: 505 731 S 1 0 0 1 100 0 2
 Refer: 5 101 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5334,7 +5347,7 @@ HStem: -200 75<300 400> -200 200<100 200> 0 21G<100 300 100 300> 580 20G<100 300
 VStem: 0 200<-109.46 -33.5107> 100 200<0 600>
 LayerCount: 2
 Fore
-Refer: 507 731 S 1 0 0 1 0 0 2
+Refer: 505 731 S 1 0 0 1 0 0 2
 Refer: 226 618 N 1 0 0 1 100 0 2
 EndChar
 
@@ -5346,7 +5359,7 @@ HStem: -200 75<300 400> -200 200<100 200> 0 21G<100 300 100 300> 580 20G<100 300
 VStem: 0 200<-109.46 -33.5107> 100 200<0 600 699.572 800.428>
 LayerCount: 2
 Fore
-Refer: 507 731 S 1 0 0 1 0 0 2
+Refer: 505 731 S 1 0 0 1 0 0 2
 Refer: 9 105 N 1 0 0 1 100 0 2
 EndChar
 
@@ -5534,8 +5547,8 @@ EndChar
 
 StartChar: uni0163
 Encoding: 355 355 260
-Width: 475
-Flags: W
+Width: 500
+Flags: HW
 HStem: -200 75<0 100> -200 200<200 300> 0 100<218.353 374.976> 500 100<200 300>
 VStem: 0 200<117.85 500 600 700> 200 200<-109.46 -33.5107>
 LayerCount: 2
@@ -6173,7 +6186,7 @@ HStem: 0 100<200 600> 500 300 780 20G<0 200>
 VStem: 0 200<100 800> 350 150<587.5 725>
 LayerCount: 2
 Fore
-Refer: 509 700 S 1 0 0 1 300 0 2
+Refer: 507 700 S 1 0 0 1 300 0 2
 Refer: 58 76 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6185,7 +6198,7 @@ HStem: 0 21G<0 200 0 200> 500 300 780 20G<0 200>
 VStem: 0 200<0 800> 350 150<587.5 725>
 LayerCount: 2
 Fore
-Refer: 509 700 S 1 0 0 1 300 0 2
+Refer: 507 700 S 1 0 0 1 300 0 2
 Refer: 12 108 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6325,12 +6338,12 @@ EndChar
 StartChar: tcaron
 Encoding: 357 357 304
 Width: 700
-Flags: W
+Flags: HW
 HStem: 0 100<218.353 374.976> 500 100<200 300> 500 300
 VStem: 0 200<117.85 500 600 700> 450 150<587.5 725>
 LayerCount: 2
 Fore
-Refer: 509 700 S 1 0 0 1 400 0 2
+Refer: 507 700 S 1 0 0 1 400 0 2
 Refer: 19 116 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6342,7 +6355,7 @@ HStem: 0 100<210.804 285.767> 580 20G<0 175 325 500> 625 75<295.403 350> 700 75<
 VStem: 0 175<133.252 600> 325 175<138.506 600>
 LayerCount: 2
 Fore
-Refer: 508 732 S 1 0 0 1 0 0 2
+Refer: 506 732 S 1 0 0 1 0 0 2
 Refer: 21 117 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6373,12 +6386,12 @@ EndChar
 StartChar: uring
 Encoding: 367 367 308
 Width: 600
-Flags: W
+Flags: HW
 HStem: 0 100<210.804 285.767> 525 83.333<206.372 293.771> 580 20G<0 175 325 500> 700 100<206.372 293.484>
 VStem: 0 175<133.252 600> 100 100<614.985 692.36> 300 100<616.13 691.306> 325 175<138.506 600>
 LayerCount: 2
 Fore
-Refer: 409 730 S 1 0 0 1 100 0 2
+Refer: 409 730 N 1 0 0 1 100 0 2
 Refer: 21 117 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6390,7 +6403,7 @@ HStem: -200 75<400 500> -200 200<200 300> 0 100<210.804 285.767> 580 20G<0 175 3
 VStem: 0 175<133.252 600> 100 200<-109.46 -33.5107> 325 175<138.506 600>
 LayerCount: 2
 Fore
-Refer: 507 731 S 1 0 0 1 100 0 2
+Refer: 505 731 S 1 0 0 1 100 0 2
 Refer: 21 117 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6402,7 +6415,7 @@ HStem: -200 75<500 600> -200 200<300 400> 0 100<284.406 415.594> 780 20G<0 200 5
 VStem: 0 200<206.488 800> 200 200<-109.46 -33.5107> 500 200<206.488 800>
 LayerCount: 2
 Fore
-Refer: 507 731 S 1 0 0 1 200 0 2
+Refer: 505 731 S 1 0 0 1 200 0 2
 Refer: 64 85 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6635,9 +6648,9 @@ EndChar
 StartChar: uniA731
 Encoding: 42801 42801 327
 Width: 700
-Flags: HW
-HStem: 0 100<229.74 367.742> 600 100<232.258 370.26>
-VStem: 0 200<127.262 200 435.264 570.845> 400 200<129.223 264.736 500 572.738>
+Flags: W
+HStem: 0 100<213.574 367.742> 500 100<232.258 386.426>
+VStem: 0 200<113.615 150 368.121 470.845> 400 200<129.223 235.376 450 485.401>
 LayerCount: 2
 Fore
 SplineSet
@@ -8944,8 +8957,8 @@ EndChar
 
 StartChar: uni021B
 Encoding: 539 539 417
-Width: 475
-Flags: W
+Width: 500
+Flags: HW
 HStem: -200 50<125 147.956> 0 100<218.353 374.976> 500 100<200 300>
 VStem: 0 200<117.85 500 600 700> 100 200<-117.399 -43.3415>
 LayerCount: 2
@@ -11005,29 +11018,8 @@ Refer: 117 168 S 1 0 0 1 100 0 2
 Refer: 500 978 N 1 0 0 0.8 0 0 2
 EndChar
 
-StartChar: uni03EB
-Encoding: 1003 1003 505
-Width: 1000
-Flags: W
-HStem: 0 100<200 700> 780 20G<365 535>
-LayerCount: 2
-Fore
-Refer: 451 916 N 1 0 0 1 0 0 2
-EndChar
-
-StartChar: uni03EC
-Encoding: 1004 1004 506
-Width: 600
-Flags: W
-HStem: 0 100<206.917 285.767> 500 100<201.732 298.268>
-VStem: 0 175<-200 8.63867 132.699 475.18> 325 175<138.506 475.18>
-LayerCount: 2
-Fore
-Refer: 458 961 N 1 0 0 1 0 0 2
-EndChar
-
 StartChar: ogonek
-Encoding: 731 731 507
+Encoding: 731 731 505
 Width: 400
 Flags: W
 HStem: -200 200<100 200> -200 75<300 400>
@@ -11049,7 +11041,7 @@ EndSplineSet
 EndChar
 
 StartChar: tilde
-Encoding: 732 732 508
+Encoding: 732 732 506
 Width: 500
 Flags: HW
 HStem: 625 75<295.403 350> 700 75<150 204.597>
@@ -11071,7 +11063,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni02BC
-Encoding: 700 700 509
+Encoding: 700 700 507
 Width: 200
 Flags: W
 HStem: 500 300
