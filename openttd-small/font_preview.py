@@ -3,7 +3,8 @@
 import sys
 from PIL import Image, ImageDraw, ImageFont
 
-fontpath = "OpenTTD-Small.ttf"
+fontname = sys.argv[1]
+fontpath = fontname + ".ttf"
 size = 6
 line = size + 1
 background = (152, 132, 92)
@@ -34,7 +35,7 @@ for scale in scales:
         if fontmode["mode"] is not None:
             draw.fontmode = fontmode["mode"]
         font = ImageFont.truetype(fontpath, size * scale)
-        shadowtext(draw, scale, (3, 2 + line * 0), "OpenTTD Small", font, (252, 176, 48), None)
+        shadowtext(draw, scale, (3, 2 + line * 0), fontname.replace("-", " "), font, (252, 176, 48), None)
         shadowtext(draw, scale, (3, 2 + line * 1), "A pixel art-style typeface for OᴘᴇɴTTD, inspired by Transport Tycoon Deluxe.", font, foreground, None)
         shadowtext(draw, scale, (3, 2 + line * 2), "Numerics: 0123456789 ⁰¹²³⁴ ½¾¾ 6×7=42 95%", font, foreground, None)
         shadowtext(draw, scale, (3, 2 + line * 3), "Upper case: ABCDEFGHIJKLMNOPQRSTUVWXYZ", font, foreground, None)
@@ -43,4 +44,4 @@ for scale in scales:
         shadowtext(draw, scale, (3, 2 + line * 6), "Diacritics: ÀÁÂÃÄÅĀĂĄÆāàáâãäåăąæ ÇçÈèÍíÐðÑñÔôÜüÞþŊŋ", font, foreground, None)
         shadowtext(draw, scale, (3, 2 + line * 7), "Currencies: $£¥¢֏฿₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿", font, foreground, None)
         shadowtext(draw, scale, (3, 2 + line * 8), "Greek: ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ αβγδεζηθικλμνξοπρςστυφχψω", font, foreground, None)
-        image.save("OpenTTD-Small-" + str(scale * size) + "px-" + fontmode["description"] + ".png", "PNG")
+        image.save(fontname + "-" + str(scale * size) + "px-" + fontmode["description"] + ".png", "PNG")
