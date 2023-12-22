@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1703066246
+ModificationTime: 1703109383
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -74,7 +74,7 @@ KernClass2: 8+ 7 "Latin Kern"
  8 j florin
  34 V W Y Yacute Wcircumflex Ydieresis
  17 T uni0162 uni021A
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} -200 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} -200 {} 0 {} 0 {} 0 {} -100 {} -100 {} 0 {} -200 {} 0 {} 0 {} 0 {} 0 {} -100 {} 100 {} -200 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -200 {} -200 {} 0 {}
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} -200 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} -200 {} 0 {} 0 {} 0 {} -100 {} -100 {} 0 {} -200 {} 0 {} 0 {} 0 {} -100 {} -100 {} -100 {} -200 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -200 {} -200 {} 0 {}
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "OpenTTD Sans" "Bold" "" "" "" "OpenTTD Sans" "Bold"
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -593,7 +593,7 @@ EndChar
 StartChar: t
 Encoding: 116 116 19
 Width: 500
-Flags: HW
+Flags: W
 HStem: 0 100<218.353 374.976> 500 100<200 300>
 VStem: 0 200<117.85 500 600 700>
 LayerCount: 2
@@ -11261,62 +11261,62 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-750 600 m 2
- 800 600 l 1
- 775 400 l 1
- 900 400 l 2
- 975 400 1075 525 1100 550 c 0
- 1125 575 1150 600 1175 600 c 2
- 1200 600 l 1
- 1200 300 l 1
- 1050 200 l 2
- 975 150 900 100 850 100 c 2
- 775 100 l 1
- 800 -200 l 1
- 750 -200 l 2
- 700 -200 675 -150 650 -125 c 2
- 425 100 l 1
- 100 100 l 2
- 50 100 0 150 0 200 c 0
- 0 300 100 400 200 400 c 2
- 525 400 l 1
- 675 550 l 2
- 700 575 738.5859375 600 750 600 c 2
-150 325 m 0
- 125 325 100 300 100 275 c 2
- 100 250 l 2
- 100 225 125 200 150 200 c 0
- 175 200 200 225 200 250 c 2
- 200 275 l 2
- 200 300 175 325 150 325 c 0
-350 325 m 0
- 325 325 300 300 300 275 c 2
- 300 250 l 2
- 300 225 325 200 350 200 c 0
- 375 200 400 225 400 250 c 2
- 400 275 l 2
- 400 300 375 325 350 325 c 0
-550 325 m 0
- 525 325 500 300 500 275 c 2
- 500 250 l 2
- 500 225 525 200 550 200 c 0
- 575 200 600 225 600 250 c 2
- 600 275 l 2
- 600 300 575 325 550 325 c 0
-750 325 m 0
- 725 325 700 300 700 275 c 2
- 700 250 l 2
- 700 225 725 200 750 200 c 0
- 775 200 800 225 800 250 c 2
- 800 275 l 2
- 800 300 775 325 750 325 c 0
-950 325 m 0
- 925 325 900 300 900 275 c 2
- 900 250 l 2
- 900 225 925 200 950 200 c 0
- 975 200 1000 225 1000 250 c 2
- 1000 275 l 2
- 1000 300 975 325 950 325 c 0
+750 700 m 6
+ 800 700 l 5
+ 775 500 l 5
+ 900 500 l 6
+ 975 500 1075 625 1100 650 c 4
+ 1125 675 1150 700 1175 700 c 6
+ 1200 700 l 5
+ 1200 400 l 5
+ 1050 300 l 6
+ 975 250 900 200 850 200 c 6
+ 775 200 l 5
+ 800 -100 l 5
+ 750 -100 l 6
+ 700 -100 675 -50 650 -25 c 6
+ 425 200 l 5
+ 100 200 l 6
+ 50 200 0 250 0 300 c 4
+ 0 400 100 500 200 500 c 6
+ 525 500 l 5
+ 675 650 l 6
+ 700 675 738.5859375 700 750 700 c 6
+150 425 m 4
+ 125 425 100 400 100 375 c 6
+ 100 350 l 6
+ 100 325 125 300 150 300 c 4
+ 175 300 200 325 200 350 c 6
+ 200 375 l 6
+ 200 400 175 425 150 425 c 4
+350 425 m 4
+ 325 425 300 400 300 375 c 6
+ 300 350 l 6
+ 300 325 325 300 350 300 c 4
+ 375 300 400 325 400 350 c 6
+ 400 375 l 6
+ 400 400 375 425 350 425 c 4
+550 425 m 4
+ 525 425 500 400 500 375 c 6
+ 500 350 l 6
+ 500 325 525 300 550 300 c 4
+ 575 300 600 325 600 350 c 6
+ 600 375 l 6
+ 600 400 575 425 550 425 c 4
+750 425 m 4
+ 725 425 700 400 700 375 c 6
+ 700 350 l 6
+ 700 325 725 300 750 300 c 4
+ 775 300 800 325 800 350 c 6
+ 800 375 l 6
+ 800 400 775 425 750 425 c 4
+950 425 m 4
+ 925 425 900 400 900 375 c 6
+ 900 350 l 6
+ 900 325 925 300 950 300 c 4
+ 975 300 1000 325 1000 350 c 6
+ 1000 375 l 6
+ 1000 400 975 425 950 425 c 4
 EndSplineSet
 EndChar
 
@@ -11327,59 +11327,59 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-350 800 m 0
- 375 800 400 775 400 750 c 2
- 400 450 l 1
- 500 450 l 1
- 600 400 l 1
- 725 400 l 1
- 675 600 l 1
+350 700 m 0
+ 375 700 400 675 400 650 c 2
+ 400 350 l 1
+ 500 350 l 1
+ 600 300 l 1
+ 725 300 l 1
+ 675 500 l 1
+ 800 500 l 1
  800 600 l 1
- 800 700 l 1
- 900 700 l 1
  900 600 l 1
- 1100 600 l 1
- 1100 400 l 1
- 1200 400 l 1
- 1200 300 l 1
- 1100 100 l 1
- 300 100 l 2
- 250 100 200 150 100 250 c 0
- 50 300 0 350 0 400 c 2
- 0 450 l 1
- 300 450 l 1
- 300 475 l 1
- 125 650 l 2
- 100 675 75 700 100 725 c 0
- 125 750 150 750 175 725 c 2
- 300 600 l 1
- 300 750 l 2
- 300 775 325 800 350 800 c 0
-775 500 m 1
- 800 400 l 1
- 900 400 l 1
  900 500 l 1
- 775 500 l 1
-125 400 m 0
- 111.202148438 400 100 388.797851562 100 375 c 0
- 100 361.202148438 111.202148438 350 125 350 c 0
- 138.797851562 350 150 361.202148438 150 375 c 0
- 150 388.797851562 138.797851562 400 125 400 c 0
-225 400 m 0
- 211.202148438 400 200 388.797851562 200 375 c 0
- 200 361.202148438 211.202148438 350 225 350 c 0
- 238.797851562 350 250 361.202148438 250 375 c 0
- 250 388.797851562 238.797851562 400 225 400 c 0
-325 400 m 0
- 311.202148438 400 300 388.797851562 300 375 c 0
- 300 361.202148438 311.202148438 350 325 350 c 0
- 338.797851562 350 350 361.202148438 350 375 c 0
- 350 388.797851562 338.797851562 400 325 400 c 0
-425 400 m 0
- 411.202148438 400 400 388.797851562 400 375 c 0
- 400 361.202148438 411.202148438 350 425 350 c 0
- 438.797851562 350 450 361.202148438 450 375 c 0
- 450 388.797851562 438.797851562 400 425 400 c 0
+ 1100 500 l 1
+ 1100 300 l 1
+ 1200 300 l 1
+ 1200 200 l 1
+ 1100 0 l 1
+ 300 0 l 2
+ 250 0 200 50 100 150 c 0
+ 50 200 0 250 0 300 c 2
+ 0 350 l 1
+ 300 350 l 1
+ 300 375 l 1
+ 125 550 l 2
+ 100 575 75 600 100 625 c 0
+ 125 650 150 650 175 625 c 2
+ 300 500 l 1
+ 300 650 l 2
+ 300 675 325 700 350 700 c 0
+775 400 m 1
+ 800 300 l 1
+ 900 300 l 1
+ 900 400 l 1
+ 775 400 l 1
+125 300 m 0
+ 111.202148438 300 100 288.797851562 100 275 c 0
+ 100 261.202148438 111.202148438 250 125 250 c 0
+ 138.797851562 250 150 261.202148438 150 275 c 0
+ 150 288.797851562 138.797851562 300 125 300 c 0
+225 300 m 0
+ 211.202148438 300 200 288.797851562 200 275 c 0
+ 200 261.202148438 211.202148438 250 225 250 c 0
+ 238.797851562 250 250 261.202148438 250 275 c 0
+ 250 288.797851562 238.797851562 300 225 300 c 0
+325 300 m 0
+ 311.202148438 300 300 288.797851562 300 275 c 0
+ 300 261.202148438 311.202148438 250 325 250 c 0
+ 338.797851562 250 350 261.202148438 350 275 c 0
+ 350 288.797851562 338.797851562 300 325 300 c 0
+425 300 m 0
+ 411.202148438 300 400 288.797851562 400 275 c 0
+ 400 261.202148438 411.202148438 250 425 250 c 0
+ 438.797851562 250 450 261.202148438 450 275 c 0
+ 450 288.797851562 438.797851562 300 425 300 c 0
 EndSplineSet
 EndChar
 
@@ -11436,7 +11436,7 @@ EndChar
 StartChar: uniE2AC
 Encoding: 58028 58028 517
 Width: 800
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
