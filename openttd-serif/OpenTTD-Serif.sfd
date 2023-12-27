@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1703257159
+ModificationTime: 1703715308
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -69,10 +69,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 992 32 8
+WinInfo: 640 32 8
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 630
+BeginChars: 65536 631
 
 StartChar: a
 Encoding: 97 97 0
@@ -5193,7 +5193,7 @@ StartChar: dcaron
 Encoding: 271 271 213
 Width: 1800
 VWidth: 1000
-Flags: W
+Flags: HW
 HStem: 0 100<561.456 889.95 1300 1500> 900 100<558.509 889.951> 900 510<1410 1550> 1300 100<800 1000>
 VStem: 100 300<286.94 717.505> 1000 300<200 800 900 1300> 1500 200<1085.49 1180>
 LayerCount: 2
@@ -6996,7 +6996,7 @@ HStem: 900 510<110 250>
 VStem: 200 200<1085.49 1180>
 LayerCount: 2
 Fore
-Refer: 76 39 S 1 0 0 1 0 0 2
+Refer: 630 700 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ohungarumlaut
@@ -7016,7 +7016,7 @@ StartChar: Lcaron
 Encoding: 317 317 307
 Width: 1600
 VWidth: 1200
-Flags: W
+Flags: HW
 HStem: 0 100<100 300 600 1133.59> 900 510<1010 1150> 1300 100<100 300 600 900>
 VStem: 300 300<100 1300> 1100 200<1085.49 1180>
 LayerCount: 2
@@ -7029,7 +7029,7 @@ StartChar: lcaron
 Encoding: 318 318 308
 Width: 1100
 VWidth: 1200
-Flags: W
+Flags: HW
 HStem: 0 100<100 300 600 800> 900 510<710 850> 1300 100<100 300>
 VStem: 300 300<100 1300> 800 200<1085.49 1180>
 LayerCount: 2
@@ -7185,7 +7185,7 @@ StartChar: tcaron
 Encoding: 357 357 320
 Width: 1400
 VWidth: 1200
-Flags: W
+Flags: HW
 HStem: 0 100<620.816 822.863> 900 510<1010 1150> 900.15 99.8496<100 300 600 900>
 VStem: 300 300<118.816 900 1000 1050> 1100 200<1085.49 1180>
 LayerCount: 2
@@ -15994,6 +15994,18 @@ Fore
 Refer: 129 180 S 1 0 0 1 800 -200 2
 Refer: 129 180 S 1 0 0 1 400 -200 2
 Refer: 590 1091 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni02BC
+Encoding: 700 700 630
+Width: 500
+VWidth: 1200
+Flags: W
+HStem: 900 510<110 250>
+VStem: 200 200<1085.49 1180>
+LayerCount: 2
+Fore
+Refer: 76 39 S 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

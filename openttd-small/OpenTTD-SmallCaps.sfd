@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1703712602
+ModificationTime: 1703715777
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -53,10 +53,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 960 32 8
+WinInfo: 640 32 8
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 625
+BeginChars: 65536 628
 
 StartChar: a
 Encoding: 97 97 0
@@ -503,7 +503,7 @@ StartChar: acircumflex
 Encoding: 226 226 35
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<120.671 200> 300 100<120.671 200> 425 175
 VStem: 0 100<120.671 279.329> 200 100<100 300>
 LayerCount: 2
@@ -515,7 +515,7 @@ StartChar: ocircumflex
 Encoding: 244 244 36
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 300 100<114.517 185.483> 425 175
 VStem: 0 100<116.016 283.984> 200 100<114.199 283.984>
 LayerCount: 2
@@ -527,7 +527,7 @@ StartChar: ucircumflex
 Encoding: 251 251 37
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 380 20G<0 100 200 300> 425 175
 VStem: 0 100<115.13 400> 200 100<115.13 400>
 LayerCount: 2
@@ -557,7 +557,7 @@ StartChar: dotlessi
 Encoding: 305 305 40
 Width: 200
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100> 0 21G<0 100>
 VStem: 0 100<0 300>
 LayerCount: 2
@@ -593,7 +593,7 @@ StartChar: icircumflex
 Encoding: 238 238 43
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<100 200 100 200> 425 175
 VStem: 100 100<0 300>
 LayerCount: 2
@@ -3080,7 +3080,7 @@ StartChar: Acircumflex
 Encoding: 194 194 143
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 200 300 200 300> 100 100<100 200> 380 20G<75 225> 425 175
 VStem: 0 100<0 100 200 261.681> 200 100<0 100 200 258.971>
 LayerCount: 2
@@ -3093,7 +3093,7 @@ StartChar: Atilde
 Encoding: 195 195 144
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 200 300 200 300> 100 100<100 200> 380 20G<75 225> 400 100<249.029 297.674> 500 100<102.325 152.131>
 VStem: 0 100<0 100 200 261.681> 200 100<0 100 200 258.971>
 LayerCount: 2
@@ -3119,7 +3119,7 @@ StartChar: Aring
 Encoding: 197 197 146
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 200 300 200 300> 100 100<100 200> 350.004 74.9961<113.95 185.757> 380 20G<75 225> 525 74.9961<113.95 184.249>
 VStem: 0 100<0 100 200 261.681> 25.0078 74.9922<439.581 510.419> 200 75<441.145 509.736> 200 100<0 100 200 258.971>
 LayerCount: 2
@@ -3209,7 +3209,7 @@ StartChar: Ecircumflex
 Encoding: 202 202 151
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<100 300> 175 75<100 225> 325 75<100 300> 425 175
 VStem: 0 100<100 175 250 325>
 LayerCount: 2
@@ -3261,7 +3261,7 @@ StartChar: Icircumflex
 Encoding: 206 206 155
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<100 200 100 200> 380 20G<100 200> 425 175
 VStem: 100 100<0 400>
 LayerCount: 2
@@ -3323,7 +3323,7 @@ StartChar: Ntilde
 Encoding: 209 209 158
 Width: 500
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 300 400 300 400> 380 20G<0 70 300 400> 400 100<249.029 297.674> 500 100<102.325 152.131>
 VStem: 0 100<0 225> 300 100<0 25 150 400>
 LayerCount: 2
@@ -3362,7 +3362,7 @@ StartChar: Ocircumflex
 Encoding: 212 212 161
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 300 100<114.517 185.483> 425 175
 VStem: 0 100<115.13 284.87> 200 100<115.13 284.87>
 LayerCount: 2
@@ -3375,7 +3375,7 @@ StartChar: Otilde
 Encoding: 213 213 162
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 300 100<114.517 185.483> 400 100<249.029 297.674> 500 100<102.325 152.131>
 VStem: 0 100<115.13 284.87> 200 100<115.13 284.87>
 LayerCount: 2
@@ -3497,7 +3497,7 @@ StartChar: Ucircumflex
 Encoding: 219 219 168
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 380 20G<0 100 200 300> 425 175
 VStem: 0 100<115.13 400> 200 100<115.13 400>
 LayerCount: 2
@@ -3592,7 +3592,7 @@ StartChar: atilde
 Encoding: 227 227 173
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<120.671 200> 300 100<120.671 200> 400 100<249.029 297.674> 500 100<102.325 152.131>
 VStem: 0 100<120.671 279.329> 200 100<100 300>
 LayerCount: 2
@@ -3616,7 +3616,7 @@ StartChar: aring
 Encoding: 229 229 175
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<120.671 200> 300 100<120.671 200> 350.004 74.9961<113.95 185.757> 525 74.9961<113.95 184.249>
 VStem: 0 100<120.671 279.329> 25.0078 74.9922<439.581 510.419> 200 75<441.145 509.736> 200 100<100 300>
 LayerCount: 2
@@ -3677,7 +3677,7 @@ StartChar: ecircumflex
 Encoding: 234 234 180
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.982 204.747> 175 75<100 200> 325 75<114.517 185.493> 425 175
 VStem: 0 100<116.105 175 250 291.433> 200 100<250 300.166>
 LayerCount: 2
@@ -3725,7 +3725,7 @@ StartChar: ntilde
 Encoding: 241 241 184
 Width: 500
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 200 300 200 300> 300 100<100 179.329> 400 100<249.029 297.674> 500 100<102.325 152.131>
 VStem: 0 100<0 300> 200 100<0 279.329>
 LayerCount: 2
@@ -3737,7 +3737,7 @@ StartChar: otilde
 Encoding: 245 245 185
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 300 100<114.517 185.483> 400 100<249.029 297.674> 500 100<102.325 152.131>
 VStem: 0 100<116.016 283.984> 200 100<114.199 283.984>
 LayerCount: 2
@@ -4030,7 +4030,7 @@ StartChar: Ccircumflex
 Encoding: 264 264 201
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 198.655> 300 100<114.517 198.655> 425 175
 VStem: 0 100<115.13 284.87>
 LayerCount: 2
@@ -4043,7 +4043,7 @@ StartChar: Dcaron
 Encoding: 270 270 202
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<100 179.329> 300 100<100 179.329> 425 175
 VStem: 0 100<100 300> 200 100<120.671 279.329>
 LayerCount: 2
@@ -4069,7 +4069,7 @@ StartChar: Cdotaccent
 Encoding: 266 266 204
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 198.655> 300 100<114.517 198.655> 520 100<112.193 187.807>
 VStem: 0 100<115.13 284.87> 100 100<532.193 607.807>
 LayerCount: 2
@@ -4082,7 +4082,7 @@ StartChar: Ebreve
 Encoding: 276 276 205
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<100 300> 175 75<100 225> 325 75<100 300> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<100 175 250 325> 225 75<531.036 600>
 LayerCount: 2
@@ -4095,7 +4095,7 @@ StartChar: Edotaccent
 Encoding: 278 278 206
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<100 300> 175 75<100 225> 325 75<100 300> 520 100<112.193 187.807>
 VStem: 0 100<100 175 250 325> 100 100<532.193 607.807>
 LayerCount: 2
@@ -4108,7 +4108,7 @@ StartChar: Ecaron
 Encoding: 282 282 207
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<100 300> 175 75<100 225> 325 75<100 300> 425 175
 VStem: 0 100<100 175 250 325>
 LayerCount: 2
@@ -4121,7 +4121,7 @@ StartChar: Abreve
 Encoding: 258 258 208
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 200 300 200 300> 100 100<100 200> 380 20G<75 225> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<0 100 200 261.681> 200 100<0 100 200 258.971> 225 75<531.036 600>
 LayerCount: 2
@@ -4134,7 +4134,7 @@ StartChar: ccircumflex
 Encoding: 265 265 209
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 198.655> 300 100<114.517 198.655> 425 175
 VStem: 0 100<116.016 284.443>
 LayerCount: 2
@@ -4146,7 +4146,7 @@ StartChar: cdotaccent
 Encoding: 267 267 210
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 198.655> 300 100<114.517 198.655> 520 100<112.193 187.807>
 VStem: 0 100<116.016 284.443> 100 100<532.193 607.807>
 LayerCount: 2
@@ -4158,7 +4158,7 @@ StartChar: ccaron
 Encoding: 269 269 211
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 198.655> 300 100<114.517 198.655> 425 175
 VStem: 0 100<116.016 284.443>
 LayerCount: 2
@@ -4170,7 +4170,7 @@ StartChar: Ccaron
 Encoding: 268 268 212
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 198.655> 300 100<114.517 198.655> 425 175
 VStem: 0 100<115.13 284.87>
 LayerCount: 2
@@ -4183,7 +4183,7 @@ StartChar: dcaron
 Encoding: 271 271 213
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<120.671 200> 300 100<120.671 200> 350 150<425.869 450> 480 20G<200 300>
 VStem: 0 100<120.671 279.329> 200 100<100 300 400 500> 400 100<410.11 485.245>
 CounterMasks: 1 0e
@@ -4208,7 +4208,7 @@ StartChar: ebreve
 Encoding: 277 277 215
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.982 204.747> 175 75<100 200> 325 75<114.517 185.493> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<116.105 175 250 291.433> 200 100<250 300.166> 225 75<531.036 600>
 LayerCount: 2
@@ -4220,7 +4220,7 @@ StartChar: edotaccent
 Encoding: 279 279 216
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.982 204.747> 175 75<100 200> 325 75<114.517 185.493> 520 100<112.193 187.807>
 VStem: 0 100<116.105 175 250 291.433> 100 100<532.193 607.807> 200 100<250 300.166>
 LayerCount: 2
@@ -4232,7 +4232,7 @@ StartChar: ecaron
 Encoding: 283 283 217
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.982 204.747> 175 75<100 200> 325 75<114.517 185.493> 425 175
 VStem: 0 100<116.105 175 250 291.433> 200 100<250 300.166>
 LayerCount: 2
@@ -4244,7 +4244,7 @@ StartChar: abreve
 Encoding: 259 259 218
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<120.671 200> 300 100<120.671 200> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<120.671 279.329> 200 100<100 300> 225 75<531.036 600>
 LayerCount: 2
@@ -4256,7 +4256,7 @@ StartChar: gcircumflex
 Encoding: 285 285 219
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<25 184.87> 100 100<117.85 200> 300 100<117.85 200> 425 175
 VStem: 0 100<217.54 282.46> 200 100<17.8497 100 200 300>
 LayerCount: 2
@@ -4268,7 +4268,7 @@ StartChar: gbreve
 Encoding: 287 287 220
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<25 184.87> 100 100<117.85 200> 300 100<117.85 200> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<217.54 282.46> 200 100<17.8497 100 200 300> 225 75<531.036 600>
 LayerCount: 2
@@ -4280,7 +4280,7 @@ StartChar: gdotaccent
 Encoding: 289 289 221
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<25 184.87> 100 100<117.85 200> 300 100<117.85 200> 520 100<112.193 187.807>
 VStem: 0 100<217.54 282.46> 100 100<532.193 607.807> 200 100<17.8497 100 200 300>
 LayerCount: 2
@@ -4292,7 +4292,7 @@ StartChar: hcircumflex
 Encoding: 293 293 222
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 200 300 200 300> 300 100<100 179.329> 425 175 480 20G<0 100>
 VStem: 0 100<0 300 400 500> 200 100<0 279.329>
 LayerCount: 2
@@ -4304,7 +4304,7 @@ StartChar: itilde
 Encoding: 297 297 223
 Width: 320
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<100 200 100 200> 400 100<249.029 297.674> 500 100<102.325 152.131>
 VStem: 100 100<0 300>
 LayerCount: 2
@@ -4328,7 +4328,7 @@ StartChar: ibreve
 Encoding: 301 301 225
 Width: 300
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<100 200 100 200> 325 74.9941<106.066 194.081>
 VStem: 0 75<430.351 500> 100 100<0 300> 225 75<431.036 500>
 CounterMasks: 1 38
@@ -4391,7 +4391,7 @@ Flags: W
 HStem: 400 100<249.029 297.674> 500 100<102.325 152.131>
 LayerCount: 2
 Fore
-Refer: 109 126 N 1 0 0 1 0 300 2
+Refer: 627 732 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0304
@@ -4476,7 +4476,7 @@ StartChar: Itilde
 Encoding: 296 296 235
 Width: 320
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<100 200 100 200> 380 20G<100 200> 400 100<249.029 297.674> 500 100<102.325 152.131>
 VStem: 100 100<0 400>
 LayerCount: 2
@@ -4502,7 +4502,7 @@ StartChar: Ibreve
 Encoding: 300 300 237
 Width: 300
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<100 200 100 200> 380 20G<100 200> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 100 100<0 400> 225 75<531.036 600>
 CounterMasks: 1 1c
@@ -4516,7 +4516,7 @@ StartChar: Idotaccent
 Encoding: 304 304 238
 Width: 200
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100> 480 20G<0 100> 520 100<12.1926 87.8074>
 VStem: 0 100<0 500 532.193 607.807>
 LayerCount: 2
@@ -4553,7 +4553,7 @@ StartChar: Utilde
 Encoding: 360 360 240
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 380 20G<0 100 200 300> 400 100<249.029 297.674> 500 100<102.325 152.131>
 VStem: 0 100<115.13 400> 200 100<115.13 400>
 LayerCount: 2
@@ -4579,7 +4579,7 @@ StartChar: Ubreve
 Encoding: 364 364 242
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 380 20G<0 100 200 300> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<115.13 400> 200 100<115.13 400> 225 75<531.036 600>
 LayerCount: 2
@@ -4592,7 +4592,7 @@ StartChar: Uring
 Encoding: 366 366 243
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 350.004 74.9961<113.95 185.757> 380 20G<0 100 200 300> 525 74.9961<113.95 184.249>
 VStem: 0 100<115.13 400> 25.0078 74.9922<439.581 510.419> 200 75<441.145 509.736> 200 100<115.13 400>
 LayerCount: 2
@@ -4605,7 +4605,7 @@ StartChar: Uhungarumlaut
 Encoding: 368 368 244
 Width: 500
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 380 20G<0 100 200 300> 425 175
 VStem: 0 100<115.13 400> 0 200 200 100<115.13 400> 200 200
 LayerCount: 2
@@ -4814,29 +4814,19 @@ StartChar: uni0328
 Encoding: 808 808 256
 Width: 100
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<-36.0954 50> -25 25<50 100>
 VStem: -50 100<-63.6858 -25.2342>
 LayerCount: 2
 Fore
-SplineSet
-50 -25 m 1x60
- 50 -75 100 -75 100 -75 c 1
- 100 -100 l 1
- 100 -100 25 -100 0 -100 c 0
- -25 -100 -50 -75 -50 -50 c 0
- -50 -25 -25 0 0 0 c 0xa0
- 25 0 100 0 100 0 c 1
- 100 -25 l 1
- 50 -25 l 1x60
-EndSplineSet
+Refer: 626 731 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: aogonek
 Encoding: 261 261 257
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<163.905 250> -25 25<250 300> 0 100<120.671 200> 300 100<120.671 200>
 VStem: 0 100<120.671 279.329> 150 100<-63.6858 -25.2342> 200 100<100 300>
 LayerCount: 2
@@ -4848,7 +4838,7 @@ StartChar: Aogonek
 Encoding: 260 260 258
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<163.905 250> -25 25<250 300> 0 21G<0 100 0 100 200 300 200 300> 100 100<100 200> 480 20G<62.5 237.564>
 VStem: 0 100<0 100 200 347.713> 150 100<-63.6858 -25.2342> 200 100<0 100 200 346.906>
 LayerCount: 2
@@ -4886,7 +4876,7 @@ StartChar: Iogonek
 Encoding: 302 302 261
 Width: 200
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<-36.0954 50> -25 25<50 100> 0 21G<0 100 0 100> 480 20G<0 100>
 VStem: -50 100<-63.6858 -25.2342> 0 100<0 500>
 LayerCount: 2
@@ -4899,7 +4889,7 @@ StartChar: iogonek
 Encoding: 303 303 262
 Width: 200
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<-36.0954 50> -25 25<50 100> 0 21G<0 100 0 100> 400 100<12.1926 87.8074>
 VStem: -50 100<-63.6858 -25.2342> 0 100<0 300 412.193 487.807>
 LayerCount: 2
@@ -5034,7 +5024,7 @@ StartChar: rcaron
 Encoding: 345 345 272
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100> 300 100<115.13 300> 425 175
 VStem: 0 100<0 283.984>
 LayerCount: 2
@@ -5083,7 +5073,7 @@ StartChar: scircumflex
 Encoding: 349 349 276
 Width: 560
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 75<85.9888 184.866> 175 75<101.123 186.095> 325 75<115.13 219.104> 425 175
 VStem: 0 100<253.31 309.663> 200 100<90.2949 160.725>
 LayerCount: 2
@@ -5107,7 +5097,7 @@ StartChar: scaron
 Encoding: 353 353 278
 Width: 560
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 75<85.9888 184.866> 175 75<101.123 186.095> 325 75<115.13 219.104> 425 175
 VStem: 0 100<253.31 309.663> 200 100<90.2949 160.725>
 LayerCount: 2
@@ -5295,7 +5285,7 @@ StartChar: Jcircumflex
 Encoding: 308 308 287
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<0 84.8701> 380 20G<100 200> 425 175
 VStem: 100 100<115.13 400>
 LayerCount: 2
@@ -5355,7 +5345,7 @@ StartChar: jcircumflex
 Encoding: 309 309 291
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<0 84.8701> 325 175
 VStem: 100 100<17.8497 300>
 LayerCount: 2
@@ -5452,7 +5442,7 @@ StartChar: Ycircumflex
 Encoding: 374 374 296
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<100 200 100 200> 380 20G<0 100 200 300> 425 175
 VStem: 0 100<253.094 400> 100 100<0 123.114> 200 100<253.094 400>
 LayerCount: 2
@@ -5478,7 +5468,7 @@ StartChar: ycircumflex
 Encoding: 375 375 298
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<25 184.87> 100 100<117.85 200> 380 20G<0 100 200 300> 425 175
 VStem: 0 100<218.568 400> 200 100<17.8497 100 200 400>
 LayerCount: 2
@@ -5567,7 +5557,7 @@ StartChar: uhungarumlaut
 Encoding: 369 369 304
 Width: 500
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 380 20G<0 100 200 300> 425 175
 VStem: 0 100<115.13 400> 0 200 200 100<115.13 400> 200 200
 LayerCount: 2
@@ -5584,22 +5574,14 @@ HStem: 350 150<25.8692 50>
 VStem: 0 100<410.11 485.245>
 LayerCount: 2
 Fore
-SplineSet
-50 500 m 0
- 73.5703125 500 99.8642578125 475 100 450 c 0
- 100.450195312 367.428710938 50 350 50 350 c 1
- 0 350 l 1
- 25 400 l 1
- 25 400 0 425 0 450 c 0
- 0 475 26.4296875 500 50 500 c 0
-EndSplineSet
+Refer: 625 700 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Ohungarumlaut
 Encoding: 336 336 306
 Width: 500
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 300 100<114.517 185.483> 425 175
 VStem: 0 100<115.13 284.87> 0 200 200 100<115.13 284.87> 200 200
 LayerCount: 2
@@ -5612,7 +5594,7 @@ StartChar: Lcaron
 Encoding: 317 317 307
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<100 300> 350 150<225.869 250> 480 20G<0 100>
 VStem: 0 100<100 500> 200 100<410.11 485.245>
 LayerCount: 2
@@ -5625,7 +5607,7 @@ StartChar: lcaron
 Encoding: 318 318 308
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<115.13 200> 350 150<225.869 250> 480 20G<0 100>
 VStem: 0 100<117.85 500> 200 100<410.11 485.245>
 LayerCount: 2
@@ -5699,7 +5681,7 @@ StartChar: ncaron
 Encoding: 328 328 314
 Width: 500
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 200 300 200 300> 300 100<100 179.329> 425 175
 VStem: 0 100<0 300> 200 100<0 279.329>
 LayerCount: 2
@@ -5723,7 +5705,7 @@ StartChar: obreve
 Encoding: 335 335 316
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 300 100<114.517 185.483> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<116.016 283.984> 200 100<114.199 283.984> 225 75<531.036 600>
 LayerCount: 2
@@ -5735,7 +5717,7 @@ StartChar: ohungarumlaut
 Encoding: 337 337 317
 Width: 500
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 300 100<114.517 185.483> 425 175
 VStem: 0 100<116.016 283.984> 0 200 200 100<114.199 283.984> 200 200
 LayerCount: 2
@@ -5771,7 +5753,7 @@ StartChar: tcaron
 Encoding: 357 357 320
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<115.13 200> 300 100<100 200> 350 150<325.869 350> 480 20G<0 100>
 VStem: 0 100<115.13 300 400 500> 300 100<410.11 485.245>
 LayerCount: 2
@@ -5783,7 +5765,7 @@ StartChar: utilde
 Encoding: 361 361 321
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 380 20G<0 100 200 300> 400 100<249.029 297.674> 500 100<102.325 152.131>
 VStem: 0 100<115.13 400> 200 100<115.13 400>
 LayerCount: 2
@@ -5807,7 +5789,7 @@ StartChar: ubreve
 Encoding: 365 365 323
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 380 20G<0 100 200 300> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<115.13 400> 200 100<115.13 400> 225 75<531.036 600>
 LayerCount: 2
@@ -5819,7 +5801,7 @@ StartChar: uring
 Encoding: 367 367 324
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 350.004 74.9961<113.95 185.757> 380 20G<0 100 200 300> 525 74.9961<113.95 184.249>
 VStem: 0 100<115.13 400> 25.0078 74.9922<439.581 510.419> 200 75<441.145 509.736> 200 100<115.13 400>
 LayerCount: 2
@@ -5831,7 +5813,7 @@ StartChar: uogonek
 Encoding: 371 371 325
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<63.9046 150> -25 25<150 200> 0 100<114.517 185.483> 380 20G<0 100 200 300>
 VStem: 0 100<115.13 400> 50 100<-63.6858 -25.2342> 200 100<115.13 400>
 LayerCount: 2
@@ -5843,7 +5825,7 @@ StartChar: Uogonek
 Encoding: 370 370 326
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: -100 100<63.9046 150> -25 25<150 200> 0 100<114.517 185.483> 480 20G<0 100 200 300>
 VStem: 0 100<115.13 500> 50 100<-63.6858 -25.2342> 200 100<115.13 500>
 LayerCount: 2
@@ -5856,7 +5838,7 @@ StartChar: wcircumflex
 Encoding: 373 373 327
 Width: 600
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<125 175 125 175 325 375 325 375> 380 20G<0 100 400 500> 425 175
 VStem: 0 100<213.146 400> 200 100<210.72 300> 400 100<213.146 400>
 CounterMasks: 1 1c
@@ -5881,7 +5863,7 @@ StartChar: zdotaccent
 Encoding: 380 380 329
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<75 300> 300 100<0 150> 520 100<112.193 187.807>
 VStem: 100 100<532.193 607.807>
 LayerCount: 2
@@ -5893,7 +5875,7 @@ StartChar: zcaron
 Encoding: 382 382 330
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<75 300> 300 100<0 150> 425 175
 LayerCount: 2
 Fore
@@ -5917,7 +5899,7 @@ StartChar: Obreve
 Encoding: 334 334 332
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.517 185.483> 300 100<114.517 185.483> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<115.13 284.87> 200 100<115.13 284.87> 225 75<531.036 600>
 LayerCount: 2
@@ -5980,7 +5962,7 @@ StartChar: Wcircumflex
 Encoding: 372 372 335
 Width: 600
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 95 0 95 405 500 405 500> 380 20G<0 100 400 500> 425 175
 VStem: 0 100<150 400> 400 100<150 400>
 LayerCount: 2
@@ -6006,7 +5988,7 @@ StartChar: Zdotaccent
 Encoding: 379 379 337
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<75 300> 300 100<0 150> 520 100<112.193 187.807>
 VStem: 100 100<532.193 607.807>
 LayerCount: 2
@@ -6019,7 +6001,7 @@ StartChar: Zcaron
 Encoding: 381 381 338
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<75 300> 300 100<0 150> 425 175
 LayerCount: 2
 Fore
@@ -6053,7 +6035,7 @@ StartChar: Ncaron
 Encoding: 327 327 340
 Width: 500
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 300 400 300 400> 380 20G<0 70 300 400> 425 175
 VStem: 0 100<0 225> 300 100<0 25 150 400>
 LayerCount: 2
@@ -6079,7 +6061,7 @@ StartChar: Tcaron
 Encoding: 356 356 342
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<100 200 100 200> 300 100<0 100 200 300> 425 175
 VStem: 100 100<0 300>
 LayerCount: 2
@@ -6122,7 +6104,7 @@ StartChar: Scircumflex
 Encoding: 348 348 344
 Width: 560
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 75<85.9888 184.866> 175 75<101.123 186.095> 325 75<115.13 219.104> 425 175
 VStem: 0 100<253.31 309.663> 200 100<90.2949 160.725>
 LayerCount: 2
@@ -6148,7 +6130,7 @@ StartChar: Scaron
 Encoding: 352 352 346
 Width: 560
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 75<85.9888 184.866> 175 75<101.123 186.095> 325 75<115.13 219.104> 425 175
 VStem: 0 100<253.31 309.663> 200 100<90.2949 160.725>
 LayerCount: 2
@@ -6193,7 +6175,7 @@ StartChar: Rcaron
 Encoding: 344 344 348
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 205 300 205 300> 300 100<100 159.87> 425 175
 VStem: 0 100<0 100 200 300> 175 100<213.943 285.483>
 LayerCount: 2
@@ -6262,7 +6244,7 @@ StartChar: Gcircumflex
 Encoding: 284 284 352
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 75<115.13 200> 300 100<114.517 198.655> 425 175
 VStem: 0 100<91.7702 284.87> 175 125<125 200> 200 100<75 125 275 295.414>
 LayerCount: 2
@@ -6275,7 +6257,7 @@ StartChar: Gbreve
 Encoding: 286 286 353
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 75<115.13 200> 300 100<114.517 198.655> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<91.7702 284.87> 175 125<125 200> 200 100<75 125 275 295.414> 225 75<531.036 600>
 LayerCount: 2
@@ -6288,7 +6270,7 @@ StartChar: Gdotaccent
 Encoding: 288 288 354
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 75<115.13 200> 300 100<114.517 198.655> 520 100<112.193 187.807>
 VStem: 0 100<91.7702 284.87> 100 100<532.193 607.807> 175 125<125 200> 200 100<75 125 275 295.414>
 LayerCount: 2
@@ -6340,7 +6322,7 @@ StartChar: Hcircumflex
 Encoding: 292 292 357
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 200 300 200 300> 175 100<100 200> 380 20G<0 100 200 300> 425 175
 VStem: 0 100<0 175 275 400> 200 100<0 175 275 400>
 LayerCount: 2
@@ -8426,7 +8408,7 @@ StartChar: uni02BB
 Encoding: 699 699 427
 Width: 160
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 525 75<25 75>
 LayerCount: 2
 Fore
@@ -11303,7 +11285,7 @@ StartChar: uni0400
 Encoding: 1024 1024 589
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<100 300> 175 75<100 225> 325 75<100 300> 425 175
 VStem: 0 100<100 175 250 325> 0 200
 LayerCount: 2
@@ -11374,7 +11356,7 @@ EndChar
 StartChar: uni040E
 Encoding: 1038 1038 593
 Width: 400
-Flags: W
+Flags: HW
 HStem: 0 100<25 184.87> 200 100<117.85 200> 380 20G<0 100 200 300> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<318.568 400> 200 100<117.85 200 300 400> 225 75<531.036 600>
 LayerCount: 2
@@ -11446,7 +11428,7 @@ EndChar
 StartChar: uni0439
 Encoding: 1081 1081 596
 Width: 500
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 300 400 300 400> 380 20G<0 100 300 400> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<0 50 175 400> 225 75<531.036 600> 300 100<0 250 375 400>
 LayerCount: 2
@@ -11458,7 +11440,7 @@ StartChar: uni0450
 Encoding: 1104 1104 597
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.982 204.747> 175 75<100 200> 325 75<114.517 185.493> 425 175
 VStem: 0 100<116.105 175 250 291.433> 0 200 200 100<250 300.166>
 LayerCount: 2
@@ -11624,7 +11606,7 @@ EndChar
 StartChar: uni045E
 Encoding: 1118 1118 612
 Width: 400
-Flags: W
+Flags: HW
 HStem: -100 100<25 184.87> 100 100<117.85 200> 380 20G<0 100 200 300>
 VStem: 0 100<218.568 400> 200 100<17.8497 100 200 400>
 LayerCount: 2
@@ -11719,7 +11701,7 @@ EndChar
 StartChar: uni04D0
 Encoding: 1232 1232 619
 Width: 400
-Flags: W
+Flags: HW
 HStem: 0 21G<0 100 0 100 200 300 200 300> 100 100<100 200> 380 20G<75 225> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<0 100 200 261.681> 200 100<0 100 200 258.971> 225 75<531.036 600>
 LayerCount: 2
@@ -11731,7 +11713,7 @@ EndChar
 StartChar: uni04D1
 Encoding: 1233 1233 620
 Width: 400
-Flags: W
+Flags: HW
 HStem: 0 100<120.671 200> 300 100<120.671 200> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<120.671 279.329> 200 100<100 300> 225 75<531.036 600>
 LayerCount: 2
@@ -11743,7 +11725,7 @@ StartChar: uni04D6
 Encoding: 1238 1238 621
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<100 300> 175 75<100 225> 325 75<100 300> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<100 175 250 325> 225 75<531.036 600>
 LayerCount: 2
@@ -11756,7 +11738,7 @@ StartChar: uni04D7
 Encoding: 1239 1239 622
 Width: 400
 VWidth: 960
-Flags: W
+Flags: HW
 HStem: 0 100<114.982 204.747> 175 75<100 200> 325 75<114.517 185.493> 425 74.9941<106.066 194.081>
 VStem: 0 75<530.351 600> 0 100<116.105 175 250 291.433> 200 100<250 300.166> 225 75<531.036 600>
 LayerCount: 2
@@ -11767,7 +11749,7 @@ EndChar
 StartChar: uni04F2
 Encoding: 1266 1266 623
 Width: 400
-Flags: W
+Flags: HW
 HStem: 0 100<25 184.87> 200 100<117.85 200> 380 20G<0 100 200 300> 425 175
 VStem: 0 100<318.568 400> 0 200 200 100<117.85 200 300 400> 200 200
 LayerCount: 2
@@ -11796,12 +11778,65 @@ EndChar
 StartChar: uni04F3
 Encoding: 1267 1267 624
 Width: 400
-Flags: W
+Flags: HW
 HStem: -100 100<25 184.87> 100 100<117.85 200> 380 20G<0 100 200 300> 425 175
 VStem: 0 100<218.568 400> 0 200 200 100<17.8497 100 200 400> 200 200
 LayerCount: 2
 Fore
 Refer: 623 1266 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni02BC
+Encoding: 700 700 625
+Width: 100
+VWidth: 960
+Flags: W
+HStem: 350 150<25.8692 50>
+VStem: 0 100<410.11 485.245>
+LayerCount: 2
+Fore
+SplineSet
+50 500 m 0
+ 73.5703125 500 99.8642578125 475 100 450 c 0
+ 100.450195312 367.428710938 50 350 50 350 c 1
+ 0 350 l 1
+ 25 400 l 1
+ 25 400 0 425 0 450 c 0
+ 0 475 26.4296875 500 50 500 c 0
+EndSplineSet
+EndChar
+
+StartChar: ogonek
+Encoding: 731 731 626
+Width: 100
+VWidth: 960
+Flags: W
+HStem: -100 100<-36.0954 50> -25 25<50 100>
+VStem: -50 100<-63.6858 -25.2342>
+LayerCount: 2
+Fore
+SplineSet
+50 -25 m 1x60
+ 50 -75 100 -75 100 -75 c 1
+ 100 -100 l 1
+ 100 -100 25 -100 0 -100 c 0
+ -25 -100 -50 -75 -50 -50 c 0
+ -50 -25 -25 0 0 0 c 0xa0
+ 25 0 100 0 100 0 c 1
+ 100 -25 l 1
+ 50 -25 l 1x60
+EndSplineSet
+EndChar
+
+StartChar: tilde
+Encoding: 732 732 627
+Width: 400
+VWidth: 960
+Flags: W
+HStem: 400 100<249.029 297.674> 500 100<102.325 152.131>
+LayerCount: 2
+Fore
+Refer: 109 126 N 1 0 0 1 0 300 2
 EndChar
 EndChars
 EndSplineFont
