@@ -28,7 +28,7 @@ fontmodes = [{
 
 for scale in scales:
     for fontmode in fontmodes:
-        image = Image.new("RGB", (270 * scale, int(9.5 * line * scale)), background_shade[1])
+        image = Image.new("RGB", (270 * scale, int(12.5 * line * scale)), background_shade[1])
         draw = ImageDraw.Draw(image)
         draw.rectangle((0, 0, image.size[0] - scale - 1, image.size[1] - scale - 1), fill=background_shade[0], outline=None)
         draw.rectangle((0 + scale, 0 + scale, image.size[0] - scale - 1, image.size[1] - scale - 1), fill=background, outline=None)
@@ -43,5 +43,8 @@ for scale in scales:
         shadowtext(draw, scale, (3, 2 + line * 5), "Symbols: !\"#$%@()*+,-./;<=>?[\]^_{|}~¡¤¦§©ª«¬­®", font, foreground, None)
         shadowtext(draw, scale, (3, 2 + line * 6), "Diacritics: ÀÁÂÃÄÅĀĂĄÆāàáâãäåăąæ ÇçÈèÍíÐðÑñÔôÜüÞþŊŋ", font, foreground, None)
         shadowtext(draw, scale, (3, 2 + line * 7), "Currencies: $£¥¢֏฿₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿", font, foreground, None)
-        shadowtext(draw, scale, (3, 2 + line * 8), "Greek: ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ αβγδεζηθικλμνξοπρςστυφχψω", font, foreground, None)
+        shadowtext(draw, scale, (3, 2 + line * 8), "Greek upper: ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ", font, foreground, None)
+        shadowtext(draw, scale, (3, 2 + line * 9), "Greek lower: αβγδεζηθικλμνξοπρςστυφχψω", font, foreground, None)
+        shadowtext(draw, scale, (3, 2 + line * 10), "Cyrillic upper: АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮ", font, foreground, None)
+        shadowtext(draw, scale, (3, 2 + line * 11), "Cyrillic lower: абвгдежзиклмнопрстуфхцчшщъыьэюя", font, foreground, None)
         image.save(fontname + "-" + str(scale * size) + "px-" + fontmode["description"] + ".png", "PNG")

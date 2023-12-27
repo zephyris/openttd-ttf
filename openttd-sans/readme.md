@@ -16,6 +16,7 @@ Full coverage:
 
 Targeted coverage:
 * Greek and Coptic (`U+0384..U+03D7`) [contempary Greek only `U+0370..U+03FF`]
+* Greek and Coptic (`U+0400..U+04FF`) [contempary Ukrainian, Russian and Belarusian `U+0400..U+045F`, with a few extra]
 
 Partial coverage:
 * IPA Extensions (`U+0250–U+02AF`)
