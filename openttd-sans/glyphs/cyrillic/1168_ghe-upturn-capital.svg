@@ -7,7 +7,7 @@
    viewBox="0 0 1200 1200"
    version="1.1"
    id="svg1"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="1168_ghe-upturn-capital.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,11 +25,11 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="1.1116667"
-     inkscape:cx="464.61768"
-     inkscape:cy="529.38529"
-     inkscape:window-width="1276"
+     inkscape:cx="569.86505"
+     inkscape:cy="529.83507"
+     inkscape:window-width="1080"
      inkscape:window-height="1481"
-     inkscape:window-x="5902"
+     inkscape:window-x="3640"
      inkscape:window-y="244"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
@@ -55,4 +55,5 @@
      id="layer1"><path
        id="rect8860"
        style="opacity:0.489888;fill:#000000;fill-opacity:0.56;fill-rule:evenodd;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.5;stop-color:#000000"
-       d="M 600 75 L 600 200 L 0 200 L 0 1000 L 200 1000 L 200 300 L 700 300 L 700 200 L 700 75 L 600 75 z " /></g></svg>
+       d="M 700,100 H 600 V 200 H 0 v 800 H 200 V 300 h 500 z"
+       sodipodi:nodetypes="ccccccccc" /></g></svg>

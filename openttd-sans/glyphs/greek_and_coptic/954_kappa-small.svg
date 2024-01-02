@@ -7,7 +7,7 @@
    viewBox="0 0 1200 1200"
    version="1.1"
    id="svg1"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="954_kappa-small.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.78606706"
-     inkscape:cx="421.71974"
-     inkscape:cy="638.62236"
+     inkscape:cx="232.80457"
+     inkscape:cy="640.53059"
      inkscape:window-width="1350"
      inkscape:window-height="1230"
      inkscape:window-x="1722"
@@ -54,6 +54,6 @@
      inkscape:groupmode="layer"
      id="layer1"><path
        style="fill:#000000;fill-opacity:0.56;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 600,400 h -50 c -95.3545,0 -162.74863,37.74863 -225,100 L 200,625 V 400 H 0 v 600 H 200 V 725 l 250,275 H 600 V 950 L 325,675 425,575 c 52.70463,-52.70463 100,-75 175,-75 z"
+       d="m 600,400 h -50 c -95.3545,0 -162.74863,37.74863 -225,100 L 200,625 V 400 H 0 v 600 H 200 V 750 l 250,250 H 600 V 950 L 325,675 425,575 c 52.70463,-52.70463 100,-75 175,-75 z"
        id="path726"
        sodipodi:nodetypes="cssccccccccccscc" /></g></svg>

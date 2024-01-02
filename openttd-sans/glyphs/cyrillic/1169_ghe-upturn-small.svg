@@ -7,7 +7,7 @@
    viewBox="0 0 1200 1200"
    version="1.1"
    id="svg1"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="1169_ghe-upturn-small.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,12 +25,12 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.78606706"
-     inkscape:cx="-43.889385"
-     inkscape:cy="652.61608"
-     inkscape:window-width="3840"
-     inkscape:window-height="2066"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:cx="-232.80457"
+     inkscape:cy="653.88823"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1072"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1-7"
      showguides="false"><inkscape:grid
@@ -57,5 +57,5 @@
        id="layer1-7"><path
          id="rect2"
          style="opacity:0.453441;fill:#000000;fill-opacity:0.576596;fill-rule:evenodd"
-         d="M 400,275 V 400 H 0 v 600 H 200 V 500 H 500 V 400 275 Z"
-         sodipodi:nodetypes="cccccccccc" /></g></g></svg>
+         d="M 500,300 H 400 V 400 H 0 v 600 H 200 V 500 h 300 z"
+         sodipodi:nodetypes="ccccccccc" /></g></g></svg>
