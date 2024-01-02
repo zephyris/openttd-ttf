@@ -45,6 +45,6 @@ for scale in scales:
         shadowtext(draw, scale, (3, 2 + line * 7), "Currencies: $£¥¢֏฿₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿", font, foreground, None)
         shadowtext(draw, scale, (3, 2 + line * 8), "Greek upper: ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ", font, foreground, None)
         shadowtext(draw, scale, (3, 2 + line * 9), "Greek lower: αβγδεζηθικλμνξοπρςστυφχψω", font, foreground, None)
-        shadowtext(draw, scale, (3, 2 + line * 10), "Cyrillic upper: АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮ", font, foreground, None)
+        shadowtext(draw, scale, (3, 2 + line * 10), "Cyrillic upper: АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ", font, foreground, None)
         shadowtext(draw, scale, (3, 2 + line * 11), "Cyrillic lower: абвгдежзиклмнопрстуфхцчшщъыьэюя", font, foreground, None)
         image.save(fontname + "-" + str(scale * size) + "px-" + fontmode["description"] + ".png", "PNG")
