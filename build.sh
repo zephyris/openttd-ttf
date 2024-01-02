@@ -11,3 +11,7 @@ cd ..
 cd openttd-small
 bash build.sh
 cd ..
+
+cd openttd-mono
+bash build.sh
+cd ..

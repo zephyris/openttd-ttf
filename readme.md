@@ -4,6 +4,7 @@ TrueType typefaces for text in a pixel art style, designed for use in OpenTTD. D
 These typefaces have a pixel-perfect appearance when rendered a specific height (or multiples thereof).
 
 ## Faces
+
 ### OpenTTD Sans
 Heavy sans serif designed for use for dense medium-sized text.
 Designed for use at 10 pixel height.
@@ -15,6 +16,20 @@ Designed for use at 10 pixel height.
 ![OpenTTD Sans preview, 40px anti-aliased](openttd-sans/OpenTTD-Sans-40px-anti-aliased.png)
 
 Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A` and `Currency Symbols`.
+Extensive coverage of: `Greek and Coptic` and `Cyrillic`.
+
+### OpenTTD Mono
+Heavy sans serif monospace designed for dense medium-sized code.
+Designed for use at 10 pixel height.
+
+[OpenTTD-Mono.ttf](openttd-mono/OpenTTD-Mono.ttf)
+
+![OpenTTD Mono preview, 10px aliased](openttd-mono/OpenTTD-Mono-10px-aliased.png)
+
+![OpenTTD Mono preview, 40px anti-aliased](openttd-mono/OpenTTD-Mono-40px-anti-aliased.png)
+
+Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A` and `Currency Symbols`.
+Extensive coverage of: `Greek and Coptic` and `Cyrillic`.
 
 ### OpenTTD Serif
 Light serif designed for use in sparse large text.
@@ -27,18 +42,21 @@ Designed for use at 18 pixel height.
 ![OpenTTD Serif preview, 72px anti-aliased](openttd-serif/OpenTTD-Serif-72px-anti-aliased.png)
 
 Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A` and `Currency Symbols`.
+Extensive coverage of: `Greek and Coptic` and `Cyrillic`.
 
 ### OpenTTD Small
-Specialised very small size typeface for use in small text.
+Specialised very small size typeface for use in small text. Comes in two variants, normal or all capitals.
 Designed for use at 6 pixel height.
 
 [OpenTTD-Small.ttf](openttd-small/OpenTTD-Small.ttf)
+[OpenTTD-SmallCaps.ttf](openttd-small/OpenTTD-SmallCaps.ttf)
 
 ![OpenTTD Small preview, 6px aliased](openttd-small/OpenTTD-Small-6px-aliased.png)
 
 ![OpenTTD Small preview, 24px anti-aliased](openttd-small/OpenTTD-Small-24px-anti-aliased.png)
 
 Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A`, `Currency Symbols`.
+Extensive coverage of: `Greek and Coptic` and `Cyrillic`.
 
 ## Using in OpenTTD
 1. Download the typeface (font) TTF files. For each link, download the TTF file by clicking on "View raw": [OpenTTD-Sans.ttf](openttd-sans/OpenTTD-Sans.ttf), [OpenTTD-Serif.ttf](openttd-serif/OpenTTD-Serif.ttf) and [OpenTTD-Small.ttf](openttd-small/OpenTTD-Small.ttf).
@@ -49,23 +67,27 @@ Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A`, `Curr
 small_font = OpenTTD Small
 medium_font = OpenTTD Sans
 large_font = OpenTTD Serif
+mono_font = OpenTTD Mono
 small_size = 6
 medium_size = 10
 large_size = 18
+mono_size = 10
 small_aa = true
 medium_aa = true
 large_aa = true
+mono_aa = true
 ```
 
-If you want a more pixel-art apperance then set `small_aa`, `medium_aa` and `large_aa` to `false`.
+If you want a more pixel-art apperance then set `small_aa`, `medium_aa`, `large_aa` and `mono_aa` to `false`.
 
-If you want the text in-game to appear larger, it is best to use the "Interface size" setting in "Game Options > Graphics". You can also change the font size in your `openttd.cfg` - for best results stick to multiples of `6`, `10` and `18` respectively.
+If you want the text in-game to appear larger, it is best to use the "Interface size" setting in "Game Options > Graphics". You can also change the font size in your `openttd.cfg` - for best results stick to multiples of `6`, `10`, `18` and `10` respectively.
 
-To uninstall, just remove the font names from the `small_font`, `medium_font` and `large_font` entries in `openttd.cfg`:
+To uninstall, just remove the font names from the `small_font`, `medium_font`, `large_font` and `mono_font` entries in `openttd.cfg`:
 ```
 small_font = 
 medium_font = 
 large_font = 
+mono_font = 
 ```
 
 ## Mistakes and Bugs
