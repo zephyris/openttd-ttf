@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1704230026
+ModificationTime: 1704292927
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -82,7 +82,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1024 32 8
+WinInfo: 0 32 8
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65536 629
@@ -617,7 +617,7 @@ EndChar
 StartChar: s
 Encoding: 115 115 20
 Width: 600
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -627,12 +627,13 @@ SplineSet
  150 125 205.91796875 100 250 100 c 0
  300 100 325 125 325 150 c 0
  325 224.11328125 0 300 0 450 c 0
- 0 525 100 600 250 600 c 0
+ 0 525 75 600 250 600 c 0
  425 600 500 500 500 425 c 1
  350 425 l 1
  350 475 294.08203125 500 250 500 c 0
  200 500 175 475 175 450 c 0
- 175 375 500 300 500 150 c 1024
+ 175 375 500 300 500 150 c 0
+ 500 75 425 0 250 0 c 0
 EndSplineSet
 EndChar
 
@@ -5476,7 +5477,7 @@ EndChar
 StartChar: sacute
 Encoding: 347 347 261
 Width: 600
-Flags: W
+Flags: HW
 HStem: 625 175
 VStem: 200 200
 LayerCount: 2
@@ -5488,7 +5489,7 @@ EndChar
 StartChar: scircumflex
 Encoding: 349 349 262
 Width: 600
-Flags: W
+Flags: HW
 HStem: 625 175
 VStem: 100 300
 LayerCount: 2
@@ -5500,7 +5501,7 @@ EndChar
 StartChar: scedilla
 Encoding: 351 351 263
 Width: 600
-Flags: W
+Flags: HW
 HStem: -200 75<0 100> -200 200<200 300>
 VStem: 200 200<-109.46 -33.5107>
 LayerCount: 2
@@ -5512,7 +5513,7 @@ EndChar
 StartChar: scaron
 Encoding: 353 353 264
 Width: 600
-Flags: W
+Flags: HW
 HStem: 625 175
 VStem: 100 300
 LayerCount: 2
@@ -7206,7 +7207,7 @@ EndChar
 StartChar: uni20A8
 Encoding: 8360 8360 354
 Width: 1300
-Flags: W
+Flags: HW
 HStem: 0 21G<0 200 0 200 455 600 455 600> 200 100<200 275> 700 100<200 324.272>
 VStem: 0 200<0 200 300 700> 400 200<371.548 629.102>
 LayerCount: 2
@@ -7947,8 +7948,8 @@ EndChar
 
 StartChar: uni20BF
 Encoding: 8383 8383 374
-Width: 1000
-Flags: W
+Width: 700
+Flags: HW
 HStem: 0 100<200 300> 300 100<200 346.69> 600 100<200 299.921> 780 20G<100 200 300 400>
 VStem: 0 200<100 300 400 600> 100 100<-100 0 700 800> 300 100<-100 0 700 800> 375 200<427.099 570.978> 400 200<117.18 282.212>
 LayerCount: 2
@@ -8850,7 +8851,7 @@ EndChar
 StartChar: uni0219
 Encoding: 537 537 415
 Width: 600
-Flags: W
+Flags: HW
 HStem: -200 50<225 247.956>
 VStem: 200 200<-117.399 -43.3415>
 LayerCount: 2
