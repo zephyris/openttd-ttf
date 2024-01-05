@@ -44,10 +44,10 @@ SVGs are prepared at 1 pixel = 1 unit
 * overshoot: 10 units
 The top 100 units are always empty. During TTF generation from the FontForge SFD file, height is set to 1800.
 
-Bearings are optimised for pixel-perfect rendering:
+Bearings are optimised for pixel-perfect rendering with no overlap of the glyphs:
 * left bearing: 100 units, minus overshoot
 * right bearing: 100 units, minus overshoot
-And, kerning adjusts spacing in steps of 100 units.
+Kerning adjusts spacing in steps of 100 units, and gives a much tighter appearance.
 
 Diacritics are similarly positioned in steps of 100 units.
 
