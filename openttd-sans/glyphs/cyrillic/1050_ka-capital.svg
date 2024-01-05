@@ -29,7 +29,7 @@
      inkscape:cy="528.93552"
      inkscape:window-width="1276"
      inkscape:window-height="1481"
-     inkscape:window-x="1271"
+     inkscape:window-x="1262"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
@@ -54,6 +54,6 @@
      inkscape:groupmode="layer"
      id="layer1"><path
        style="fill:#000000;fill-opacity:0.56;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 200,675 325,325 h 75 V 875 L 300,575 600,275 V 200 H 450 L 200,475 V 200 H 3e-6 v 800 H 200 Z"
+       d="M 600,862.5 312.5,575 600,287.5 V 200 H 462.5 L 200,462.5 V 200 H 0 v 800 H 200 V 687.5 L 512.5,1000 H 600 Z"
        id="path1651"
        sodipodi:nodetypes="cccccccccccccc" /></g></svg>

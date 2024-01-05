@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1704292927
+ModificationTime: 1704489859
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -45,7 +45,7 @@ OS2CapHeight: 800
 OS2XHeight: 600
 OS2Vendor: 'PfEd'
 Lookup: 258 0 0 "Greek Kern" { "Greek Kern" [100,0,6] } ['????' ('copt' <'dflt' > 'grek' <'dflt' > ) ]
-Lookup: 258 0 0 "Latin Kern" { "Latin Kern" [100,0,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "Kern" { "Kern" [100,0,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 5+ 5 "Greek Kern"
@@ -59,22 +59,26 @@ KernClass2: 5+ 5 "Greek Kern"
  199 alphatonos epsilontonos etatonos alpha gamma delta epsilon eta iota kappa uni03BC nu omicron pi rho sigma1 sigma tau upsilon phi chi psi omega omicrontonos upsilontonos omegatonos phi1 omega1 uni03D7
  20 Alpha uni0394 Lambda
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -300 {} 0 {} 0 {} 0 {} -100 {} -200 {} 0 {} -100 {} -100 {} 0 {} 0 {} 0 {} -200 {} -300 {} 0 {} 0 {}
-KernClass2: 8+ 7 "Latin Kern"
+KernClass2: 10+ 9 "Kern"
  0 
  17 T uni0162 uni021A
  27 F V W Y Wcircumflex uni0191
- 96 f Icircumflex icircumflex Itilde itilde Imacron imacron Ibreve ibreve lcaron tcaron longs florin
+ 103 f Icircumflex icircumflex dcaron Itilde itilde Imacron imacron Ibreve ibreve lcaron tcaron longs florin
  9 t uni0163
- 360 a b c e g h k m n o p r s u v w x y z agrave ae egrave ograve oslash ugrave thorn cdotaccent edotaccent eogonek gdotaccent dotlessi uni0137 kgreenlandic uni0146 uni0157 scedilla wcircumflex zdotaccent uni01B6 uni0219 uni0259 uni0262 uni026A uni0274 uni0280 uni028F uni029C uni1D00 uni1D04 uni1D05 uni1D07 uni1D0A uni1D0F uni1D18 uni1D1B uni1D1C uni1D21 uni1D22
+ 358 a b c e g h k m n o p s u v w x y z agrave ae egrave ograve oslash ugrave thorn cdotaccent edotaccent eogonek gdotaccent dotlessi uni0137 kgreenlandic uni0146 uni0157 scedilla wcircumflex zdotaccent uni01B6 uni0219 uni0259 uni0262 uni026A uni0274 uni0280 uni028F uni029C uni1D00 uni1D04 uni1D05 uni1D07 uni1D0A uni1D0F uni1D18 uni1D1B uni1D1C uni1D21 uni1D22
  1 q
  21 L Ldot Lslash uni029F
- 261 a c d e g m n o p q r s u v w x y z aacute ae ccedilla eacute oacute oslash uacute aogonek cacute cdotaccent dcaron edotaccent eogonek gdotaccent uni0123 dotlessi kgreenlandic uni0146 eng oe uni0157 sacute scedilla uogonek wcircumflex zdotaccent uni01B6 uni0219
+ 1 r
+ 11 A D G O P R
+ 153 a d m n p s u v w x y z aacute ae uacute aogonek eogonek dotlessi kgreenlandic uni0146 eng sacute scedilla uogonek wcircumflex zdotaccent uni01B6 uni0219
  17 f Eth Dcroat hbar
  24 t uni0163 tcaron uni021B
  8 j florin
  34 V W Y Yacute Wcircumflex Ydieresis
  17 T uni0162 uni021A
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} -200 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} -200 {} 0 {} 0 {} 0 {} -100 {} -100 {} 0 {} -200 {} 0 {} 0 {} 0 {} -100 {} -100 {} -100 {} -200 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -200 {} -200 {} 0 {}
+ 121 c e g o q r ccedilla eacute oacute oslash cacute cdotaccent dcaron dcroat edotaccent gdotaccent uni0123 oe racute uni0157
+ 7 A G O Q
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} -200 {} 0 {} 0 {} -200 {} 0 {} 0 {} -100 {} 0 {} 0 {} -200 {} 0 {} 0 {} -100 {} -100 {} 0 {} -100 {} -100 {} 0 {} -200 {} 0 {} 0 {} -100 {} 0 {} -100 {} -100 {} -100 {} -100 {} -200 {} -100 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -200 {} -200 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {}
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "OpenTTD Sans" "Bold" "" "" "" "OpenTTD Sans" "Bold"
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -82,7 +86,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 8
+WinInfo: 160 32 8
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65536 629
@@ -390,22 +394,22 @@ StartChar: k
 Encoding: 107 107 11
 Width: 600
 Flags: W
-HStem: 0 21G<0 200 405 500> 0 21G<0 200 405 500> 580 20G<330 500> 780 20G<0 200>
-VStem: 0 200<0 225 450 800>
+HStem: 0 21G<0 200 392.5 500> 0 21G<0 200 392.5 500> 580 20G<342.5 500> 780 20G<0 200>
+VStem: 0 200<0 212.5 437.5 800>
 LayerCount: 2
 Fore
 SplineSet
 0 800 m 1xb8
  200 800 l 1
- 200 450 l 1
- 350 600 l 1
+ 200 437.5 l 1
+ 362.5 600 l 1
  500 600 l 1
  500 525 l 1
- 312.5 337.5 l 1
- 500 150 l 1
+ 300 325 l 1
+ 500 125 l 1
  500 0 l 1
- 425 0 l 1
- 200 225 l 1
+ 412.5 0 l 1
+ 200 212.5 l 1
  200 0 l 1
  0 0 l 1
  0 800 l 1xb8
@@ -617,7 +621,9 @@ EndChar
 StartChar: s
 Encoding: 115 115 20
 Width: 600
-Flags: HW
+Flags: W
+HStem: 0 100<174.983 313.956> 500 100<186.044 325.017>
+VStem: 0 175<413.557 488.41> 325 175<111.59 186.279>
 LayerCount: 2
 Fore
 SplineSet
@@ -664,22 +670,21 @@ StartChar: v
 Encoding: 118 118 22
 Width: 600
 Flags: W
-HStem: 0 21G<215 285> 0 21G<215 285> 580 20G<0 135 365 500>
+HStem: 0 21G<215.526 284.474> 0 21G<215.526 284.474> 580 20G<0 135 365 500>
 LayerCount: 2
 Fore
 SplineSet
-500 450 m 1xa0
+500 475 m 1xa0
  275 0 l 1
  225 0 l 1
- 0 450 l 1
+ 0 475 l 1
  0 600 l 1
  125 600 l 1
  250 350 l 1
  375 600 l 1
  500 600 l 1
- 500 450 l 1xa0
+ 500 475 l 1xa0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: w
@@ -1345,25 +1350,25 @@ StartChar: K
 Encoding: 75 75 57
 Width: 700
 Flags: W
-HStem: 0 21G<0 200 505 600> 0 21G<0 200 505 600> 780 20G<0 200 431.818 600>
-VStem: 0 200<0 325 525 800>
+HStem: 0 21G<0 200 492.5 600> 0 21G<0 200 492.5 600> 780 20G<0 200 442.5 600>
+VStem: 0 200<0 312.5 537.5 800>
 LayerCount: 2
 Fore
 SplineSet
-200 325 m 1xb0
+600 137.5 m 1xb0
+ 600 0 l 1
+ 512.5 0 l 1
+ 200 312.5 l 1
  200 0 l 1
  0 0 l 1
  0 800 l 1
  200 800 l 1
- 200 525 l 1
- 450 800 l 1
+ 200 537.5 l 1
+ 462.5 800 l 1
  600 800 l 1
- 600 725 l 1
- 300 425 l 1
- 600 125 l 1
- 600 0 l 1
- 525 0 l 1
- 200 325 l 1xb0
+ 600 712.5 l 1
+ 312.5 425 l 1
+ 600 137.5 l 1xb0
 EndSplineSet
 EndChar
 
@@ -1673,34 +1678,21 @@ Encoding: 90 90 69
 Width: 800
 InSpiro: 1
 Flags: W
-HStem: 0 125<150 700> 675 125<0 525>
+HStem: 0 125<175 700> 675 125<0 500>
 LayerCount: 2
 Fore
 SplineSet
 0 800 m 1
  700 800 l 1
- 700 675 l 1
- 150 125 l 1
+ 700 650 l 1
+ 175 125 l 1
  700 125 l 1
  700 0 l 1
  0 0 l 1
- 0 150 l 1
- 525 675 l 1
+ 0 175 l 1
+ 500 675 l 1
  0 675 l 1
  0 800 l 1
-  Spiro
-    0 800 v
-    700 800 v
-    700 675 v
-    150 125 v
-    700 125 v
-    700 0 v
-    0 0 v
-    0 150 v
-    525 675 v
-    0 675 v
-    0 0 z
-  EndSpiro
 EndSplineSet
 EndChar
 
@@ -5477,9 +5469,9 @@ EndChar
 StartChar: sacute
 Encoding: 347 347 261
 Width: 600
-Flags: HW
-HStem: 625 175
-VStem: 200 200
+Flags: W
+HStem: 0 100<174.983 313.956> 500 100<186.044 325.017> 625 175
+VStem: 0 175<413.557 488.41> 200 200 325 175<111.59 186.279>
 LayerCount: 2
 Fore
 Refer: 129 180 S 1 0 0 1 200 0 2
@@ -5489,9 +5481,9 @@ EndChar
 StartChar: scircumflex
 Encoding: 349 349 262
 Width: 600
-Flags: HW
-HStem: 625 175
-VStem: 100 300
+Flags: W
+HStem: 0 100<174.983 313.956> 500 100<186.044 325.017> 625 175
+VStem: 0 175<413.557 488.41> 100 300 325 175<111.59 186.279>
 LayerCount: 2
 Fore
 Refer: 404 710 S 1 0 0 1 100 0 2
@@ -5501,9 +5493,9 @@ EndChar
 StartChar: scedilla
 Encoding: 351 351 263
 Width: 600
-Flags: HW
-HStem: -200 75<0 100> -200 200<200 300>
-VStem: 200 200<-109.46 -33.5107>
+Flags: W
+HStem: -200 75<0 100> -200 200<200 300> 0 100<174.983 313.956> 500 100<186.044 325.017>
+VStem: 0 175<413.557 488.41> 200 200<-109.46 -33.5107> 325 175<111.59 186.279>
 LayerCount: 2
 Fore
 Refer: 133 184 S 1 0 0 1 0 0 2
@@ -5513,9 +5505,9 @@ EndChar
 StartChar: scaron
 Encoding: 353 353 264
 Width: 600
-Flags: HW
-HStem: 625 175
-VStem: 100 300
+Flags: W
+HStem: 0 100<174.983 313.956> 500 100<186.044 325.017> 625 175
+VStem: 0 175<413.557 488.41> 100 300 325 175<111.59 186.279>
 LayerCount: 2
 Fore
 Refer: 405 711 S 1 0 0 1 100 0 2
@@ -6037,8 +6029,8 @@ StartChar: uni0136
 Encoding: 310 310 286
 Width: 700
 Flags: W
-HStem: -200 50<225 247.956> 0 21G<0 200 0 200 505 600 505 600> 780 20G<0 200 431.818 600>
-VStem: 0 200<0 325 525 800> 200 200<-117.399 -43.3415>
+HStem: -200 50<225 247.956> 0 21G<0 200 0 200 492.5 600 492.5 600> 780 20G<0 200 442.5 600>
+VStem: 0 200<0 312.5 537.5 800> 200 200<-117.399 -43.3415>
 LayerCount: 2
 Fore
 Refer: 285 806 S 1 0 0 1 200 0 2
@@ -6049,8 +6041,8 @@ StartChar: uni0137
 Encoding: 311 311 287
 Width: 600
 Flags: W
-HStem: -200 50<225 247.956> 0 21G<0 200 0 200 405 500 405 500> 580 20G<330 500> 780 20G<0 200>
-VStem: 0 200<0 225 450 800> 200 200<-117.399 -43.3415>
+HStem: -200 50<225 247.956> 0 21G<0 200 0 200 392.5 500 392.5 500> 580 20G<342.5 500> 780 20G<0 200>
+VStem: 0 200<0 212.5 437.5 800> 200 200<-117.399 -43.3415>
 LayerCount: 2
 Fore
 Refer: 285 806 N 1 0 0 1 200 0 2
@@ -6697,12 +6689,12 @@ StartChar: uni0156
 Encoding: 342 342 334
 Width: 700
 Flags: W
-HStem: -200 50<225 247.956> 0 21G<0 200 0 200 455 600 455 600> 200 100<200 275> 500 100<200 363.135>
-VStem: 0 200<0 200 300 500> 200 200<-117.399 -43.3415> 400 200<332.881 463.933>
+HStem: -200 50<225 247.956> 0 21G<0 200 0 200 455 600 455 600> 200 100<200 275> 700 100<200 324.272>
+VStem: 0 200<0 200 300 700> 200 200<-117.399 -43.3415> 400 200<371.548 629.102>
 LayerCount: 2
 Fore
-Refer: 285 806 S 1 0 0 1 200 0 2
-Refer: 332 640 N 1 0 0 1 0 0 2
+Refer: 62 82 S 1 0 0 1 0 0 2
+Refer: 285 806 N 1 0 0 1 200 0 2
 EndChar
 
 StartChar: Racute
@@ -6784,13 +6776,13 @@ StartChar: uni0122
 Encoding: 290 290 340
 Width: 900
 Flags: W
-HStem: -200 50<325 347.956> 0 75<307.013 509.969> 200 100<400 600> 525 75<307.077 505.999>
-VStem: 0 200<200.376 399.634> 300 200<-117.399 -43.3415> 600 200<148.967 200 400 450.177>
+HStem: -200 50<325 347.956> 0 100<318.213 484.884> 300 100<400 600> 700 100<317.114 488.945>
+VStem: 0 200<248.909 551.091> 300 200<-117.399 -43.3415> 600 200<210.938 300 525 592.484>
 CounterMasks: 1 0e
 LayerCount: 2
 Fore
-Refer: 285 806 S 1 0 0 1 300 0 2
-Refer: 336 610 N 1 0 0 1 0 0 2
+Refer: 53 71 S 1 0 0 1 0 0 2
+Refer: 285 806 N 1 0 0 1 300 0 2
 EndChar
 
 StartChar: uni029C
@@ -7207,9 +7199,9 @@ EndChar
 StartChar: uni20A8
 Encoding: 8360 8360 354
 Width: 1300
-Flags: HW
-HStem: 0 21G<0 200 0 200 455 600 455 600> 200 100<200 275> 700 100<200 324.272>
-VStem: 0 200<0 200 300 700> 400 200<371.548 629.102>
+Flags: W
+HStem: 0 21G<0 200 0 200 455 600 455 600> 0 100<874.983 1013.96> 200 100<200 275> 500 100<886.044 1025.02> 700 100<200 324.272>
+VStem: 0 200<0 200 300 700> 400 200<371.548 629.102> 700 175<413.557 488.41> 1025 175<111.59 186.279>
 LayerCount: 2
 Fore
 Refer: 20 115 S 1 0 0 1 700 0 2
@@ -7949,7 +7941,7 @@ EndChar
 StartChar: uni20BF
 Encoding: 8383 8383 374
 Width: 700
-Flags: HW
+Flags: W
 HStem: 0 100<200 300> 300 100<200 346.69> 600 100<200 299.921> 780 20G<100 200 300 400>
 VStem: 0 200<100 300 400 600> 100 100<-100 0 700 800> 300 100<-100 0 700 800> 375 200<427.099 570.978> 400 200<117.18 282.212>
 LayerCount: 2
@@ -8851,9 +8843,9 @@ EndChar
 StartChar: uni0219
 Encoding: 537 537 415
 Width: 600
-Flags: HW
-HStem: -200 50<225 247.956>
-VStem: 200 200<-117.399 -43.3415>
+Flags: W
+HStem: -200 50<225 247.956> 0 100<174.983 313.956> 500 100<186.044 325.017>
+VStem: 0 175<413.557 488.41> 200 200<-117.399 -43.3415> 325 175<111.59 186.279>
 LayerCount: 2
 Fore
 Refer: 285 806 S 1 0 0 1 200 0 2
@@ -9197,25 +9189,25 @@ StartChar: Kappa
 Encoding: 922 922 430
 Width: 700
 Flags: W
-HStem: 0 21G<0 200 505 600> 0 21G<0 200 505 600> 780 20G<0 200 431.818 600>
-VStem: 0 200<0 325 525 800>
+HStem: 0 21G<0 200 492.5 600> 0 21G<0 200 492.5 600> 780 20G<0 200 442.5 600>
+VStem: 0 200<0 312.5 537.5 800>
 LayerCount: 2
 Fore
 SplineSet
-200 325 m 1xb0
+600 137.5 m 1xb0
+ 600 0 l 1
+ 512.5 0 l 1
+ 200 312.5 l 1
  200 0 l 1
  0 0 l 1
  0 800 l 1
  200 800 l 1
- 200 525 l 1
- 450 800 l 1
+ 200 537.5 l 1
+ 462.5 800 l 1
  600 800 l 1
- 600 725 l 1
- 300 425 l 1
- 600 125 l 1
- 600 0 l 1
- 525 0 l 1
- 200 325 l 1xb0
+ 600 712.5 l 1
+ 312.5 425 l 1
+ 600 137.5 l 1xb0
 EndSplineSet
 EndChar
 
@@ -10101,9 +10093,10 @@ EndChar
 StartChar: omega
 Encoding: 969 969 464
 Width: 900
-Flags: HW
-HStem: 0 100<216.192 274.991 525.009 583.808> 580 20G<50 200 300 500 600 750>
-VStem: 0 175<150 500> 300 200<150.386 600> 350 100<221.062 600> 625 175<150 500>
+Flags: W
+HStem: 0 100<210.804 278.902 521.821 589.196> 580 20G<50 200 300 500 600 750>
+VStem: 0 175<133.252 540.979> 300 200<142.957 600> 625 175<133.445 540.979>
+CounterMasks: 1 38
 LayerCount: 2
 Fore
 SplineSet
@@ -10113,11 +10106,11 @@ SplineSet
  175 225 l 2
  175 150 216.192382812 100.899414062 250 100 c 0
  274.991210938 99.3349609375 300 150.385742188 300 225 c 2
- 300 600 l 1xf4
+ 300 600 l 1
  350 600 l 1
- 450 600 l 1xec
+ 450 600 l 1
  500 600 l 1
- 500 225 l 2xf4
+ 500 225 l 2
  500 150.385742188 525.008789062 99.3349609375 550 100 c 0
  583.807617188 100.899414062 625 150 625 225 c 2
  625 400 l 2
@@ -10153,14 +10146,31 @@ EndChar
 
 StartChar: dieresistonos
 Encoding: 901 901 466
-Width: 500
+Width: 600
 Flags: W
-HStem: 625 175 675 125<17.1282 132.868 267.128 382.868>
-VStem: 0 150<691.844 796.232> 100 200 250 150<691.844 796.232>
+HStem: 675 125<17.1282 132.868 367.128 482.868>
+VStem: 0 150<691.844 796.232> 350 150<691.844 796.232>
 LayerCount: 2
 Fore
-Refer: 465 900 N 1 0 0 1 100 0 2
-Refer: 117 168 N 1 0 0 1 0 0 2
+SplineSet
+225 800 m 1
+ 325 800 l 1
+ 225 625 l 1
+ 125 625 l 1
+ 225 800 l 1
+50 800 m 2
+ 100 800 l 2
+ 118.450195312 800 150 795.7109375 150 750 c 0
+ 150 704.2890625 116.420898438 675 75 675 c 0
+ 33.5791015625 675 0 704.2890625 0 750 c 0
+ 0 795.7109375 31.5380859375 800 50 800 c 2
+400 800 m 2
+ 450 800 l 2
+ 468.450195312 800 500 795.7109375 500 750 c 0
+ 500 704.2890625 466.420898438 675 425 675 c 0
+ 383.579101562 675 350 704.2890625 350 750 c 0
+ 350 795.7109375 381.538085938 800 400 800 c 2
+EndSplineSet
 EndChar
 
 StartChar: anoteleia
@@ -10178,8 +10188,8 @@ StartChar: iotadieresistonos
 Encoding: 912 912 468
 Width: 550
 Flags: W
-HStem: 0 100<318.353 449.994> 580 20G<100 300> 625 175 675 125<17.1282 132.868 267.128 382.868>
-VStem: 0 150<691.844 796.232> 100 200<117.85 600> 250 150<691.844 796.232>
+HStem: 0 100<318.353 449.994> 580 20G<100 300> 675 125<17.1282 132.868 367.128 482.868>
+VStem: 0 150<691.844 796.232> 100 200<117.85 600> 350 150<691.844 796.232>
 LayerCount: 2
 Fore
 Refer: 466 901 N 1 0 0 1 0 0 2
@@ -10213,9 +10223,10 @@ EndChar
 StartChar: omegatonos
 Encoding: 974 974 471
 Width: 900
-Flags: HW
-HStem: 0 100<216.192 274.991 525.009 583.808> 580 20G<50 200 300 500 600 750> 625 175
-VStem: 0 175<150 500> 300 200<150.386 600> 350 100<221.062 600> 625 175<150 500>
+Flags: W
+HStem: 0 100<210.804 278.902 521.821 589.196> 580 20G<50 200 300 500 600 750> 625 175
+VStem: 0 175<133.252 540.979> 300 200<142.957 600> 625 175<133.445 540.979>
+CounterMasks: 1 1c
 LayerCount: 2
 Fore
 Refer: 465 900 S 1 0 0 1 300 0 2
@@ -10250,8 +10261,8 @@ StartChar: beta
 Encoding: 946 946 474
 Width: 600
 Flags: W
-HStem: 0 100<200 258.13> 400 100<200 258.801> 700 100<216.129 284.466>
-VStem: 0 200<-200 0 100 400 500 690.698> 300 200<142.832 356.989> 300 175<535.279 691.306>
+HStem: 0 100<200 266.114> 400 100<200 268.395> 700 100<216.129 298.611>
+VStem: 0 200<-200 0 100 400 500 690.698> 325 175<152.499 344.325> 325 150<530.245 677.223>
 LayerCount: 2
 Fore
 SplineSet
@@ -10269,13 +10280,13 @@ SplineSet
 250 700 m 0
  225 700 200 675 200 600 c 2
  200 500 l 1
- 225 500 300 525 300 600 c 0
- 300 675 279.202148438 700 250 700 c 0
+ 225 500 325 500 325 600 c 0
+ 325 675 279.202148438 700 250 700 c 0
 200 400 m 1
  200 100 l 1
- 250 100 300 150 300 225 c 2
- 300 275 l 2xf8
- 300 350 248.284179688 400 200 400 c 1
+ 250 100 325 150 325 225 c 2
+ 325 275 l 2xf8
+ 325 350 248.284179688 400 200 400 c 1
 EndSplineSet
 EndChar
 
@@ -10315,8 +10326,8 @@ StartChar: upsilondieresistonos
 Encoding: 944 944 476
 Width: 600
 Flags: W
-HStem: 0 100<208.86 291.14> 580 20G<0 175 300 450> 625 175 675 125<17.1282 132.868 267.128 382.868>
-VStem: 0 150<691.844 796.232> 0 175<133.252 600> 100 200 250 150<691.844 796.232> 325 175<133.445 540.979>
+HStem: 0 100<208.86 291.14> 580 20G<0 175 300 450> 675 125<17.1282 132.868 367.128 482.868>
+VStem: 0 150<691.844 796.232> 0 175<133.252 600> 325 175<133.445 540.979> 350 150<691.844 796.232>
 LayerCount: 2
 Fore
 Refer: 466 901 S 1 0 0 1 0 0 2
@@ -10411,22 +10422,22 @@ StartChar: alpha
 Encoding: 945 945 484
 Width: 700
 Flags: W
-HStem: 0 100<198.222 271.645 524.617 600> 500 100<198.222 271.422 524.644 600>
-VStem: 0 175<119.106 480.852> 325 175<159.63 299.166 301.794 440.37>
+HStem: 0 100<198.222 269.715 537.991 600> 500 100<198.222 269.715 537.991 600>
+VStem: 0 175<119.106 480.852> 300 200<138.186 461.814>
 LayerCount: 2
 Fore
 SplineSet
 225 600 m 0
- 286.267578125 600 353.502929688 545.73046875 406.17578125 475.80078125 c 1
- 452.518554688 544.715820312 517.853515625 600 600 600 c 1
+ 282.737304688 600 345.780273438 557.287109375 396.939453125 496.583984375 c 1
+ 449.045898438 557.287109375 519.16796875 600 600 600 c 1
  600 500 l 1
- 522.841796875 502.543945312 500 474.274414062 500 350 c 0
- 500 334.674804688 497.69921875 317.797851562 493.46484375 300 c 1
- 497.69921875 282.202148438 500 265.325195312 500 250 c 0
- 500 125.725585938 522.841796875 97.4560546875 600 100 c 1
+ 522.841796875 502.543945312 500 425 500 350 c 0
+ 500 333.81640625 498.159179688 317.033203125 494.88671875 300 c 1
+ 498.159179688 282.966796875 500 266.18359375 500 250 c 0
+ 500 175 522.841796875 97.4560546875 600 100 c 1
  600 0 l 1
- 517.729492188 0 452.607421875 55.455078125 406.41796875 124.515625 c 1
- 353.708984375 54.431640625 286.360351562 0 225 0 c 0
+ 519.16796875 0 449.045898438 42.712890625 396.939453125 103.416015625 c 1
+ 345.780273438 42.712890625 282.737304688 0 225 0 c 0
  50.0009765625 0 0 125 0 225 c 2
  0 375 l 2
  0 475 50.0009765625 599.815429688 225 600 c 0
@@ -10434,10 +10445,10 @@ SplineSet
  200 500 175 450 175 375 c 2
  175 225 l 2
  175 150 200 100 225 100 c 0
- 250 100 323.727539062 150.88671875 325 250 c 0
- 325.182617188 264.223632812 327.440429688 281.640625 331.57421875 300.92578125 c 1
- 327.60546875 319.469726562 325.353515625 336.233398438 325 350 c 0
- 322.456054688 449.11328125 250 500 225 500 c 0
+ 250 100 300 125 300 250 c 0
+ 300 266.18359375 301.540039062 282.966796875 304.35546875 300 c 1
+ 301.540039062 317.033203125 300 333.81640625 300 350 c 0
+ 300 475 250 500 225 500 c 0
 EndSplineSet
 EndChar
 
@@ -10621,8 +10632,8 @@ StartChar: alphatonos
 Encoding: 940 940 491
 Width: 700
 Flags: W
-HStem: 0 100<198.222 271.645 524.617 600> 500 100<198.222 271.422 524.644 600> 625 175
-VStem: 0 175<119.106 480.852> 200 200 325 175<159.63 299.166 301.794 440.37>
+HStem: 0 100<198.222 269.715 537.991 600> 500 100<198.222 269.715 537.991 600> 625 175
+VStem: 0 175<119.106 480.852> 200 200 300 200<138.186 461.814>
 LayerCount: 2
 Fore
 Refer: 465 900 S 1 0 0 1 200 0 2
@@ -11604,25 +11615,25 @@ StartChar: uni041A
 Encoding: 1050 1050 528
 Width: 700
 Flags: W
-HStem: 0 21G<0 200 505 600> 0 21G<0 200 505 600> 780 20G<0 200 431.818 600>
-VStem: 0 200<0 325 525 800>
+HStem: 0 21G<0 200 492.5 600> 0 21G<0 200 492.5 600> 780 20G<0 200 442.5 600>
+VStem: 0 200<0 312.5 537.5 800>
 LayerCount: 2
 Fore
 SplineSet
-200 325 m 1xb0
+600 137.5 m 1xb0
+ 600 0 l 1
+ 512.5 0 l 1
+ 200 312.5 l 1
  200 0 l 1
  0 0 l 1
  0 800 l 1
  200 800 l 1
- 200 525 l 1
- 450 800 l 1
+ 200 537.5 l 1
+ 462.5 800 l 1
  600 800 l 1
- 600 725 l 1
- 300 425 l 1
- 600 125 l 1
- 600 0 l 1
- 525 0 l 1
- 200 325 l 1xb0
+ 600 712.5 l 1
+ 312.5 425 l 1
+ 600 137.5 l 1xb0
 EndSplineSet
 EndChar
 
@@ -12980,22 +12991,22 @@ StartChar: uni043A
 Encoding: 1082 1082 578
 Width: 600
 Flags: W
-HStem: 0 21G<0 200 405 500> 0 21G<0 200 405 500> 580 20G<0 200 330 500>
-VStem: -0 200<0 225 450 600>
+HStem: 0 21G<0 200 392.5 500> 0 21G<0 200 392.5 500> 580 20G<0 200 342.5 500>
+VStem: -0 200<0 212.5 437.5 600>
 LayerCount: 2
 Fore
 SplineSet
 -0 600 m 1xb0
  200 600 l 1
- 200 450 l 1
- 350 600 l 1
+ 200 437.5 l 1
+ 362.5 600 l 1
  500 600 l 1
  500 525 l 1
- 312.5 337.5 l 1
- 500 150 l 1
+ 300 325 l 1
+ 500 125 l 1
  500 0 l 1
- 425 0 l 1
- 200 225 l 1
+ 412.5 0 l 1
+ 200 212.5 l 1
  200 0 l 1
  -0 0 l 1
  -0 600 l 1xb0
@@ -13703,8 +13714,8 @@ StartChar: uni045C
 Encoding: 1116 1116 607
 Width: 600
 Flags: W
-HStem: 0 21G<0 200 0 200 405 500 405 500> 580 20G<0 200 330 500> 625 175
-VStem: 0 200<0 225 450 600> 200 200
+HStem: 0 21G<0 200 0 200 392.5 500 392.5 500> 580 20G<0 200 342.5 500> 625 175
+VStem: 0 200<0 212.5 437.5 600> 200 200
 LayerCount: 2
 Fore
 Refer: 129 180 S 1 0 0 1 200 0 2
