@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1704495405
+ModificationTime: 1705353984
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -10653,8 +10653,8 @@ EndChar
 
 StartChar: uni0394
 Encoding: 916 916 445
-Width: 1750
-Flags: W
+Width: 1800
+Flags: WO
 HStem: 0 100<250 1300> 1380 20G<740 1010>
 LayerCount: 2
 Fore
@@ -11946,8 +11946,8 @@ EndChar
 
 StartChar: omicron
 Encoding: 959 959 493
-Width: 1275
-Flags: W
+Width: 1300
+Flags: WO
 HStem: 0 100<499.869 750.131> 900 100<498.926 751.074>
 VStem: 75 300<263.472 736.764> 875 300<263.472 736.764>
 LayerCount: 2
@@ -12491,7 +12491,7 @@ EndChar
 
 StartChar: omicrontonos
 Encoding: 972 972 514
-Width: 1275
+Width: 1300
 Flags: W
 HStem: 0 100<499.869 750.131> 900 100<498.926 751.074> 1100 300<600 650>
 VStem: 75 300<263.472 736.764> 500 300 875 300<263.472 736.764>
@@ -14351,7 +14351,7 @@ EndChar
 
 StartChar: uni0434
 Encoding: 1076 1076 574
-Width: 1501
+Width: 1500
 Flags: W
 HStem: -200 300<100 218.895 1280.4 1400> 0 100<419.015 900 1200 1211.04> 900 100<200 482.281 621.277 900 1200 1400>
 VStem: 100 100<-200 -115.368> 900 300<100 900> 1300 100<-200.004 -115.531>
