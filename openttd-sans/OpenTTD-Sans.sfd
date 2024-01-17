@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1705353405
+ModificationTime: 1705488901
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -44,6 +44,7 @@ HheadDOffset: 1
 OS2CapHeight: 800
 OS2XHeight: 600
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "Tabular Numbers" { "Tabular Numbers" ("tabular") } ['tnum' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Greek Kern" { "Greek Kern" [100,0,6] } ['????' ('copt' <'dflt' > 'grek' <'dflt' > ) ]
 Lookup: 258 0 0 "Kern" { "Kern" [100,0,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -89,7 +90,7 @@ FitToEm: 0
 WinInfo: 0 32 8
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 629
+BeginChars: 65546 639
 
 StartChar: a
 Encoding: 97 97 0
@@ -2017,7 +2018,7 @@ EndChar
 StartChar: comma
 Encoding: 44 44 81
 Width: 300
-Flags: WO
+Flags: W
 HStem: 180 20G<75 125>
 VStem: 50 150<-65.0092 26.376>
 LayerCount: 2
@@ -2081,7 +2082,7 @@ EndChar
 StartChar: zero
 Encoding: 48 48 85
 Width: 800
-Flags: W
+Flags: HW
 HStem: 0 100<289.376 410.624> 700 100<286.876 413.124>
 VStem: 0 200<223.728 572.498> 500 200<226.499 572.498>
 LayerCount: 2
@@ -2089,11 +2090,11 @@ Fore
 SplineSet
 500 375 m 2
  500 425 l 2
- 500 550 450 700 350 700 c 0
- 250 700 200 550 200 425 c 2
+ 500 550 449.7421875 707.177734375 350 700 c 0
+ 250 692.803710938 200 550 200 425 c 2
  200 375 l 2
- 200 250 248.388671875 103.598632812 350 100 c 0
- 451.611328125 96.4013671875 500 250 500 375 c 2
+ 200 250 250 100 350 100 c 0
+ 451.67578125 100 500 250 500 375 c 2
 0 375 m 2
  0 425 l 2
  0 625 125 800 350 800 c 0
@@ -2102,6 +2103,7 @@ SplineSet
  700 175 575 0 350 0 c 0
  125 0 0 175 0 375 c 2
 EndSplineSet
+Substitution2: "Tabular Numbers" zero.tabular
 EndChar
 
 StartChar: one
@@ -2123,6 +2125,7 @@ SplineSet
  200 500 l 5xb0
 EndSplineSet
 Validated: 1
+Substitution2: "Tabular Numbers" one.tabular
 EndChar
 
 StartChar: two
@@ -2149,6 +2152,7 @@ SplineSet
  0 725 75 800 300 800 c 0
  525 800 600.01953125 723.923828125 600 575 c 0
 EndSplineSet
+Substitution2: "Tabular Numbers" two.tabular
 EndChar
 
 StartChar: three
@@ -2178,6 +2182,7 @@ SplineSet
  0 675 l 1
  0 800 l 1
 EndSplineSet
+Substitution2: "Tabular Numbers" three.tabular
 EndChar
 
 StartChar: four
@@ -2206,6 +2211,7 @@ SplineSet
  0 800 l 5xbc
 EndSplineSet
 Validated: 1
+Substitution2: "Tabular Numbers" four.tabular
 EndChar
 
 StartChar: five
@@ -2236,6 +2242,7 @@ SplineSet
  600 700 l 5
 EndSplineSet
 Validated: 1
+Substitution2: "Tabular Numbers" five.tabular
 EndChar
 
 StartChar: six
@@ -2270,6 +2277,7 @@ SplineSet
  200 400 l 1
 EndSplineSet
 Validated: 1
+Substitution2: "Tabular Numbers" six.tabular
 EndChar
 
 StartChar: seven
@@ -2290,6 +2298,7 @@ SplineSet
  0 700 l 1
  0 800 l 1xa0
 EndSplineSet
+Substitution2: "Tabular Numbers" seven.tabular
 EndChar
 
 StartChar: eight
@@ -2330,6 +2339,7 @@ SplineSet
  400 350 375 400 300 400 c 4
 EndSplineSet
 Validated: 1
+Substitution2: "Tabular Numbers" eight.tabular
 EndChar
 
 StartChar: nine
@@ -2362,6 +2372,7 @@ SplineSet
  400 575 l 2
  400 650 375 700 300 700 c 0
 EndSplineSet
+Substitution2: "Tabular Numbers" nine.tabular
 EndChar
 
 StartChar: colon
@@ -8516,12 +8527,18 @@ EndChar
 
 StartChar: minus
 Encoding: 8722 8722 399
-Width: 800
+Width: 700
 Flags: W
-HStem: 300 100<0 700>
+HStem: 300 100<0 600>
 LayerCount: 2
 Fore
-Refer: 387 8210 N 1 0 0 1 0 0 2
+SplineSet
+0 400 m 1
+ 600 400 l 1
+ 600 300 l 1
+ 0 300 l 1
+ 0 400 l 1
+EndSplineSet
 EndChar
 
 StartChar: uni27E8
@@ -14165,6 +14182,291 @@ Fore
 Refer: 129 180 S 1 0 0 1 100 0 2
 Refer: 129 180 S 1 0 0 1 300 0 2
 Refer: 590 1091 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: zero.tabular
+Encoding: 65536 -1 629
+Width: 700
+Flags: W
+HStem: 0 100<259.552 349.905> 700 100<256.143 343.857>
+VStem: 0 200<199.402 600.598> 400 200<199.402 600.598>
+LayerCount: 2
+Fore
+SplineSet
+400 375 m 2
+ 400 425 l 2
+ 400 550 375 700 300 700 c 0
+ 225 700 200 550 200 425 c 2
+ 200 375 l 2
+ 200 250 218.743164062 102.326171875 300 100 c 0
+ 381.256835938 97.673828125 400 250 400 375 c 2
+0 375 m 2
+ 0 425 l 2
+ 0 625 75 800 300 800 c 0
+ 525 800 600 625 600 425 c 2
+ 600 375 l 2
+ 600 175 525 0 300 0 c 0
+ 75 0 0 175 0 375 c 2
+EndSplineSet
+EndChar
+
+StartChar: one.tabular
+Encoding: 65537 -1 630
+Width: 700
+Flags: W
+HStem: 0 100<0 200 400 600> 780 20G<230 400>
+VStem: 200 200<100 500>
+LayerCount: 2
+Fore
+SplineSet
+250 800 m 1
+ 400 800 l 1
+ 400 100 l 1
+ 600 100 l 1
+ 600 0 l 1
+ 0 0 l 1
+ 0 100 l 1
+ 200 100 l 1
+ 200 500 l 1
+ 0 500 l 1
+ 0 550 l 1
+ 250 800 l 1
+EndSplineSet
+EndChar
+
+StartChar: two.tabular
+Encoding: 65538 -1 631
+Width: 700
+Flags: W
+HStem: 0 125<200 600> 700 100<236.819 368.647>
+VStem: 0 200<550 662.891> 400 200<507.476 667.666>
+LayerCount: 2
+Fore
+SplineSet
+600 575 m 0
+ 599.993164062 526.092773438 550 475 500 425 c 2
+ 200 125 l 1
+ 600 125 l 1
+ 600 0 l 1
+ 0 0 l 1
+ 0 125 l 1
+ 325 450 l 2
+ 357.813476562 482.813476562 400 523.309570312 400 575 c 0
+ 400 675 350 700 300 700 c 0
+ 250 700 200 675 200 550 c 1
+ 0 550 l 1
+ 0 725 75 800 300 800 c 0
+ 525 800 600.01953125 723.923828125 600 575 c 0
+EndSplineSet
+EndChar
+
+StartChar: three.tabular
+Encoding: 65539 -1 632
+Width: 700
+Flags: W
+HStem: 0 100<236.819 370.367> 675 125<0 450>
+VStem: 0 200<137.109 250> 400 200<128.373 277.976>
+LayerCount: 2
+Fore
+SplineSet
+0 800 m 1
+ 600 800 l 1
+ 600 625 l 1
+ 425 450 l 1
+ 500 375 l 2
+ 550 325 600 273.388671875 600 200 c 0
+ 600 75 525 0 300 0 c 0
+ 75 0 0 75 0 250 c 1
+ 200 250 l 1
+ 200 125 250 100 300 100 c 0
+ 350 100 400 125 400 200 c 0
+ 400 250 350 325 300 375 c 2
+ 250 425 l 1
+ 250 475 l 1
+ 450 675 l 1
+ 0 675 l 1
+ 0 800 l 1
+EndSplineSet
+EndChar
+
+StartChar: four.tabular
+Encoding: 65540 -1 633
+Width: 700
+Flags: W
+HStem: 0 21G<300 500> 0 21G<300 500> 200 100<200 300 500 600> 780 20G<0 200>
+VStem: 0 200<300 800> 300 200<0 200 300 500>
+LayerCount: 2
+Fore
+SplineSet
+0 800 m 5xbc
+ 200 800 l 5
+ 200 300 l 5
+ 300 300 l 5
+ 300 500 l 5
+ 500 500 l 5
+ 500 300 l 5
+ 600 300 l 5
+ 600 200 l 5
+ 500 200 l 5
+ 500 0 l 5
+ 300 0 l 5
+ 300 200 l 5
+ 0 200 l 5
+ 0 800 l 5xbc
+EndSplineSet
+EndChar
+
+StartChar: five.tabular
+Encoding: 65541 -1 634
+Width: 700
+Flags: W
+HStem: 0 100<236.85 363.212> 400 100<200 359.388> 700 100<200 600>
+VStem: 0 200<137.109 250 500 700> 400.031 200<137.109 362.891>
+LayerCount: 2
+Fore
+SplineSet
+600 700 m 5
+ 200 700 l 5
+ 200 500 l 5
+ 300 500 l 6
+ 525 500 600 425 600 250 c 5
+ 600.03125 250 l 5
+ 600.03125 75 525.03125 0 300.03125 0 c 4
+ 75.03125 0 0.03125 75 0.03125 250 c 5
+ 200.03125 250 l 5
+ 200.03125 125 250.03125 100 300.03125 100 c 4
+ 350.03125 100 400.03125 125 400.03125 250 c 5
+ 400 250 l 5
+ 400 375 350 400 300 400 c 6
+ 0 400 l 5
+ 0 800 l 5
+ 600 800 l 5
+ 600 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: six.tabular
+Encoding: 65542 -1 635
+Width: 700
+Flags: W
+HStem: 0 100<236.85 363.212> 400 100<200 359.388> 700 100<236.819 495.488>
+VStem: 0.03125 199.969<137.109 400 500 662.891> 400.031 200<137.109 362.891>
+LayerCount: 2
+Fore
+SplineSet
+0.03125 250 m 2
+ 0 550 l 2
+ 0 725 75 800 300 800 c 0
+ 350 800 400 800 500 775 c 1
+ 500 675 l 1
+ 406.109375 700 350 700 300 700 c 0
+ 250 700 200 675 200 550 c 2
+ 200 500 l 1
+ 300 500 l 2
+ 525 500 600 425 600 250 c 1
+ 600.03125 250 l 1
+ 600.03125 75 525.03125 0 300.03125 0 c 0
+ 75.03125 0 0.03125 75 0.03125 250 c 2
+200 400 m 1
+ 200 250 l 1
+ 200.03125 250 l 1
+ 200.03125 125 250.03125 100 300.03125 100 c 0
+ 350.03125 100 400.03125 125 400.03125 250 c 1
+ 400 250 l 1
+ 400 375 350 400 300 400 c 2
+ 200 400 l 1
+EndSplineSet
+EndChar
+
+StartChar: seven.tabular
+Encoding: 65543 -1 636
+Width: 700
+Flags: W
+HStem: 0 21G<100 235.714> 0 21G<100 235.714> 700 100<0 425>
+LayerCount: 2
+Fore
+SplineSet
+0 800 m 1xa0
+ 600 800 l 1
+ 600 700 l 1
+ 225 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 425 700 l 1
+ 0 700 l 1
+ 0 800 l 1xa0
+EndSplineSet
+EndChar
+
+StartChar: eight.tabular
+Encoding: 65544 -1 637
+Width: 700
+Flags: W
+HStem: 0 100<230.677 368.435> 400 100<229.898 370.102> 700 100<227.839 372.161>
+VStem: 0 200<132.088 369.616> 25 175<525.234 673.354> 400 200<132.458 369.616> 400 175<525.234 673.354>
+LayerCount: 2
+Fore
+SplineSet
+300 800 m 4xe8
+ 500 800 575 750 575 625 c 6
+ 575 575 l 6xea
+ 575 515.569335938 558.564453125 473.733398438 519.609375 445.873046875 c 5
+ 577.291015625 404.727539062 600 343.658203125 600 275 c 6
+ 600 225 l 6
+ 600 100 525 0 300 0 c 4
+ 75 0 0 100 0 225 c 6
+ 0 275 l 6xf4
+ 0 343.30078125 22.4775390625 404.088867188 79.49609375 445.2265625 c 5
+ 41.45703125 473.783203125 25 516.458007812 25 575 c 6
+ 25 625 l 6
+ 25 750 100 800 300 800 c 4xe8
+300 700 m 4
+ 225 700 200 650 200 625 c 6
+ 200 575 l 6
+ 200 550 225 500 300 500 c 4
+ 375 500 400 550 400 575 c 6
+ 400 625 l 6
+ 400 650 375 700 300 700 c 4
+300 400 m 4
+ 225 400 200 350 200 275 c 6
+ 200 225 l 6
+ 200 150 225 100 300 100 c 4
+ 375 100 400 155.921875 400 225 c 6
+ 400 275 l 6xf4
+ 400 350 375 400 300 400 c 4
+EndSplineSet
+EndChar
+
+StartChar: nine.tabular
+Encoding: 65545 -1 638
+Width: 700
+Flags: W
+HStem: 0 21G<100 245> 0 21G<100 245> 300 100<231.457 322.848> 700 100<230.677 369.323>
+VStem: 0 200<432.088 667.912> 400 200<432.808 667.912>
+LayerCount: 2
+Fore
+SplineSet
+300 800 m 0xbc
+ 525 800 600 700 600 575 c 2
+ 600 525 l 2
+ 600 520.864257812 599.905273438 516.76171875 599.73828125 512.68359375 c 0
+ 597.005859375 372.428710938 548.573242188 323.573242188 500 275 c 2
+ 225 0 l 1
+ 100 0 l 1
+ 100 75 l 1
+ 325.501953125 300.501953125 l 1
+ 317.19921875 300.204101562 308.752929688 300 300 300 c 0
+ 75 300 0 400 0 525 c 2
+ 0 575 l 2
+ 0 700 75 800 300 800 c 0xbc
+300 700 m 0
+ 225 700 200 650 200 575 c 2
+ 200 525 l 2
+ 200 450 225 400 300 400 c 0
+ 375 400 400 455.921875 400 525 c 2
+ 400 575 l 2
+ 400 650 375 700 300 700 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

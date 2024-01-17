@@ -33,6 +33,8 @@ When used as a vector font, it comes with the usual improvements:
 * Character pair kerning
 * Select ligatures/contextual alternates
 
+Provides normal lining numerals and tabular numerals as an alternate.
+
 ## Technical details
 SVG glyphs are drawn in Inkscape, for manual import into FontForge. Source SVGs, occasionally containing source paths pre-union, are included for convenience.
 
