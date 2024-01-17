@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1705355477
+ModificationTime: 1705484356
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -56,7 +56,7 @@ FitToEm: 0
 WinInfo: 0 32 8
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 614
+BeginChars: 65536 613
 
 StartChar: a
 Encoding: 97 97 0
@@ -2125,25 +2125,28 @@ StartChar: zero
 Encoding: 48 48 85
 Width: 800
 Flags: W
-HStem: 0 100<246.082 353.918> 700 100<246.082 353.918>
-VStem: 0 200<199.402 600.598> 400 200<199.402 600.598>
+HStem: 0 100<246 353.918> 700 100<246.082 354>
+VStem: 0 200<375 600.598> 400 200<199.402 425>
 LayerCount: 2
 Fore
 SplineSet
-400 375 m 2
- 400 425 l 2
- 400 550 400 700 300 700 c 0
- 200 700 200 550 200 425 c 2
- 200 375 l 2
- 200 250 200 100 300 100 c 0
- 400 100 400 250 400 375 c 2
-0 375 m 2
- 0 425 l 2
- 0 625 75 800 300 800 c 0
+300 800 m 0
  525 800 600 625 600 425 c 2
  600 375 l 2
  600 175 525 0 300 0 c 0
  75 0 0 175 0 375 c 2
+ 0 425 l 2
+ 0 625 75 800 300 800 c 0
+300 700 m 0
+ 200 700 200 550 200 425 c 2
+ 200 375 l 1
+ 394.380859375 569.380859375 l 1
+ 385.36328125 642.65625 361.801757812 700 300 700 c 0
+400 425 m 1
+ 205.619140625 230.619140625 l 1
+ 214.63671875 157.34375 238.198242188 100 300 100 c 0
+ 400 100 400 250 400 375 c 2
+ 400 425 l 1
 EndSplineSet
 EndChar
 
@@ -8322,7 +8325,7 @@ EndChar
 StartChar: uni2116
 Encoding: 8470 8470 378
 Width: 800
-Flags: WO
+Flags: W
 HStem: 0 21G<0 100 300 375> 0 21G<0 100 300 375> 200 100<400 700> 700 100<514.374 585.626>
 VStem: 0 100<0 550 750 800> 300 75<0 150 350 800> 400 100<509.093 690.87> 600 100<512.228 690.849>
 LayerCount: 2
@@ -8762,7 +8765,7 @@ EndChar
 StartChar: uni058F
 Encoding: 1423 1423 402
 Width: 800
-Flags: WO
+Flags: W
 HStem: 0 21G<300 500> 0 21G<300 500> 100 100<100 300 500 600> 300 100<100 300 500 600> 700 100<211.947 288.053>
 VStem: 0 200<500 689.885> 300 200<0 100 200 300 400 689.885>
 LayerCount: 2
@@ -13914,13 +13917,6 @@ Fore
 Refer: 129 180 S 1 0 0 1 200 0 2
 Refer: 129 180 S 1 0 0 1 -100 0 2
 Refer: 574 1091 N 1 0 0 1 0 0 2
-EndChar
-
-StartChar: napostrophe
-Encoding: 329 329 613
-Width: 800
-Flags: W
-LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
