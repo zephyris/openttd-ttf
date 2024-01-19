@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1705488901
+ModificationTime: 1705659579
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -45,6 +45,7 @@ OS2CapHeight: 800
 OS2XHeight: 600
 OS2Vendor: 'PfEd'
 Lookup: 1 0 0 "Tabular Numbers" { "Tabular Numbers" ("tabular") } ['tnum' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Proportional Numbers" { "Proportional Numbers" ("proportional") } ['pnum' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Greek Kern" { "Greek Kern" [100,0,6] } ['????' ('copt' <'dflt' > 'grek' <'dflt' > ) ]
 Lookup: 258 0 0 "Kern" { "Kern" [100,0,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -2081,51 +2082,56 @@ EndChar
 
 StartChar: zero
 Encoding: 48 48 85
-Width: 800
-Flags: HW
-HStem: 0 100<289.376 410.624> 700 100<286.876 413.124>
-VStem: 0 200<223.728 572.498> 500 200<226.499 572.498>
+Width: 700
+Flags: W
+HStem: 0 100<259.552 349.905> 700 100<256.143 343.857>
+VStem: 0 200<199.402 600.598> 400 200<199.402 600.598>
 LayerCount: 2
 Fore
 SplineSet
-500 375 m 2
- 500 425 l 2
- 500 550 449.7421875 707.177734375 350 700 c 0
- 250 692.803710938 200 550 200 425 c 2
+400 375 m 2
+ 400 425 l 2
+ 400 550 375 700 300 700 c 0
+ 225 700 200 550 200 425 c 2
  200 375 l 2
- 200 250 250 100 350 100 c 0
- 451.67578125 100 500 250 500 375 c 2
+ 200 250 218.743164062 102.326171875 300 100 c 0
+ 381.256835938 97.673828125 400 250 400 375 c 2
 0 375 m 2
  0 425 l 2
- 0 625 125 800 350 800 c 0
- 575 800 700 625 700 425 c 2
- 700 375 l 2
- 700 175 575 0 350 0 c 0
- 125 0 0 175 0 375 c 2
+ 0 625 75 800 300 800 c 0
+ 525 800 600 625 600 425 c 2
+ 600 375 l 2
+ 600 175 525 0 300 0 c 0
+ 75 0 0 175 0 375 c 2
 EndSplineSet
-Substitution2: "Tabular Numbers" zero.tabular
+Substitution2: "Proportional Numbers" zero.proportional
+Substitution2: "Tabular Numbers" zero
 EndChar
 
 StartChar: one
 Encoding: 49 49 86
-Width: 500
+Width: 700
 Flags: W
-HStem: 0 21G<200 400> 0 21G<200 400> 780 20G<230 400>
-VStem: 200 200<0 500>
+HStem: 0 100<0 200 400 600> 780 20G<230 400>
+VStem: 200 200<100 500>
 LayerCount: 2
 Fore
 SplineSet
-200 500 m 5xb0
- 0 500 l 5
- 0 550 l 5
- 250 800 l 5
- 400 800 l 5
- 400 0 l 5
- 200 0 l 5
- 200 500 l 5xb0
+250 800 m 1
+ 400 800 l 1
+ 400 100 l 1
+ 600 100 l 1
+ 600 0 l 1
+ 0 0 l 1
+ 0 100 l 1
+ 200 100 l 1
+ 200 500 l 1
+ 0 500 l 1
+ 0 550 l 1
+ 250 800 l 1
 EndSplineSet
-Validated: 1
-Substitution2: "Tabular Numbers" one.tabular
+Substitution2: "Proportional Numbers" one.proportional
+Substitution2: "Tabular Numbers" one
 EndChar
 
 StartChar: two
@@ -2152,7 +2158,8 @@ SplineSet
  0 725 75 800 300 800 c 0
  525 800 600.01953125 723.923828125 600 575 c 0
 EndSplineSet
-Substitution2: "Tabular Numbers" two.tabular
+Substitution2: "Proportional Numbers" two.proportional
+Substitution2: "Tabular Numbers" two
 EndChar
 
 StartChar: three
@@ -2182,7 +2189,8 @@ SplineSet
  0 675 l 1
  0 800 l 1
 EndSplineSet
-Substitution2: "Tabular Numbers" three.tabular
+Substitution2: "Proportional Numbers" three.proportional
+Substitution2: "Tabular Numbers" three
 EndChar
 
 StartChar: four
@@ -2210,8 +2218,8 @@ SplineSet
  0 200 l 5
  0 800 l 5xbc
 EndSplineSet
-Validated: 1
-Substitution2: "Tabular Numbers" four.tabular
+Substitution2: "Proportional Numbers" four.proportional
+Substitution2: "Tabular Numbers" four
 EndChar
 
 StartChar: five
@@ -2241,8 +2249,8 @@ SplineSet
  600 800 l 5
  600 700 l 5
 EndSplineSet
-Validated: 1
-Substitution2: "Tabular Numbers" five.tabular
+Substitution2: "Proportional Numbers" five.proportional
+Substitution2: "Tabular Numbers" five
 EndChar
 
 StartChar: six
@@ -2276,8 +2284,8 @@ SplineSet
  400 375 350 400 300 400 c 2
  200 400 l 1
 EndSplineSet
-Validated: 1
-Substitution2: "Tabular Numbers" six.tabular
+Substitution2: "Proportional Numbers" six.proportional
+Substitution2: "Tabular Numbers" six
 EndChar
 
 StartChar: seven
@@ -2298,7 +2306,8 @@ SplineSet
  0 700 l 1
  0 800 l 1xa0
 EndSplineSet
-Substitution2: "Tabular Numbers" seven.tabular
+Substitution2: "Proportional Numbers" seven.proportional
+Substitution2: "Tabular Numbers" seven
 EndChar
 
 StartChar: eight
@@ -2338,8 +2347,8 @@ SplineSet
  400 275 l 6xf4
  400 350 375 400 300 400 c 4
 EndSplineSet
-Validated: 1
-Substitution2: "Tabular Numbers" eight.tabular
+Substitution2: "Proportional Numbers" eight.proportional
+Substitution2: "Tabular Numbers" eight
 EndChar
 
 StartChar: nine
@@ -2372,7 +2381,8 @@ SplineSet
  400 575 l 2
  400 650 375 700 300 700 c 0
 EndSplineSet
-Substitution2: "Tabular Numbers" nine.tabular
+Substitution2: "Proportional Numbers" nine.proportional
+Substitution2: "Tabular Numbers" nine
 EndChar
 
 StartChar: colon
@@ -14184,57 +14194,53 @@ Refer: 129 180 S 1 0 0 1 300 0 2
 Refer: 590 1091 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: zero.tabular
+StartChar: zero.proportional
 Encoding: 65536 -1 629
-Width: 700
+Width: 800
 Flags: W
-HStem: 0 100<259.552 349.905> 700 100<256.143 343.857>
-VStem: 0 200<199.402 600.598> 400 200<199.402 600.598>
+HStem: 0 100<286.876 413.478> 780 20G<237.5 462.5>
+VStem: 0 200<227.502 575.873> 500 200<227.502 574.5>
 LayerCount: 2
 Fore
 SplineSet
-400 375 m 2
- 400 425 l 2
- 400 550 375 700 300 700 c 0
- 225 700 200 550 200 425 c 2
+500 375 m 2
+ 500 425 l 2
+ 500 550 449.7421875 707.177734375 350 700 c 0
+ 250 692.803710938 200 550 200 425 c 2
  200 375 l 2
- 200 250 218.743164062 102.326171875 300 100 c 0
- 381.256835938 97.673828125 400 250 400 375 c 2
+ 200 250 250 100 350 100 c 0
+ 451.67578125 100 500 250 500 375 c 2
 0 375 m 2
  0 425 l 2
- 0 625 75 800 300 800 c 0
- 525 800 600 625 600 425 c 2
- 600 375 l 2
- 600 175 525 0 300 0 c 0
- 75 0 0 175 0 375 c 2
+ 0 625 125 800 350 800 c 0
+ 575 800 700 625 700 425 c 2
+ 700 375 l 2
+ 700 175 575 0 350 0 c 0
+ 125 0 0 175 0 375 c 2
 EndSplineSet
 EndChar
 
-StartChar: one.tabular
+StartChar: one.proportional
 Encoding: 65537 -1 630
-Width: 700
+Width: 500
 Flags: W
-HStem: 0 100<0 200 400 600> 780 20G<230 400>
-VStem: 200 200<100 500>
+HStem: 0 21G<200 400> 0 21G<200 400> 780 20G<230 400>
+VStem: 200 200<0 500>
 LayerCount: 2
 Fore
 SplineSet
-250 800 m 1
- 400 800 l 1
- 400 100 l 1
- 600 100 l 1
- 600 0 l 1
- 0 0 l 1
- 0 100 l 1
- 200 100 l 1
- 200 500 l 1
- 0 500 l 1
- 0 550 l 1
- 250 800 l 1
+200 500 m 5xb0
+ 0 500 l 5
+ 0 550 l 5
+ 250 800 l 5
+ 400 800 l 5
+ 400 0 l 5
+ 200 0 l 5
+ 200 500 l 5xb0
 EndSplineSet
 EndChar
 
-StartChar: two.tabular
+StartChar: two.proportional
 Encoding: 65538 -1 631
 Width: 700
 Flags: W
@@ -14260,7 +14266,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: three.tabular
+StartChar: three.proportional
 Encoding: 65539 -1 632
 Width: 700
 Flags: W
@@ -14289,7 +14295,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: four.tabular
+StartChar: four.proportional
 Encoding: 65540 -1 633
 Width: 700
 Flags: W
@@ -14316,7 +14322,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: five.tabular
+StartChar: five.proportional
 Encoding: 65541 -1 634
 Width: 700
 Flags: W
@@ -14345,7 +14351,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: six.tabular
+StartChar: six.proportional
 Encoding: 65542 -1 635
 Width: 700
 Flags: W
@@ -14378,7 +14384,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: seven.tabular
+StartChar: seven.proportional
 Encoding: 65543 -1 636
 Width: 700
 Flags: W
@@ -14398,7 +14404,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: eight.tabular
+StartChar: eight.proportional
 Encoding: 65544 -1 637
 Width: 700
 Flags: W
@@ -14437,7 +14443,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nine.tabular
+StartChar: nine.proportional
 Encoding: 65545 -1 638
 Width: 700
 Flags: W
