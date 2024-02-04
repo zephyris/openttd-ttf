@@ -24,12 +24,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.78606706"
-     inkscape:cx="958.56962"
-     inkscape:cy="1296.3271"
+     inkscape:zoom="2.2233334"
+     inkscape:cx="814.31782"
+     inkscape:cy="1764.9175"
      inkscape:window-width="3840"
      inkscape:window-height="2066"
-     inkscape:window-x="-11"
+     inkscape:window-x="5749"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
@@ -67,4 +67,5 @@
        sodipodi:nodetypes="cccsssccc" /><path
        id="path123739-0"
        style="fill:#000000;fill-opacity:0.555319;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 100 600 L 100 700 L 300 700 L 300 1500 L 100 1500 L 100 1600 L 800 1600 L 800 1500 L 600 1500 L 600 1000 C 600 1000 716.74693 698.72784 960 700 C 1099.998 700.73216 1100 800.0001 1100 900 L 1100 1600 C 1100 1769.9998 1019.9999 1900 900 1900 C 799.8605 1900.8995 780 1880 780 1880 C 780 1880 900 1889.9998 900 1775 C 900 1725.0001 867.78376 1675 750 1675 C 675.00014 1675 600 1702.1713 600 1800 C 600 1896.431 698.57641 1995.129 900 2000 C 1049.7747 2000 1400 1919.9997 1400 1600 L 1400 880 C 1400.8996 799.79018 1299.9997 600 960 600 C 700.00026 600 600 870 600 870 L 600 600 L 100 600 z " /></g></svg>
+       d="m 100,600 v 100 h 200 v 800 H 100 v 100 H 800 V 1500 H 600 v -500 c 0,0 116.74693,-301.27216 360,-300 139.998,0.73216 140,100.0001 140,200 v 700 c 0,169.9998 -80.0011,299.5097 -200,300 -100.1427,0.4092 -120,-20 -120,-20 0,0 120,9.9998 120,-105 0,-49.9999 -32.21624,-100 -150,-100 -74.99986,0 -150,27.1713 -150,125 0,96.431 100,200 300,200 149.7747,0 500,-80.0003 500,-400 V 880 C 1400.8996,799.79018 1299.9997,600 960,600 700.00026,600 600,870 600,870 V 600 Z"
+       sodipodi:nodetypes="ccccccccccsssscssssscsccc" /></g></svg>
