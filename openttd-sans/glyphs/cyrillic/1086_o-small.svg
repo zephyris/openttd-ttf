@@ -7,7 +7,7 @@
    viewBox="0 0 1200 1200"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="1086_o-small.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="0.78606706"
-     inkscape:cx="209.90576"
-     inkscape:cy="653.88823"
+     inkscape:cx="414.08681"
+     inkscape:cy="654.52431"
      inkscape:window-width="1276"
      inkscape:window-height="1481"
      inkscape:window-x="1271"
@@ -57,5 +57,5 @@
        id="layer1-7"><path
          id="path2"
          style="fill:#000000;fill-opacity:0.555319;fill-rule:evenodd;stroke-width:0.999873"
-         d="M 500,625 C 500,525 424.99982,400 250,400 75.000267,400.18455 -5e-6,525.0001 -5e-6,625 v 150 c 0,99.9999 75.000175,225 250.000005,225 199.9998,0 250,-125 250,-225 z m -325,0 c 0,-74.99992 25.00005,-125 75,-125 50,0 75,50.00008 75,125 v 150 c 0,74.61401 -50.00886,125.66495 -75,125 -33.80805,-0.89955 -75,-50.00008 -75,-125 z"
+         d="M 500,625 C 500,525 424.99982,400 250,400 75.000267,400.18455 -5e-6,525.0001 -5e-6,625 v 150 c 0,99.9999 75.000175,225 250.000005,225 199.9998,0 250,-125 250,-225 z m -300,0 c 0,-74.99992 5e-5,-125 50,-125 50,0 50,50.00008 50,125 v 150 c 0,74.61401 -0.0168,126.29541 -50,125 -49.08589,-1.27216 -50,-50.00008 -50,-125 z"
          sodipodi:nodetypes="ccssscccsccscc" /></g></g></svg>
