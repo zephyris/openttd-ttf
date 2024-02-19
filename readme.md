@@ -1,4 +1,5 @@
 # OpenTTD TrueType typefaces
+
 TrueType typefaces for text in a pixel art style, designed for use in OpenTTD. Drawn to broadly capture the look and feel of the pixel fonts in Transport Tycoon Deluxe.
 
 These typefaces have a pixel-perfect appearance when rendered a specific height (or multiples thereof).
@@ -6,6 +7,7 @@ These typefaces have a pixel-perfect appearance when rendered a specific height 
 ## Faces
 
 ### OpenTTD Sans
+
 Heavy sans serif designed for use for dense medium-sized text.
 Designed for use at 10 pixel height.
 
@@ -19,6 +21,7 @@ Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A` and `C
 Extensive coverage of: `Greek and Coptic` and `Cyrillic`.
 
 ### OpenTTD Mono
+
 Heavy sans serif monospace designed for dense medium-sized code.
 Designed for use at 10 pixel height.
 
@@ -32,6 +35,7 @@ Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A` and `C
 Extensive coverage of: `Greek and Coptic` and `Cyrillic`.
 
 ### OpenTTD Serif
+
 Light serif designed for use in sparse large text.
 Designed for use at 18 pixel height.
 
@@ -45,6 +49,7 @@ Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A` and `C
 Extensive coverage of: `Greek and Coptic` and `Cyrillic`.
 
 ### OpenTTD Small
+
 Specialised very small size typeface for use in small text. Comes in two variants, normal or all capitals.
 Designed for use at 6 pixel height.
 
@@ -59,6 +64,15 @@ Full coverage of: `Basic Latin`, `Latin-1 Supplement`, `Latin Extended-A`, `Curr
 Extensive coverage of: `Greek and Coptic` and `Cyrillic`.
 
 ## Using in OpenTTD
+
+If you are using OpenTTD 14.0 or later, these come included with the game.
+They are enabled by default, and you can toggle them using `Game Options > Graphics > Use traditional sprite font`.
+
+### Manual installation
+
+If you would like to manually install them then follow these instructions.
+This lets you use the latest updates, use thm in older versions of OpenTTD, use custom size/style combinations, etc. 
+
 1. Download the typeface (font) TTF files. For each link, download the TTF file by clicking on "View raw": [OpenTTD-Sans.ttf](openttd-sans/OpenTTD-Sans.ttf), [OpenTTD-Serif.ttf](openttd-serif/OpenTTD-Serif.ttf) and [OpenTTD-Small.ttf](openttd-small/OpenTTD-Small.ttf).
 2. Install as normal for your operating system. In Windows, double-click on the TTF file to open it, then click "Install" in the top left.
 3. Set up OpenTTD to use the fonts. In your [openttd.cfg](https://wiki.openttd.org/en/Archive/Manual/Settings/Openttd.cfg) file, change the font settings to the following:
@@ -91,6 +105,7 @@ mono_font =
 ```
 
 ## Mistakes and Bugs
+
 There might be mistakes or bugs, if you spot any problems please let me know! I'm a native English speaker, so the non-standard Latin alphabet and diacritics are where you are most likely to find errors. The best way to report problems is is using Github Issues.
 
 ## Building
