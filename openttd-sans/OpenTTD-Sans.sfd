@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1708985601
+ModificationTime: 1708986324
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -64,7 +64,7 @@ KernClass2: 5+ 5 "Greek Kern"
  199 alphatonos epsilontonos etatonos alpha gamma delta epsilon eta iota kappa uni03BC nu omicron pi rho sigma1 sigma tau upsilon phi chi psi omega omicrontonos upsilontonos omegatonos phi1 omega1 uni03D7
  20 Alpha uni0394 Lambda
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -300 {} 0 {} 0 {} 0 {} -100 {} -200 {} 0 {} -100 {} -100 {} 0 {} 0 {} 0 {} -200 {} -300 {} 0 {} 0 {}
-KernClass2: 10+ 9 "Kern"
+KernClass2: 12+ 10 "Kern"
  0 
  17 T uni0162 uni021A
  27 F V W Y Wcircumflex uni0191
@@ -75,15 +75,18 @@ KernClass2: 10+ 9 "Kern"
  21 L Ldot Lslash uni029F
  1 r
  11 A D G O P R
+ 5 d i l
+ 1 j
  153 a d m n p s u v w x y z aacute ae uacute aogonek eogonek dotlessi kgreenlandic uni0146 eng sacute scedilla uogonek wcircumflex zdotaccent uni01B6 uni0219
  17 f Eth Dcroat hbar
  24 t uni0163 tcaron uni021B
- 8 j florin
+ 1 j
  34 V W Y Yacute Wcircumflex Ydieresis
  17 T uni0162 uni021A
  121 c e g o q r ccedilla eacute oacute oslash cacute cdotaccent dcaron dcroat edotaccent gdotaccent uni0123 oe racute uni0157
  7 A G O Q
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} -100 {} -100 {} -200 {} 0 {} 0 {} -100 {} 0 {} 0 {} -100 {} 0 {} 0 {} -200 {} 0 {} 0 {} -100 {} -100 {} 0 {} -100 {} -100 {} 0 {} -200 {} 0 {} 0 {} -100 {} 0 {} -100 {} -100 {} -100 {} -100 {} -200 {} -100 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -200 {} -200 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {}
+ 6 florin
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} -100 {} -100 {} -200 {} 0 {} 0 {} -100 {} 0 {} -200 {} 0 {} -100 {} 0 {} 0 {} -200 {} 0 {} 0 {} -100 {} -100 {} -200 {} 0 {} -100 {} -100 {} 0 {} -200 {} 0 {} 0 {} -100 {} 0 {} -200 {} -100 {} -100 {} -100 {} -100 {} -200 {} -100 {} -100 {} -100 {} 0 {} -200 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -200 {} -200 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -200 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 ContextSub2: class "CapitalsDiactricAbove" 3 1 1 1
   Class: 299 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F
   Class: 101 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C
@@ -104,7 +107,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 8
+WinInfo: 64 32 8
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "bottom" "Diacritics" "top" "Diacritics"
