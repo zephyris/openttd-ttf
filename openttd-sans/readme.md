@@ -32,6 +32,7 @@ This comes with some pixel "charm", like some unusual character spacing and off-
 When used as a vector font, it comes with the usual improvements:
 * Character pair kerning
 * Select ligatures/contextual alternates
+* Combining diacritics for basic Latin and Cyrillic alphabets
 
 Provides tabular numerals, and proportional numerals (matching the TTD style) as an alternate.
 
