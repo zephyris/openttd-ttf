@@ -26,6 +26,9 @@ Plus a few additional glyphs - stray small caps and glyphs of particular use in 
 ## Features
 OpenTTD Small is designed with the creation of standalone bitmap strikes in mind, for example for generation of an image/sprite-based font.
 
+When used as a vector font, it comes with select improvements:
+* Character pair kerning
+
 ## Technical details
 SVG glyphs are drawn in Inkscape, for manual import into FontForge. Source SVGs, occasionally containing source paths pre-union, are included for convenience.
 

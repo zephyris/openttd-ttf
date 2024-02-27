@@ -29,10 +29,11 @@ Plus a few additional glyphs - stray small caps and glyphs of particular use in 
 OpenTTD Sans is designed with the creation of standalone bitmap strikes in mind, for example for generation of an image/sprite-based font.
 This comes with some pixel "charm", like some unusual character spacing and off-centre diacritics.
 
-When used as a vector font, it comes with the usual improvements:
+When used as a vector font, it comes with key improvements:
 * Character pair kerning
 * Select ligatures/contextual alternates
 * Combining diacritics for basic Latin and Cyrillic alphabets
+* Tabular numerals and normal lining numerals as an alternate
 
 Provides tabular numerals, and proportional numerals (matching the TTD style) as an alternate.
 

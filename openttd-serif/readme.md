@@ -28,7 +28,10 @@ Plus a few additional glyphs - stray small caps and glyphs of particular use in 
 ## Features
 OpenTTD Serif is designed with the creation of standalone bitmap strikes in mind, for example for generation of an image/sprite-based font.
 
-Provides normal lining numerals and old-style numerals as an alternate.
+When used as a vector font, it comes with key improvements:
+* Character pair kerning
+* Combining diacritics for basic Latin and Cyrillic alphabets
+* Normal lining numerals and old-style numerals as an alternate
 
 ## Technical details
 SVG glyphs are drawn in Inkscape, for manual import into FontForge. Source SVGs, occasionally containing source paths pre-union, are included for convenience.
