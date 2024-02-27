@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1709073146
+ModificationTime: 1709074318
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -44,14 +44,14 @@ HheadDOffset: 1
 OS2CapHeight: 500
 OS2XHeight: 400
 OS2Vendor: 'PfEd'
-Lookup: 1 0 0 "SmallCaps" { "SmallCaps" ("smallcaps") } ['c2sc' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hang' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 5 0 0 "CapitalsDiacriticAbove" { "CapitalsDiacriticAbove"  } [' RQD' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hang' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "SmallCaps" { "SmallCaps" ("smallcaps") } ['c2sc' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hang' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "Diacritics" { "Diacritics"  } ['mark' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 ContextSub2: class "CapitalsDiacriticAbove" 3 3 3 1
   Class: 599 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F uni0430 uni0431 uni0432 uni0433 uni0434 uni0435 uni0436 uni0437 uni0438 uni043A uni043B uni043C uni043D uni043E uni043F uni0440 uni0441 uni0442 uni0443 uni0444 uni0445 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044D uni044E uni044F
-  Class: 101 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C
+  Class: 117 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0312 uni0344
   BClass: 0 
   BClass: 599 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F uni0430 uni0431 uni0432 uni0433 uni0434 uni0435 uni0436 uni0437 uni0438 uni043A uni043B uni043C uni043D uni043E uni043F uni0440 uni0441 uni0442 uni0443 uni0444 uni0445 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044D uni044E uni044F
   FClass: 101 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C
@@ -73,7 +73,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 96 32 8
+WinInfo: 0 32 8
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "bottom" "Diacritics" "top" "Diacritics"

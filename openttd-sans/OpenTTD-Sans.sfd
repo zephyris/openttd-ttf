@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1709052548
+ModificationTime: 1709074110
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -89,7 +89,7 @@ KernClass2: 12+ 10 "Kern"
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} -100 {} -100 {} -200 {} 0 {} 0 {} -100 {} 0 {} -200 {} 0 {} -100 {} 0 {} 0 {} -200 {} 0 {} 0 {} -100 {} -100 {} -200 {} 0 {} -100 {} -100 {} 0 {} -200 {} 0 {} 0 {} -100 {} 0 {} -200 {} -100 {} -100 {} -100 {} -100 {} -200 {} -100 {} -100 {} -100 {} 0 {} -200 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} -100 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} -200 {} -200 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -200 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 ContextSub2: class "CapitalsDiactricAbove" 3 1 1 1
   Class: 299 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F
-  Class: 101 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C
+  Class: 117 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0312 uni0344
  2 0 0
   ClsList: 1 2
   BClsList:
@@ -107,11 +107,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 224 32 8
+WinInfo: 0 32 8
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "bottom" "Diacritics" "top" "Diacritics"
-BeginChars: 65603 721
+BeginChars: 65603 722
 
 StartChar: a
 Encoding: 97 97 0
@@ -16282,10 +16282,21 @@ StartChar: uni030F
 Encoding: 783 783 720
 Width: 0
 Flags: HW
+AnchorPoint: "top" 200 600 mark 0
 LayerCount: 2
 Fore
 Refer: 659 768 N 1 0 0 1 300 0 2
 Refer: 659 768 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0312
+Encoding: 786 786 721
+Width: 0
+Flags: HW
+AnchorPoint: "top" 100 600 mark 0
+LayerCount: 2
+Fore
+Refer: 412 699 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

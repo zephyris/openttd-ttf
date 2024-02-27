@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1709054595
+ModificationTime: 1709074230
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -51,7 +51,7 @@ MarkAttachClasses: 1
 DEI: 91125
 ContextSub2: class "CapitalsDiacriticAbove" 3 3 3 1
   Class: 299 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F
-  Class: 101 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C
+  Class: 117 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0312 uni0344
   BClass: 0 
   BClass: 299 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F
   FClass: 101 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C
@@ -73,11 +73,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 736 32 8
+WinInfo: 0 32 8
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "top" "Diacritics" "bottom" "Diacritics"
-BeginChars: 65593 692
+BeginChars: 65593 693
 
 StartChar: a
 Encoding: 97 97 0
@@ -15600,7 +15600,7 @@ AnchorPoint: "top" 300 600 mark 0
 LayerCount: 2
 Fore
 Refer: 129 180 N 1 0 0 1 200 0 2
-Refer: 129 180 S 1 0 0 1 -100 0 2
+Refer: 129 180 N 1 0 0 1 -100 0 2
 EndChar
 
 StartChar: uni0344
@@ -15815,6 +15815,17 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 506 700 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni030F
+Encoding: 783 783 692
+Width: 0
+Flags: HWO
+AnchorPoint: "top" 300 600 mark 0
+LayerCount: 2
+Fore
+Refer: 676 768 N 1 0 0 1 200 0 2
+Refer: 676 768 N 1 0 0 1 -100 0 2
 EndChar
 EndChars
 EndSplineFont
