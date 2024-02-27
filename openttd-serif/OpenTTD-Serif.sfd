@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1707086544
+ModificationTime: 1709069432
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -44,7 +44,10 @@ HheadDOffset: 1
 OS2CapHeight: 800
 OS2XHeight: 600
 OS2Vendor: 'PfEd'
+Lookup: 5 0 0 "CapitalsDiacriticsAbove" { "CapitalsDiacriticsAbove"  } [' RQD' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "SmallCaps" { "SmallCaps" ("smallcaps") } ['c2sc' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "Oldstyle Figures" { "Oldstyle Figures" ("oldstyle") } ['onum' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "Diacritics" { "Diacritics"  } ['mark' ('DFLT' <'dflt' > 'armn' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "Kern" { "Kern" [300,30,4] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -91,6 +94,23 @@ KernClass2: 24 19 "Kern"
  5 v w y
  1 t
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} -600 {} -300 {} -200 {} -300 {} -100 {} -400 {} -100 {} -300 {} -200 {} -300 {} -100 {} -200 {} -100 {} -200 {} -100 {} -400 {} -200 {} 0 {} -700 {} -100 {} -300 {} -400 {} -100 {} -200 {} -100 {} -100 {} -100 {} -300 {} -300 {} -200 {} -500 {} -300 {} -100 {} -100 {} -300 {} -300 {} 0 {} -400 {} -100 {} -300 {} -300 {} 0 {} -100 {} 0 {} 0 {} 74 {} -200 {} -200 {} -100 {} -400 {} -200 {} 0 {} 0 {} -200 {} -100 {} 0 {} -200 {} -100 {} 0 {} 0 {} 0 {} 100 {} 0 {} 0 {} 100 {} -100 {} 0 {} 0 {} -300 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -600 {} -100 {} -100 {} -300 {} 0 {} 0 {} 0 {} 0 {} 97 {} -100 {} 0 {} 0 {} -400 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -300 {} -300 {} 0 {} 0 {} 0 {} 0 {} -200 {} 0 {} 0 {} 0 {} 0 {} 0 {} -400 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} -400 {} -100 {} 0 {} -200 {} 0 {} -300 {} -100 {} -100 {} -100 {} -200 {} 0 {} -200 {} 0 {} -200 {} 0 {} -200 {} -100 {} 0 {} -600 {} -200 {} 0 {} -200 {} 0 {} 100 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} -400 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -100 {} 0 {} 0 {} 0 {} 100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -400 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -400 {} -400 {} 0 {} 0 {} -200 {} -87 {} -200 {} -100 {} -300 {} 0 {} -200 {} -100 {} -400 {} 0 {} -100 {} 0 {} -200 {} -200 {} 0 {} -100 {} -100 {} 0 {} 0 {} 0 {} 100 {} 0 {} 100 {} 0 {} 0 {} 0 {} 0 {} -200 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -300 {} 0 {} 0 {} 0 {} 0 {} -200 {} 0 {} -100 {} 0 {} 0 {} 0 {} -400 {} 0 {} -100 {} 0 {} -100 {} 0 {} 0 {} -300 {} -100 {} -100 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} -100 {} -200 {} 0 {} -400 {} -100 {} 0 {} 0 {} -200 {} -100 {} 0 {} -400 {} -100 {} -100 {} -200 {} 0 {} -100 {} 0 {} 0 {} 0 {} -100 {} -200 {} 0 {} -400 {} -100 {} 0 {} 0 {} -200 {} -100 {} 0 {} -100 {} -300 {} 0 {} 0 {} -200 {} 0 {} -300 {} 0 {} -200 {} -100 {} 0 {} 0 {} -200 {} 0 {} -100 {} 0 {} -200 {} -100 {} 0 {} -200 {} -300 {} 0 {} 0 {} -100 {} 0 {} -200 {} 0 {} 0 {} 0 {} -100 {} 0 {} -300 {} 0 {} -100 {} 0 {} 0 {} -100 {} 0 {} -400 {} -200 {} 0 {} -300 {} -100 {} 0 {} -200 {} 0 {} 0 {} -200 {} 0 {} 0 {} -400 {} -100 {} -100 {} -100 {} -100 {} 0 {} 0 {} -100 {} -300 {} 0 {} 0 {} -100 {} 0 {} -200 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -100 {} -400 {} -100 {} 0 {} -200 {} 0 {} -300 {} 0 {} -200 {} 0 {} -200 {} 0 {} -300 {} -100 {} -100 {} 0 {} -300 {} -200 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} 0 {} -100 {} 0 {} 0 {} 0 {} 0 {} -100 {} -300 {} 0 {} 0 {} -200 {} 0 {} -200 {} 0 {} -100 {} 0 {} -200 {} 0 {} -300 {} 0 {} -100 {} 0 {} -100 {} -100 {} 0 {} -400 {} -100 {} -100 {} -400 {} 0 {} 0 {} 0 {} 0 {} 0 {} -200 {} -200 {} -100 {} -500 {} -200 {} 0 {} 0 {} -100 {} -200 {} 0 {} -100 {} -400 {} 0 {} 0 {} -100 {} 0 {} -200 {} 0 {} 0 {} 0 {} 0 {} 0 {} -300 {} 0 {} 0 {} 0 {} 0 {} -100 {}
+ContextSub2: class "CapitalsDiacriticsAbove" 3 3 3 1
+  Class: 299 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F
+  Class: 101 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C
+  BClass: 0 
+  BClass: 299 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F
+  FClass: 101 gravecomb acutecomb uni0302 tildecomb uni0304 uni0305 uni0306 uni0307 uni0308 uni030A uni030B uni030C
+  FClass: 0 
+ 2 0 0
+  ClsList: 1 2
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 0 "SmallCaps"
+  ClassNames: "0" "Capitals" "Diacritics"
+  BClassNames: "0" "1" "2"
+  FClassNames: "0" "1" "2"
+EndFPST
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "OpenTTD Serif" "Regular" "" "" "" "OpenTTD Serif" "Regular"
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -98,10 +118,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 96 32 8
+WinInfo: 65344 32 8
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65546 641
+AnchorClass2: "bottom" "Diacritics" "top" "Diacritics"
+BeginChars: 65593 706
 
 StartChar: a
 Encoding: 97 97 0
@@ -110,10 +131,12 @@ VWidth: 1000
 Flags: W
 HStem: 0 100<461.794 762.241 1149.89 1326.11> 500 100<494.346 897.384> 900 100<382.768 833.44>
 VStem: 100 300<168.037 419.277> 200 295<699.413 854.878> 900 300<241.689 493.814 581.707 755.848>
+AnchorPoint: "bottom" 1200 0 basechar 0
+AnchorPoint: "top" 600 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-600 1000 m 0xec
+600 1000 m 4xec
  900 1005 1200 895 1200 575 c 2
  1200 150 l 2
  1200 120 1220 100 1250 100 c 0
@@ -131,7 +154,7 @@ SplineSet
  375 875 495 885 495 770 c 0
  495 720 462.784179688 670 345 670 c 0
  270 670 199.357421875 700.001953125 200 800 c 0
- 200.635742188 898.944335938 375.03125 996.250976562 600 1000 c 0xec
+ 200.635742188 898.944335938 375.03125 996.250976562 600 1000 c 4xec
 700 500 m 0
  550 500 400 459.400390625 400 300 c 0
  400 140.599609375 480 100 630 100 c 0
@@ -150,6 +173,8 @@ VWidth: 1000
 Flags: W
 HStem: -400 100<288.057 582.507> 900 100<100 300 600 800 1100 1350 1450 1700>
 VStem: 100 300<-236.357 -79.5252>
+AnchorPoint: "top" 900 1000 basechar 0
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -185,6 +210,8 @@ VWidth: 1000
 Flags: W
 HStem: 0 100<561.456 889.95 1300 1500> 900 100<558.509 889.951> 1300 100<800 1000>
 VStem: 100 300<286.94 717.505> 1000 300<200 800 900 1300>
+AnchorPoint: "top" 700 1000 basechar 0
+AnchorPoint: "bottom" 700 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -218,6 +245,8 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<710.05 1038.54> 900 100<710.049 1041.49> 1300 100<100 300>
 VStem: 300 300<200 800 900 1300> 1200 300<286.94 717.505>
+AnchorPoint: "bottom" 900 0 basechar 0
+AnchorPoint: "top" 900 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -247,8 +276,10 @@ Encoding: 99 99 4
 Width: 1300
 VWidth: 1200
 Flags: W
-HStem: 0 100<640 1063.43> 900 100<637.739 1017.25>
+HStem: 0 100<640 1057.1> 900 100<637.739 1017.25>
 VStem: 100 300<328.106 672.259> 905 295<699.413 855.199>
+AnchorPoint: "top" 700 1000 basechar 0
+AnchorPoint: "bottom" 700 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -256,8 +287,8 @@ SplineSet
  650.01953125 902.434570312 400 765.666992188 400 500 c 0
  400 234.333007812 650 100 800 100 c 0
  1025 100 1200 200 1200 200 c 1
- 1200 100 l 1
- 1200 100 1025.05371094 -2.244140625 800 0 c 0
+ 1300 100 l 1
+ 1300 100 1025.05371094 -2.244140625 800 0 c 0
  407.2578125 3.916015625 100 200 100 500 c 0
  100 800 400 1000 800 1000 c 0
  1025 1000 1199.36425781 898.944335938 1200 800 c 0
@@ -275,6 +306,8 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<545.009 1015.45> 500 100<404.543 1000> 900 100<541.14 886.612>
 VStem: 100 300<320.734 500 600 681.473>
+AnchorPoint: "top" 700 1000 basechar 0
+AnchorPoint: "bottom" 700 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -301,6 +334,8 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 800> 900 100<100 300 600 900> 1300 100<654.232 916.895>
 VStem: 300 300<100 900 1000 1198.6> 800 300<1104.53 1258.72>
+AnchorPoint: "top" 500 1000 basechar 0
+AnchorPoint: "bottom" 400 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -335,6 +370,8 @@ VWidth: 1200
 Flags: W
 HStem: -400 100<521.571 977.149> 100 100<572.242 985.237> 300 100<601.049 904.704> 900 100<594.848 905.394> 1000 120<1063.68 1296.84>
 VStem: 100 300<-209.297 9.32889> 200 300<517.89 779.295> 300 250<191.263 313.251> 1000 300<520.491 806.331> 1100 300<-209.082 9.18907>
+AnchorPoint: "top" 700 1000 basechar 0
+AnchorPoint: "bottom" 700 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -378,6 +415,8 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 800 1400 1600> 900 100<710.05 1009.47> 1300 100<100 300>
 VStem: 300 300<100 800 900 1300> 1100 300<100 715.742>
+AnchorPoint: "top" 900 1000 basechar 0
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -412,10 +451,12 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 800> 900 100<100 300> 1090 220<309.714 589.673>
 VStem: 270 360<1128.32 1268.87> 300 300<100 900>
+AnchorPoint: "top" 400 1000 basechar 0
+AnchorPoint: "bottom" 400 0 basechar 0
 LayerCount: 2
 Fore
 Refer: 40 305 N 1 0 0 1 0 0 2
-Refer: 83 46 S 1 0 0 1 200 1100 2
+Refer: 83 46 N 1 0 0 1 200 1100 2
 EndChar
 
 StartChar: j
@@ -425,6 +466,8 @@ VWidth: 1200
 Flags: W
 HStem: -400 100<305.874 593.735> -20 20G<212.5 308.892> 900 100<500 700> 1090 220<709.714 989.673>
 VStem: 100 300<-186.187 -29.5252> 670 360<1128.32 1268.87> 700 300<-169.211 900>
+AnchorPoint: "top" 800 1000 basechar 0
+AnchorPoint: "bottom" 800 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -452,6 +495,8 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 800 1000 1150 1450 1600> 900 100<800 1050 1250 1500> 1300 100<100 300>
 VStem: 300 300<100 350 450 1300>
+AnchorPoint: "top" 900 1000 basechar 0
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -492,6 +537,8 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 800> 1300 100<100 300>
 VStem: 300 300<100 1300>
+AnchorPoint: "top" 400 1000 basechar 0
+AnchorPoint: "bottom" 400 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -516,6 +563,8 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 800 1400 1600> 900 100<100 300 811.716 1063.16>
 VStem: 300 300<100 600 730 900> 1100 300<100 832.134>
+AnchorPoint: "top" 800 1000 basechar 0
+AnchorPoint: "bottom" 800 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -551,6 +600,8 @@ Flags: W
 HStem: 0 100<100 300 600 800 1400 1600 2200 2400> 900 100<100 300 811.716 1063.16 1611.72 1863.16>
 VStem: 300 300<100 600 730 900> 1100 300<100 600 720 832.134> 1900 300<100 832.134>
 CounterMasks: 1 38
+AnchorPoint: "top" 1200 1000 basechar 0
+AnchorPoint: "bottom" 1200 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -595,6 +646,8 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<524.869 775.131> 900 100<523.926 776.074>
 VStem: 100 300<263.472 736.764> 900 300<263.472 736.764>
+AnchorPoint: "top" 600 1000 basechar 0
+AnchorPoint: "bottom" 600 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -618,6 +671,8 @@ VWidth: 1200
 Flags: W
 HStem: -400 100<100 300 600 800> 0 100<710.05 1038.54> 900 100<100 300 710.049 1041.49>
 VStem: 300 300<-300 100 200 800> 1200 300<286.94 717.505>
+AnchorPoint: "top" 900 1000 basechar 0
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -653,6 +708,8 @@ VWidth: 1200
 Flags: W
 HStem: -400 100<800 1000 1300 1500> 0 100<561.456 889.95> 900 100<558.509 889.951>
 VStem: 100 300<286.94 717.505> 1000 300<-300 100 200 800>
+AnchorPoint: "top" 700 1000 basechar 0
+AnchorPoint: "bottom" 700 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -686,6 +743,8 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 800> 880 120<779.141 1011.94> 900 100<100 300>
 VStem: 300 300<100 653.856 864.287 900> 900 300<684.525 840.822>
+AnchorPoint: "top" 600 1000 basechar 0
+AnchorPoint: "bottom" 400 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -718,6 +777,8 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<620.816 822.863> 900.15 99.8496<100 300 600 900>
 VStem: 300 300<118.816 900 1000 1050>
+AnchorPoint: "top" 400 1000 basechar 0
+AnchorPoint: "bottom" 600 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -749,6 +810,8 @@ VWidth: 1200
 Flags: W
 HStem: -10 110<427.108 776.684> 900 100<420.016 785.165>
 VStem: 100 300<650.148 814.56> 100 100<0 180 264.633 400> 800 300<187.68 341.555> 900 102.132<900 1000.35>
+AnchorPoint: "top" 600 1000 basechar 0
+AnchorPoint: "bottom" 600 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -784,6 +847,8 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100>
 VStem: 300 300<284.258 900> 1100 300<200 900>
+AnchorPoint: "top" 800 1000 basechar 0
+AnchorPoint: "bottom" 800 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -815,6 +880,8 @@ Width: 1600
 VWidth: 1200
 Flags: W
 HStem: 0 21G<740 910> 900 100<100 300 600 700 1100 1200 1350 1500>
+AnchorPoint: "top" 800 1000 basechar 0
+AnchorPoint: "bottom" 800 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -843,6 +910,8 @@ Width: 2400
 VWidth: 1200
 Flags: W
 HStem: 0 21G<640 810 1490 1660> 900 100<100 200 500 700 1000 1100 1350 1400 1700 1950 2100 2300>
+AnchorPoint: "top" 1100 1000 basechar 0
+AnchorPoint: "bottom" 1100 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -881,6 +950,8 @@ Width: 1600
 VWidth: 1200
 Flags: W
 HStem: 0 100<100 250 350 600 900 1050 1350 1500> 900 100<100 250 550 700 1000 1150 1250 1400>
+AnchorPoint: "top" 800 1000 basechar 0
+AnchorPoint: "bottom" 800 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -922,6 +993,8 @@ Width: 1400
 VWidth: 1200
 Flags: W
 HStem: 0 100<450 1071.88> 900 100<428.125 950>
+AnchorPoint: "top" 700 1000 basechar 0
+AnchorPoint: "bottom" 700 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -949,11 +1022,11 @@ Width: 1500
 VWidth: 1000
 Flags: W
 HStem: 0 100<461.794 762.241 1149.89 1326.11> 500 100<494.346 897.384> 900 100<382.768 833.44> 1100 300
-VStem: 100 300<168.037 419.277> 200 295<699.413 854.878> 500 500 900 300<241.689 493.814 581.707 755.848>
+VStem: 100 300<168.037 419.277> 200 295<699.413 854.878> 600 500 900 300<241.689 493.814 581.707 755.848>
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 400 -200 2
-Refer: 0 97 N 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 500 -200 2
+Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: oacute
@@ -965,8 +1038,8 @@ HStem: 0 100<524.869 775.131> 900 100<523.926 776.074> 1100 300
 VStem: 100 300<263.472 736.764> 600 500 900 300<263.472 736.764>
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 500 -200 2
-Refer: 15 111 N 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 500 -200 2
+Refer: 15 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uacute
@@ -975,11 +1048,11 @@ Width: 1700
 VWidth: 1200
 Flags: W
 HStem: 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100> 1100 300
-VStem: 300 300<284.258 900> 700 500 1100 300<200 900>
+VStem: 300 300<284.258 900> 800 500 1100 300<200 900>
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 600 -200 2
-Refer: 21 117 N 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 700 -200 2
+Refer: 21 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: yacute
@@ -988,11 +1061,11 @@ Width: 1800
 VWidth: 1000
 Flags: W
 HStem: -400 100<288.057 582.507> 900 100<100 300 600 800 1100 1350 1450 1700> 1100 300
-VStem: 100 300<-236.357 -79.5252> 850 500
+VStem: 100 300<-236.357 -79.5252> 900 500
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 750 -200 2
-Refer: 1 121 N 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 800 -200 2
+Refer: 1 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: grave
@@ -1024,8 +1097,8 @@ HStem: 0 100<461.794 762.241 1149.89 1326.11> 500 100<494.346 897.384> 900 100<3
 VStem: 100 300<168.037 419.277> 200 295<699.413 854.878> 200 500 900 300<241.689 493.814 581.707 755.848>
 LayerCount: 2
 Fore
-Refer: 30 96 S 1 0 0 1 100 -200 2
-Refer: 0 97 N 1 0 0 1 0 0 2
+Refer: 226 768 N 1 0 0 1 100 -200 2
+Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ograve
@@ -1037,8 +1110,8 @@ HStem: 0 100<524.869 775.131> 900 100<523.926 776.074> 1100 300
 VStem: 100 300<263.472 736.764> 200 500 900 300<263.472 736.764>
 LayerCount: 2
 Fore
-Refer: 30 96 S 1 0 0 1 100 -200 2
-Refer: 15 111 N 1 0 0 1 0 0 2
+Refer: 226 768 N 1 0 0 1 100 -200 2
+Refer: 15 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ugrave
@@ -1050,8 +1123,8 @@ HStem: 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100> 1100 300
 VStem: 300 300<284.258 900> 400 500 1100 300<200 900>
 LayerCount: 2
 Fore
-Refer: 30 96 S 1 0 0 1 300 -200 2
-Refer: 21 117 N 1 0 0 1 0 0 2
+Refer: 226 768 N 1 0 0 1 300 -200 2
+Refer: 21 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: asciicircum
@@ -1085,8 +1158,8 @@ HStem: 0 100<461.794 762.241 1149.89 1326.11> 500 100<494.346 897.384> 900 100<3
 VStem: 100 300<168.037 419.277> 200 295<699.413 854.878> 900 300<241.689 493.814 581.707 755.848>
 LayerCount: 2
 Fore
-Refer: 420 710 S 1 0 0 1 100 -200 2
-Refer: 0 97 N 1 0 0 1 0 0 2
+Refer: 228 770 N 1 0 0 1 100 -200 2
+Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ocircumflex
@@ -1098,8 +1171,8 @@ HStem: 0 100<524.869 775.131> 900 100<523.926 776.074> 1100 300
 VStem: 100 300<263.472 736.764> 900 300<263.472 736.764>
 LayerCount: 2
 Fore
-Refer: 420 710 S 1 0 0 1 100 -200 2
-Refer: 15 111 N 1 0 0 1 0 0 2
+Refer: 228 770 N 1 0 0 1 100 -200 2
+Refer: 15 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ucircumflex
@@ -1111,8 +1184,8 @@ HStem: 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100> 1100 300
 VStem: 300 300<284.258 900> 1100 300<200 900>
 LayerCount: 2
 Fore
-Refer: 420 710 S 1 0 0 1 300 -200 2
-Refer: 21 117 N 1 0 0 1 0 0 2
+Refer: 228 770 N 1 0 0 1 300 -200 2
+Refer: 21 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: space
@@ -1140,20 +1213,21 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 800> 900 100<100 300>
 VStem: 300 300<100 900>
+AnchorPoint: "bottom" 400 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-600 1000 m 5
- 600 100 l 5
- 800 100 l 5
- 800 0 l 5
- 100 0 l 5
- 100 100 l 5
- 300 100 l 5
- 300 900 l 5
- 100 900 l 5
- 100 1000 l 5
- 600 1000 l 5
+600 1000 m 1
+ 600 100 l 1
+ 800 100 l 1
+ 800 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 900 l 1
+ 100 900 l 1
+ 100 1000 l 1
+ 600 1000 l 1
 EndSplineSet
 EndChar
 
@@ -1162,12 +1236,12 @@ Encoding: 236 236 41
 Width: 900
 VWidth: 1200
 Flags: W
-HStem: 0 100<100 300 600 800> 900 100<100 300> 1100 300
-VStem: 100 500 300 300<100 900>
+HStem: 0 100<100 300 600 800> 900 100<100 300> 1120 300
+VStem: 25 500 300 300<100 900>
 LayerCount: 2
 Fore
-Refer: 30 96 S 1 0 0 1 0 -200 2
-Refer: 40 305 N 1 0 0 1 0 0 2
+Refer: 226 768 N 1 0 0 1 -75 -180 2
+Refer: 40 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: iacute
@@ -1175,25 +1249,25 @@ Encoding: 237 237 42
 Width: 900
 VWidth: 1200
 Flags: W
-HStem: 0 100<100 300 600 800> 900 100<100 300> 1100 300
-VStem: 300 300<100 900> 300 500
+HStem: 0 100<100 300 600 800> 900 100<100 300> 1120 300
+VStem: 300 300<100 900> 375 500
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 200 -200 2
-Refer: 40 305 N 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 275 -180 2
+Refer: 40 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: icircumflex
 Encoding: 238 238 43
-Width: 1100
+Width: 900
 VWidth: 1200
 Flags: W
-HStem: 0 100<150 350 650 850> 900 100<150 350> 1100 300
-VStem: 350 300<100 900>
+HStem: 0 100<100 300 600 800> 900 100<100 300> 1120 300
+VStem: 300 300<100 900>
 LayerCount: 2
 Fore
-Refer: 420 710 N 1 0 0 1 0 -200 2
-Refer: 40 305 N 1 0 0 1 50 0 2
+Refer: 228 770 N 1 0 0 1 -100 -180 2
+Refer: 40 305 S 1 0 0 1 0 0 3
 EndChar
 
 StartChar: A
@@ -1202,6 +1276,7 @@ Width: 2200
 VWidth: 1200
 Flags: W
 HStem: 0 100<100 350 500 800 1300 1550 1900 2100> 500 100<750 1300> 1380 20G<990 1260>
+AnchorPoint: "bottom" 1700 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1228,6 +1303,7 @@ SplineSet
  1000 1400 l 1
 EndSplineSet
 Kerns2: 3 2 "Kern"
+Substitution2: "SmallCaps" A.smallcaps
 EndChar
 
 StartChar: B
@@ -1237,6 +1313,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 1201.76> 700 100<600 1105.6> 1300 100<100 300 600 1104.77>
 VStem: 300 300<100 700 800 1300> 1200 300<905.233 1176.92> 1300 300<228.911 573.317>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1265,6 +1342,7 @@ SplineSet
  1300 570 1220 700 1100 700 c 2
  600 700 l 1
 EndSplineSet
+Substitution2: "SmallCaps" B.smallcaps
 EndChar
 
 StartChar: P
@@ -1274,6 +1352,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 900> 600 100<600 1103.79> 1300 100<100 300 600 1103.79>
 VStem: 300 300<100 600 700 1300> 1200 300<828.914 1163.44>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1298,6 +1377,7 @@ SplineSet
  1200 1160 1120 1300 1000 1300 c 2
  600 1300 l 1
 EndSplineSet
+Substitution2: "SmallCaps" P.smallcaps
 EndChar
 
 StartChar: O
@@ -1307,6 +1387,7 @@ VWidth: 1200
 Flags: W
 HStem: -10 110<733.277 1066.72> 1300 110<736.533 1063.47>
 VStem: 100 400<490.753 909.169> 1300 400<490.753 909.324>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1321,6 +1402,7 @@ SplineSet
  1201.6484375 100 1300 400 1300 700 c 0
  1300 1000 1200 1300 900 1300 c 0
 EndSplineSet
+Substitution2: "SmallCaps" O.smallcaps
 EndChar
 
 StartChar: T
@@ -1330,6 +1412,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<300 600 900 1200> 1000 21G<100 250 1250 1400> 1300 100<466.406 600 900 1033.59>
 VStem: 600 300<100 1300>
+AnchorPoint: "bottom" 700 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1349,6 +1432,7 @@ SplineSet
  100 1000 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" T.smallcaps
 EndChar
 
 StartChar: D
@@ -1358,6 +1442,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 1156.75> 1300 100<100 300 600 1156.75>
 VStem: 300 300<100 1300> 1400 400<476.832 923.168>
+AnchorPoint: "bottom" 1000 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1378,6 +1463,7 @@ SplineSet
  600 100 l 1
  1000 100 l 2
 EndSplineSet
+Substitution2: "SmallCaps" D.smallcaps
 EndChar
 
 StartChar: C
@@ -1387,6 +1473,7 @@ VWidth: 1200
 Flags: W
 HStem: -10 110<745.285 1203.21> 1000 21G<1375 1500> 1300 100<732.04 1147.42>
 VStem: 100 400<485.7 914.51> 1400 100<1220 1400>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1405,6 +1492,7 @@ SplineSet
  1300 100 1450 280 1500 330 c 1
  1500 230 l 1
 EndSplineSet
+Substitution2: "SmallCaps" C.smallcaps
 EndChar
 
 StartChar: E
@@ -1414,6 +1502,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 1133.59> 700 100<600 871.875> 980 20G<1000 1100> 1000 21G<1350 1500> 1300 100<100 300 600 1133.59>
 VStem: 300 300<100 700 800 1300>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1443,6 +1532,7 @@ SplineSet
  850 800 950 900 1050 1000 c 1
  1100 1000 l 1xec
 EndSplineSet
+Substitution2: "SmallCaps" E.smallcaps
 EndChar
 
 StartChar: F
@@ -1452,6 +1542,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 900> 700 100<600 871.875> 980 20G<1000 1100> 1000 21G<1350 1500> 1300 100<100 300 600 1133.59>
 VStem: 300 300<100 700 800 1300>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1479,6 +1570,7 @@ SplineSet
  850 800 950 900 1050 1000 c 1
  1100 1000 l 1xec
 EndSplineSet
+Substitution2: "SmallCaps" F.smallcaps
 EndChar
 
 StartChar: G
@@ -1488,6 +1580,7 @@ VWidth: 1200
 Flags: W
 HStem: -10 110<745.285 1178.94> 500 100<1000 1300 1600 1900> 1000 21G<1475 1600> 1300 100<732.039 1212.87>
 VStem: 100 400<485.7 914.503> 1300 300<172.556 500> 1500 100<1220 1400>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1513,6 +1606,7 @@ SplineSet
  600 -10 100 250.000976562 100 700 c 0
  100 1150 600 1410 900 1410 c 0xfc
 EndSplineSet
+Substitution2: "SmallCaps" G.smallcaps
 EndChar
 
 StartChar: H
@@ -1522,6 +1616,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 800 1100 1300 1600 1800> 700 100<600 1300> 1300 100<100 300 600 800 1100 1300 1600 1800>
 VStem: 300 300<100 700 800 1300> 1300 300<100 700 800 1300>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1555,6 +1650,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" H.smallcaps
 EndChar
 
 StartChar: I
@@ -1564,6 +1660,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 400 700 1000> 1300 100<100 400 700 1000>
 VStem: 400 300<100 1300>
+AnchorPoint: "bottom" 500 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1581,6 +1678,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" I.smallcaps
 EndChar
 
 StartChar: J
@@ -1590,6 +1688,7 @@ VWidth: 1200
 Flags: W
 HStem: -10 110<312.266 721.5> 280 240<292.477 488.024> 1300 100<500 800 1100 1400>
 VStem: 800 300<221.743 1300>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1610,6 +1709,7 @@ SplineSet
  1100 1300 l 1
  1100 350 l 2
 EndSplineSet
+Substitution2: "SmallCaps" J.smallcaps
 EndChar
 
 StartChar: K
@@ -1619,6 +1719,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 800 1100 1350 1750 1900> 1300 100<100 300 600 800 1200 1350 1550 1700>
 VStem: 300 300<100 350 550 1300>
+AnchorPoint: "bottom" 1000 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1652,6 +1753,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" K.smallcaps
 EndChar
 
 StartChar: L
@@ -1661,6 +1763,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 1133.59> 1300 100<100 300 600 900>
 VStem: 300 300<100 1300>
+AnchorPoint: "bottom" 800 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1680,6 +1783,7 @@ SplineSet
  600 1300 l 1
  600 100 l 1
 EndSplineSet
+Substitution2: "SmallCaps" L.smallcaps
 EndChar
 
 StartChar: M
@@ -1689,6 +1793,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 500 700 1300 1500 1800 2000> 1300 100<100 300 1800 2000>
 VStem: 300 200<100 1000> 1500 300<100 1000>
+AnchorPoint: "bottom" 1000 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1719,6 +1824,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" M.smallcaps
 EndChar
 
 StartChar: N
@@ -1728,6 +1834,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 500 700> 1300 100<100 300 1300 1500 1700 1900>
 VStem: 300 200<100 1050> 1500 200<450 1300>
+AnchorPoint: "bottom" 1000 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1753,6 +1860,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" N.smallcaps
 EndChar
 
 StartChar: Q
@@ -1762,6 +1870,7 @@ VWidth: 1200
 Flags: W
 HStem: -200 100<1255.84 1572.72> -10 110<731.149 998.417> 300 100<720.647 970.705> 1300 110<737.567 1062.43>
 VStem: 100 400<485.919 909.024> 1300 400<486.193 909.468>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1789,6 +1898,7 @@ SplineSet
  936.16796875 100 969.3359375 104.418945312 999.83984375 112.52734375 c 1
  998.19921875 261.819335938 966.715820312 300 850 300 c 0
 EndSplineSet
+Substitution2: "SmallCaps" Q.smallcaps
 EndChar
 
 StartChar: R
@@ -1798,6 +1908,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<100 300 600 900 1542.81 1700> 600 100<600 1103.79> 1300 100<100 300 600 1103.79>
 VStem: 300 300<100 600 700 1300> 1200 300<141.864 481.086 825.507 1163.44>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1828,6 +1939,7 @@ SplineSet
  1200 1160 1120 1300 1000 1300 c 2
  600 1300 l 1
 EndSplineSet
+Substitution2: "SmallCaps" R.smallcaps
 EndChar
 
 StartChar: S
@@ -1837,6 +1949,7 @@ VWidth: 1200
 Flags: W
 HStem: -10 110<537.866 999.214> 1000 21G<1225 1300> 1300 110<392.963 945.187>
 VStem: 100 200<954.058 1193.3> 100 100<0 200 316.911 500> 1200 200<294.627 578.728> 1200 100<1250 1400>
+AnchorPoint: "bottom" 700 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1863,6 +1976,7 @@ SplineSet
  100 500 l 1
  200 500 l 1xec
 EndSplineSet
+Substitution2: "SmallCaps" S.smallcaps
 EndChar
 
 StartChar: U
@@ -1872,6 +1986,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<741.602 1250.07> 1300 100<100 300 600 800 1200 1400 1600 1800>
 VStem: 300 300<218.662 1300> 1400 200<219.143 1300>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1895,6 +2010,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" U.smallcaps
 EndChar
 
 StartChar: V
@@ -1903,6 +2019,7 @@ Width: 2000
 VWidth: 1200
 Flags: W
 HStem: 0 21G<940 1060> 1300 100<100 300 650 900 1300 1550 1700 1900>
+AnchorPoint: "bottom" 1000 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1923,6 +2040,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" V.smallcaps
 EndChar
 
 StartChar: W
@@ -1931,6 +2049,7 @@ Width: 2700
 VWidth: 1200
 Flags: W
 HStem: 0 21G<890 1060 1690 1860> 1300 100<100 250 600 700 900 1050 1400 1600 2100 2350 2500 2600>
+AnchorPoint: "bottom" 1300 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1962,6 +2081,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" W.smallcaps
 EndChar
 
 StartChar: X
@@ -1970,6 +2090,7 @@ Width: 1900
 VWidth: 1200
 Flags: W
 HStem: 0 100<100 250 450 700 1200 1350 1750 1800> 1300 100<100 250 650 800 1300 1450 1650 1800>
+AnchorPoint: "bottom" 900 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2003,6 +2124,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" X.smallcaps
 EndChar
 
 StartChar: Y
@@ -2012,6 +2134,7 @@ VWidth: 1200
 Flags: W
 HStem: 0 100<400 600 900 1100> 1300 100<100 250 550 700 1000 1150 1300 1500>
 VStem: 600 300<100 500>
+AnchorPoint: "bottom" 700 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2038,6 +2161,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" Y.smallcaps
 EndChar
 
 StartChar: Z
@@ -2047,6 +2171,7 @@ VWidth: 1200
 InSpiro: 1
 Flags: W
 HStem: 0 100<350 1133.59> 1000 21G<100 250> 1300 100<466.406 1150>
+AnchorPoint: "bottom" 800 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2085,6 +2210,7 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Substitution2: "SmallCaps" Z.smallcaps
 EndChar
 
 StartChar: exclam
@@ -4100,12 +4226,12 @@ Encoding: 199 199 148
 Width: 1600
 VWidth: 1200
 Flags: W
-HStem: -400 100<800.044 1000> -20 20G<916 1004> -10 110<745.285 1203.21> 1000 21G<1375 1500> 1300 100<732.04 1147.42>
-VStem: 100 400<485.7 914.51> 920 80<-70 0> 1400 100<1220 1400>
+HStem: -400 100<700.044 900> -20 20G<816 904> -10 110<745.285 1203.21> 1000 21G<1375 1500> 1300 100<732.04 1147.42>
+VStem: 100 400<485.7 914.51> 820 80<-70 0> 1400 100<1220 1400>
 LayerCount: 2
 Fore
-Refer: 133 184 S 1 0 0 1 700 0 2
-Refer: 50 67 N 1 0 0 1 0 0 2
+Refer: 231 807 N 1 0 0 1 600 0 2
+Refer: 50 67 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Egrave
@@ -4507,12 +4633,12 @@ Encoding: 227 227 173
 Width: 1500
 VWidth: 1000
 Flags: W
-HStem: 0 100<461.794 762.241 1149.89 1326.11> 500 100<494.346 897.384> 900 100<382.768 833.44> 1070 100<875.683 1073.44> 1230 100<425.156 626.049>
-VStem: 100 300<168.037 419.277> 200 295<699.413 854.878> 300 80<1070 1181.99> 900 300<241.689 493.814 581.707 755.848> 1120 80<1218.05 1330>
+HStem: 0 100<461.794 762.241 1149.89 1326.11> 500 100<494.346 897.384> 900 100<382.768 833.44> 1070 100<775.683 973.438> 1230 100<325.156 526.049>
+VStem: 100 300<168.037 419.277> 200 80<1070 1181.99> 200 295<699.413 854.878> 900 300<241.689 493.814 581.707 755.848> 1020 80<1218.05 1330>
 LayerCount: 2
 Fore
-Refer: 229 771 S 1 0 0 1 200 -200 2
-Refer: 0 97 N 1 0 0 1 0 0 2
+Refer: 229 771 N 1 0 0 1 100 -200 2
+Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: adieresis
@@ -4524,8 +4650,8 @@ HStem: 0 100<461.794 762.241 1149.89 1326.11> 500 100<494.346 897.384> 900 100<3
 VStem: 100 300<168.037 419.277> 200 295<699.413 854.878> 200 300<1136.61 1313.39> 800 300<1136.61 1313.39> 900 300<241.689 493.814 581.707 755.848>
 LayerCount: 2
 Fore
-Refer: 117 168 S 1 0 0 1 100 -200 2
-Refer: 0 97 N 1 0 0 1 0 0 2
+Refer: 255 776 N 1 0 0 1 100 -200 2
+Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: aring
@@ -4533,12 +4659,12 @@ Encoding: 229 229 175
 Width: 1500
 VWidth: 1000
 Flags: W
-HStem: 0 100<461.794 762.241 1149.89 1326.11> 500 100<494.346 897.384> 900 100<382.768 833.44> 1100 100<455.219 744.781> 1400 100<455.219 744.781>
-VStem: 100 300<168.037 419.277> 200 295<699.413 854.878> 300 125<1231.12 1368.88> 775 125<1231.12 1368.88> 900 300<241.689 493.814 581.707 755.848>
+HStem: 0 100<461.794 762.241 1149.89 1326.11> 500 100<494.346 897.384> 900 100<382.768 833.44> 1000 100<555.219 844.781> 1300 100<555.219 844.781>
+VStem: 100 300<168.037 419.277> 200 295<699.413 854.878> 400 125<1131.12 1268.88> 875 125<1131.12 1268.88> 900 300<241.689 493.814 581.707 755.848>
 LayerCount: 2
 Fore
-Refer: 425 730 S 1 0 0 1 200 -100 2
-Refer: 0 97 N 1 0 0 1 0 0 2
+Refer: 253 778 N 1 0 0 1 300 -200 2
+Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ae
@@ -4592,12 +4718,12 @@ Encoding: 231 231 177
 Width: 1300
 VWidth: 1200
 Flags: W
-HStem: -400 100<600.044 800> -20 20G<716 804> 0 100<640 1063.43> 900 100<637.739 1017.25>
-VStem: 100 300<328.106 672.259> 720 80<-70 0> 905 295<699.413 855.199>
+HStem: -400 100<500.044 700> -20 20G<616 704> 0 100<640 1057.1> 900 100<637.739 1017.25>
+VStem: 100 300<328.106 672.259> 620 80<-70 0> 905 295<699.413 855.199>
 LayerCount: 2
 Fore
-Refer: 133 184 S 1 0 0 1 500 0 2
-Refer: 4 99 N 1 0 0 1 0 0 2
+Refer: 231 807 N 1 0 0 1 400 0 2
+Refer: 4 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: egrave
@@ -4609,8 +4735,8 @@ HStem: 0 100<545.009 1015.45> 500 100<404.543 1000> 900 100<541.14 886.612> 1100
 VStem: 100 300<320.734 500 600 681.473> 300 500
 LayerCount: 2
 Fore
-Refer: 30 96 S 1 0 0 1 200 -200 2
-Refer: 5 101 N 1 0 0 1 0 0 2
+Refer: 226 768 N 1 0 0 1 200 -200 2
+Refer: 5 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: eacute
@@ -4622,8 +4748,8 @@ HStem: 0 100<545.009 1015.45> 500 100<404.543 1000> 900 100<541.14 886.612> 1100
 VStem: 100 300<320.734 500 600 681.473> 700 500
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 600 -200 2
-Refer: 5 101 N 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 600 -200 2
+Refer: 5 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ecircumflex
@@ -4635,8 +4761,8 @@ HStem: 0 100<545.009 1015.45> 500 100<404.543 1000> 900 100<541.14 886.612> 1100
 VStem: 100 300<320.734 500 600 681.473>
 LayerCount: 2
 Fore
-Refer: 420 710 S 1 0 0 1 200 -200 2
-Refer: 5 101 N 1 0 0 1 0 0 2
+Refer: 228 770 N 1 0 0 1 200 -200 2
+Refer: 5 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: edieresis
@@ -4648,21 +4774,21 @@ HStem: 0 100<545.009 1015.45> 500 100<404.543 1000> 900 100<541.14 886.612> 1100
 VStem: 100 300<320.734 500 600 681.473> 300 300<1136.61 1313.39> 900 300<1136.61 1313.39>
 LayerCount: 2
 Fore
-Refer: 117 168 S 1 0 0 1 200 -200 2
-Refer: 5 101 N 1 0 0 1 0 0 2
+Refer: 255 776 N 1 0 0 1 200 -200 2
+Refer: 5 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: idieresis
 Encoding: 239 239 182
-Width: 1100
+Width: 900
 VWidth: 1200
 Flags: W
-HStem: 0 100<250 450 750 950> 900 100<250 450> 1100 250<136.578 363.422 736.578 963.422>
-VStem: 100 300<1136.61 1313.39> 450 300<100 900> 700 300<1136.61 1313.39>
+HStem: 0 100<100 300 600 800> 900 100<100 300> 1120 250<36.5779 263.422 636.578 863.422>
+VStem: 0 300<1156.61 1333.39> 300 300<100 900> 600 300<1156.61 1333.39>
 LayerCount: 2
 Fore
-Refer: 117 168 N 1 0 0 1 0 -200 2
-Refer: 40 305 N 1 0 0 1 150 0 2
+Refer: 255 776 N 1 0 0 1 -100 -180 2
+Refer: 40 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: eth
@@ -4713,8 +4839,8 @@ HStem: 0 100<100 300 600 800 1400 1600> 900 100<100 300 811.716 1063.16> 1070 10
 VStem: 300 300<100 600 730 900> 400 80<1070 1181.99> 1100 300<100 832.134> 1220 80<1218.05 1330>
 LayerCount: 2
 Fore
-Refer: 229 771 S 1 0 0 1 300 -200 2
-Refer: 13 110 N 1 0 0 1 0 0 2
+Refer: 229 771 N 1 0 0 1 300 -200 2
+Refer: 13 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: otilde
@@ -4726,8 +4852,8 @@ HStem: 0 100<524.869 775.131> 900 100<523.926 776.074> 1070 100<775.683 973.438>
 VStem: 100 300<263.472 736.764> 200 80<1070 1181.99> 900 300<263.472 736.764> 1020 80<1218.05 1330>
 LayerCount: 2
 Fore
-Refer: 229 771 S 1 0 0 1 100 -200 2
-Refer: 15 111 N 1 0 0 1 0 0 2
+Refer: 229 771 N 1 0 0 1 100 -200 2
+Refer: 15 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: odieresis
@@ -4739,8 +4865,8 @@ HStem: 0 100<524.869 775.131> 900 100<523.926 776.074> 1100 250<236.578 463.422 
 VStem: 100 300<263.472 736.764> 200 300<1136.61 1313.39> 800 300<1136.61 1313.39> 900 300<263.472 736.764>
 LayerCount: 2
 Fore
-Refer: 117 168 S 1 0 0 1 100 -200 2
-Refer: 15 111 N 1 0 0 1 0 0 2
+Refer: 255 776 N 1 0 0 1 100 -200 2
+Refer: 15 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: divide
@@ -4819,8 +4945,8 @@ HStem: 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100> 1100 250<436.57
 VStem: 300 300<284.258 900> 400 300<1136.61 1313.39> 1000 300<1136.61 1313.39> 1100 300<200 900>
 LayerCount: 2
 Fore
-Refer: 117 168 S 1 0 0 1 300 -200 2
-Refer: 21 117 N 1 0 0 1 0 0 2
+Refer: 255 776 N 1 0 0 1 300 -200 2
+Refer: 21 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: thorn
@@ -4867,8 +4993,8 @@ HStem: -400 100<288.057 582.507> 900 100<100 300 600 800 1100 1350 1450 1700> 11
 VStem: 100 300<-236.357 -79.5252> 500 300<1136.61 1313.39> 1100 300<1136.61 1313.39>
 LayerCount: 2
 Fore
-Refer: 117 168 S 1 0 0 1 400 -200 2
-Refer: 1 121 N 1 0 0 1 0 0 2
+Refer: 255 776 N 1 0 0 1 400 -200 2
+Refer: 1 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1D00
@@ -4950,8 +5076,8 @@ HStem: 0 100<461.794 762.241 1149.89 1326.11> 500 100<494.346 897.384> 900 100<3
 VStem: 100 300<168.037 419.277> 200 295<699.413 854.878> 900 300<241.689 493.814 581.707 755.848>
 LayerCount: 2
 Fore
-Refer: 124 175 S 1 0 0 1 100 -200 2
-Refer: 0 97 N 1 0 0 1 0 0 2
+Refer: 230 772 N 1 0 0 1 100 -200 2
+Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1D04
@@ -5066,12 +5192,12 @@ Encoding: 263 263 200
 Width: 1300
 VWidth: 1200
 Flags: W
-HStem: 0 100<640 1063.43> 900 100<637.739 1017.25> 1100 300
+HStem: 0 100<640 1057.1> 900 100<637.739 1017.25> 1100 300
 VStem: 100 300<328.106 672.259> 700 500 905 295<699.413 855.199>
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 600 -200 2
-Refer: 4 99 N 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 600 -200 2
+Refer: 4 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ccircumflex
@@ -5182,12 +5308,12 @@ Encoding: 265 265 209
 Width: 1300
 VWidth: 1200
 Flags: W
-HStem: 0 100<640 1063.43> 900 100<637.739 1017.25> 1100 300
+HStem: 0 100<640 1057.1> 900 100<637.739 1017.25> 1100 300
 VStem: 100 300<328.106 672.259> 905 295<699.413 855.199>
 LayerCount: 2
 Fore
-Refer: 228 770 S 1 0 0 1 100 -200 2
-Refer: 4 99 N 1 0 0 1 0 0 2
+Refer: 228 770 N 1 0 0 1 200 -200 2
+Refer: 4 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: cdotaccent
@@ -5195,12 +5321,12 @@ Encoding: 267 267 210
 Width: 1300
 VWidth: 1200
 Flags: W
-HStem: 0 100<640 1063.43> 900 100<637.739 1017.25> 1190 220<609.714 889.673>
+HStem: 0 100<640 1057.1> 900 100<637.739 1017.25> 1190 220<609.714 889.673>
 VStem: 100 300<328.106 672.259> 570 360<1228.32 1368.87> 905 295<699.413 855.199>
 LayerCount: 2
 Fore
-Refer: 233 775 S 1 0 0 1 500 -200 2
-Refer: 4 99 N 1 0 0 1 0 0 2
+Refer: 233 775 N 1 0 0 1 500 -200 2
+Refer: 4 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ccaron
@@ -5208,12 +5334,12 @@ Encoding: 269 269 211
 Width: 1300
 VWidth: 1200
 Flags: W
-HStem: 0 100<640 1063.43> 900 100<637.739 1017.25> 1100 300
+HStem: 0 100<640 1057.1> 900 100<637.739 1017.25> 1100 300
 VStem: 100 300<328.106 672.259> 905 295<699.413 855.199>
 LayerCount: 2
 Fore
-Refer: 421 711 S 1 0 0 1 200 -200 2
-Refer: 4 99 N 1 0 0 1 0 0 2
+Refer: 247 780 N 1 0 0 1 200 -200 2
+Refer: 4 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ccaron
@@ -5251,8 +5377,8 @@ HStem: 0 100<545.009 1015.45> 500 100<404.543 1000> 900 100<541.14 886.612> 1200
 VStem: 100 300<320.734 500 600 681.473>
 LayerCount: 2
 Fore
-Refer: 124 175 S 1 0 0 1 200 -200 2
-Refer: 5 101 N 1 0 0 1 0 0 2
+Refer: 230 772 N 1 0 0 1 200 -200 2
+Refer: 5 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ebreve
@@ -5264,8 +5390,8 @@ HStem: 0 100<545.009 1015.45> 500 100<404.543 1000> 900 100<541.14 886.612> 1075
 VStem: 100 300<320.734 500 600 681.473>
 LayerCount: 2
 Fore
-Refer: 426 728 S 1 0 0 1 200 -200 2
-Refer: 5 101 N 1 0 0 1 0 0 2
+Refer: 232 774 N 1 0 0 1 200 -200 2
+Refer: 5 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: edotaccent
@@ -5277,8 +5403,8 @@ HStem: 0 100<545.009 1015.45> 500 100<404.543 1000> 900 100<541.14 886.612> 1190
 VStem: 100 300<320.734 500 600 681.473> 570 360<1228.32 1368.87>
 LayerCount: 2
 Fore
-Refer: 233 775 S 1 0 0 1 500 -200 2
-Refer: 5 101 N 1 0 0 1 0 0 2
+Refer: 233 775 N 1 0 0 1 500 -200 2
+Refer: 5 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ecaron
@@ -5290,8 +5416,8 @@ HStem: 0 100<545.009 1015.45> 500 100<404.543 1000> 900 100<541.14 886.612> 1100
 VStem: 100 300<320.734 500 600 681.473>
 LayerCount: 2
 Fore
-Refer: 421 711 S 1 0 0 1 200 -200 2
-Refer: 5 101 N 1 0 0 1 0 0 2
+Refer: 247 780 N 1 0 0 1 200 -200 2
+Refer: 5 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: abreve
@@ -5303,8 +5429,8 @@ HStem: 0 100<461.794 762.241 1149.89 1326.11> 500 100<494.346 897.384> 900 100<3
 VStem: 100 300<168.037 419.277> 200 295<699.413 854.878> 900 300<241.689 493.814 581.707 755.848>
 LayerCount: 2
 Fore
-Refer: 426 728 S 1 0 0 1 100 -200 2
-Refer: 0 97 N 1 0 0 1 0 0 2
+Refer: 232 774 N 1 0 0 1 100 -200 2
+Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: gcircumflex
@@ -5312,12 +5438,12 @@ Encoding: 285 285 219
 Width: 1500
 VWidth: 1200
 Flags: W
-HStem: -400 100<521.571 977.149> 100 100<572.242 985.237> 300 100<601.049 904.704> 900 100<594.848 905.394> 1000 120<1063.68 1296.84> 1200 300
+HStem: -400 100<521.571 977.149> 100 100<572.242 985.237> 300 100<601.049 904.704> 900 100<594.848 905.394> 1000 120<1063.68 1296.84> 1100 300
 VStem: 100 300<-209.297 9.32889> 200 300<517.89 779.295> 300 250<191.263 313.251> 1000 300<520.491 806.331> 1100 300<-209.082 9.18907>
 LayerCount: 2
 Fore
-Refer: 420 710 S 1 0 0 1 200 -100 2
-Refer: 7 103 N 1 0 0 1 0 0 2
+Refer: 228 770 N 1 0 0 1 200 -200 2
+Refer: 7 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: gbreve
@@ -5329,8 +5455,8 @@ HStem: -400 100<521.571 977.149> 100 100<572.242 985.237> 300 100<601.049 904.70
 VStem: 100 300<-209.297 9.32889> 200 300<517.89 779.295> 300 250<191.263 313.251> 1000 300<520.491 806.331> 1100 300<-209.082 9.18907>
 LayerCount: 2
 Fore
-Refer: 426 728 S 1 0 0 1 200 -200 2
-Refer: 7 103 N 1 0 0 1 0 0 2
+Refer: 232 774 N 1 0 0 1 200 -200 2
+Refer: 7 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: gdotaccent
@@ -5342,8 +5468,8 @@ HStem: -400 100<521.571 977.149> 100 100<572.242 985.237> 300 100<601.049 904.70
 VStem: 100 300<-209.297 9.32889> 200 300<517.89 779.295> 300 250<191.263 313.251> 570 360<1228.32 1368.87> 1000 300<520.491 806.331> 1100 300<-209.082 9.18907>
 LayerCount: 2
 Fore
-Refer: 233 775 S 1 0 0 1 500 -200 2
-Refer: 7 103 N 1 0 0 1 0 0 2
+Refer: 233 775 N 1 0 0 1 500 -200 2
+Refer: 7 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: hcircumflex
@@ -5361,16 +5487,16 @@ EndChar
 
 StartChar: itilde
 Encoding: 297 297 223
-Width: 1100
+Width: 900
 VWidth: 1200
 Flags: W
-HStem: 0 100<200 400 700 900> 900 100<200 400> 1070 100<675.683 873.438> 1230 100<225.156 426.049>
-VStem: 100 80<1070 1181.99> 400 300<100 900> 920 80<1218.05 1330>
+HStem: 0 100<100 300 600 800> 900 100<100 300> 1120 100<575.683 773.438> 1280 100<125.156 326.049>
+VStem: 0 80<1120 1231.99> 300 300<100 900> 820 80<1268.05 1380>
 CounterMasks: 1 0e
 LayerCount: 2
 Fore
-Refer: 229 771 S 1 0 0 1 0 -200 2
-Refer: 40 305 N 1 0 0 1 100 0 2
+Refer: 229 771 N 1 0 0 1 -100 -149.998 2
+Refer: 40 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: imacron
@@ -5378,46 +5504,48 @@ Encoding: 299 299 224
 Width: 900
 VWidth: 1200
 Flags: W
-HStem: 0 100<100 300 600 800> 900 100<100 300> 1200 100<0 900>
+HStem: 0 100<100 300 600 800> 900 100<100 300> 1120 100<0 900>
 VStem: 300 300<100 900>
 LayerCount: 2
 Fore
-Refer: 124 175 S 1 0 0 1 -100 -200 2
-Refer: 40 305 N 1 0 0 1 0 0 2
+Refer: 230 772 N 1 0 0 1 -100 -280 2
+Refer: 40 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ibreve
 Encoding: 301 301 225
-Width: 1100
+Width: 900
 VWidth: 1200
 Flags: W
-HStem: 0 100<200 400 700 900> 900 100<200 400> 1075 125<351.256 748.702>
-VStem: 400 300<100 900>
+HStem: 0 100<100 300 600 800> 900 100<100 300> 1120 125<251.256 648.702>
+VStem: 300 300<100 900>
 LayerCount: 2
 Fore
-Refer: 426 728 N 1 0 0 1 0 -200 2
-Refer: 40 305 N 1 0 0 1 100 0 2
+Refer: 232 774 N 1 0 0 1 -100 -155 2
+Refer: 40 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: gravecomb
 Encoding: 768 768 226
-Width: 200
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1300 300
 VStem: 100 500
+AnchorPoint: "top" 500 1200 mark 0
 LayerCount: 2
 Fore
-Refer: 30 96 S 1 0 0 1 0 0 2
+Refer: 30 96 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: acutecomb
 Encoding: 769 769 227
-Width: 200
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1300 300
 VStem: 100 500
+AnchorPoint: "top" 100 1200 mark 0
 LayerCount: 2
 Fore
 Refer: 129 180 N 1 0 0 1 0 0 2
@@ -5425,56 +5553,49 @@ EndChar
 
 StartChar: uni0302
 Encoding: 770 770 228
-Width: 1100
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1300 300
+AnchorPoint: "top" 500 1200 mark 0
 LayerCount: 2
 Fore
-SplineSet
-100 1350 m 1
- 450 1600 l 1
- 650 1600 l 1
- 1000 1350 l 1
- 1000 1300 l 1
- 850 1300 l 1
- 550 1500 l 1
- 250 1300 l 1
- 100 1300 l 1
- 100 1350 l 1
-EndSplineSet
+Refer: 420 710 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: tildecomb
 Encoding: 771 771 229
-Width: 1100
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1270 100<675.683 873.438> 1430 100<225.156 426.049>
 VStem: 100 80<1270 1381.99> 920 80<1418.05 1530>
+AnchorPoint: "top" 500 1200 mark 0
 LayerCount: 2
 Fore
-Refer: 109 126 S 1 0 0 1 0 900 2
+Refer: 704 732 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0304
 Encoding: 772 772 230
-Width: 1100
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1400 100<100 1000>
+AnchorPoint: "top" 500 1200 mark 0
 LayerCount: 2
 Fore
-Refer: 124 175 N 1 0 0 1 0 0 2
+Refer: 427 713 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0327
 Encoding: 807 807 231
-Width: 200
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: -400 100<100.044 300> -20 20G<216 304>
 VStem: 220 80<-70 0>
+AnchorPoint: "bottom" 300 0 mark 0
 LayerCount: 2
 Fore
 Refer: 133 184 N 1 0 0 1 0 0 2
@@ -5482,33 +5603,27 @@ EndChar
 
 StartChar: uni0306
 Encoding: 774 774 232
-Width: 1100
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1275 125<351.256 748.702>
+AnchorPoint: "top" 500 1200 mark 0
 LayerCount: 2
 Fore
-SplineSet
-100 1600 m 1
- 175 1600 l 1
- 175 1600 275 1400 550 1400 c 0
- 825 1400 925 1600 925 1600 c 1
- 1000 1600 l 1
- 999.392578125 1453.35644531 850 1275 550 1275 c 0
- 250 1275 100 1451.01953125 100 1600 c 1
-EndSplineSet
+Refer: 426 728 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0307
 Encoding: 775 775 233
-Width: 500
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1390 220<109.714 389.673>
 VStem: 70 360<1428.32 1568.87>
+AnchorPoint: "top" 200 1200 mark 0
 LayerCount: 2
 Fore
-Refer: 83 46 N 1 0 0 1 0 1400 2
+Refer: 424 729 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni026A
@@ -5758,33 +5873,24 @@ EndChar
 
 StartChar: uni030C
 Encoding: 780 780 247
-Width: 1100
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1300 300
+AnchorPoint: "top" 500 1200 mark 0
 LayerCount: 2
 Fore
-SplineSet
-100 1550 m 1
- 100 1600 l 1
- 250 1600 l 1
- 550 1400 l 1
- 850 1600 l 1
- 1000 1600 l 1
- 1000 1550 l 1
- 650 1300 l 1
- 450 1300 l 1
- 100 1550 l 1
-EndSplineSet
+Refer: 421 711 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni030B
 Encoding: 779 779 248
-Width: 1100
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1300 300
 VStem: 100 500 500 500
+AnchorPoint: "top" 400 1200 mark 0
 LayerCount: 2
 Fore
 Refer: 227 769 N 1 0 0 1 400 0 2
@@ -5793,11 +5899,12 @@ EndChar
 
 StartChar: uni030F
 Encoding: 783 783 249
-Width: 1100
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1300 300
 VStem: 100 500 500 500
+AnchorPoint: "top" 700 1200 mark 0
 LayerCount: 2
 Fore
 Refer: 226 768 N 1 0 0 1 400 0 2
@@ -5826,8 +5933,8 @@ HStem: 0 100<100 300 600 800 1400 1600> 900 100<100 300 811.716 1063.16> 1100 30
 VStem: 300 300<100 600 730 900> 800 500 1100 300<100 832.134>
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 700 -200 2
-Refer: 13 110 N 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 700 -200 2
+Refer: 13 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1D0F
@@ -5855,25 +5962,15 @@ EndChar
 
 StartChar: uni030A
 Encoding: 778 778 253
-Width: 800
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1200 100<255.219 544.781> 1500 100<255.219 544.781>
 VStem: 100 125<1331.12 1468.88> 575 125<1331.12 1468.88>
+AnchorPoint: "top" 300 1200 mark 0
 LayerCount: 2
 Fore
-SplineSet
-575 1400 m 0
- 575 1455.22851562 510.45703125 1500 400 1500 c 0
- 289.54296875 1500 225 1455.22851562 225 1400 c 0
- 225 1344.77148438 289.54296875 1300 400 1300 c 0
- 510.45703125 1300 575 1344.77148438 575 1400 c 0
-700 1400 m 0
- 700 1289.54296875 565.685546875 1200 400 1200 c 0
- 234.314453125 1200 100 1289.54296875 100 1400 c 0
- 100 1510.45703125 234.314453125 1600 400 1600 c 0
- 565.685546875 1600 700 1510.45703125 700 1400 c 0
-EndSplineSet
+Refer: 425 730 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Dcroat
@@ -5915,11 +6012,12 @@ EndChar
 
 StartChar: uni0308
 Encoding: 776 776 255
-Width: 1100
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1300 250<136.578 363.422 736.578 963.422>
 VStem: 100 300<1336.61 1513.39> 700 300<1336.61 1513.39>
+AnchorPoint: "top" 500 1200 mark 0
 LayerCount: 2
 Fore
 Refer: 117 168 N 1 0 0 1 0 0 2
@@ -5927,11 +6025,12 @@ EndChar
 
 StartChar: uni0328
 Encoding: 808 808 256
-Width: 700
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: -400 100<309.918 507.959> -20 20G<250 400>
 VStem: 100 200<-290.337 -146.916>
+AnchorPoint: "bottom" 300 0 mark 0
 LayerCount: 2
 Fore
 Refer: 441 731 N 1 0 0 1 0 0 2
@@ -5946,8 +6045,8 @@ HStem: -400 100<1209.92 1407.96> -20 20G<1150 1300> 0 100<461.794 762.241 1149.8
 VStem: 100 300<168.037 419.277> 200 295<699.413 854.878> 900 300<241.689 493.814 581.707 755.848> 1000 200<-290.337 -146.916>
 LayerCount: 2
 Fore
-Refer: 441 731 S 1 0 0 1 900 0 2
-Refer: 0 97 N 1 0 0 1 0 0 2
+Refer: 256 808 N 1 0 0 1 900 0 2
+Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Aogonek
@@ -5959,8 +6058,8 @@ HStem: -400 100<1709.92 1907.96> -20 20G<1650 1800> 0 100<100 350 500 800 1300 1
 VStem: 1500 200<-290.337 -146.916>
 LayerCount: 2
 Fore
-Refer: 441 731 S 1 0 0 1 1400 0 2
-Refer: 44 65 N 1 0 0 1 0 0 2
+Refer: 256 808 N 1 0 0 1 1400 0 2
+Refer: 44 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Eogonek
@@ -5985,8 +6084,8 @@ HStem: -400 100<709.918 907.959> -20 20G<650 800> 0 100<545.009 1015.45> 500 100
 VStem: 100 300<320.734 500 600 681.473> 500 200<-290.337 -146.916>
 LayerCount: 2
 Fore
-Refer: 441 731 S 1 0 0 1 400 0 2
-Refer: 5 101 N 1 0 0 1 0 0 2
+Refer: 256 808 N 1 0 0 1 400 0 2
+Refer: 5 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Iogonek
@@ -5994,12 +6093,12 @@ Encoding: 302 302 261
 Width: 1100
 VWidth: 1200
 Flags: W
-HStem: -400 100<509.918 707.959> -20 20G<450 600> 0 100<100 400 700 1000> 1100 100<100 400 700 1000>
-VStem: 300 200<-290.337 -146.916> 400 300<100 1100>
+HStem: -400 100<509.918 707.959> -20 20G<450 600> 0 100<100 400 700 1000> 1300 100<100 400 700 1000>
+VStem: 300 200<-290.337 -146.916> 400 300<100 1300>
 LayerCount: 2
 Fore
-Refer: 256 808 S 1 0 0 1 200 0 2
-Refer: 234 618 S 1 0 0 1 0 0 2
+Refer: 256 808 N 1 0 0 1 200 0 2
+Refer: 55 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: iogonek
@@ -6011,8 +6110,8 @@ HStem: -400 100<409.918 607.959> -20 20G<350 500> 0 100<100 300 600 800> 900 100
 VStem: 200 200<-290.337 -146.916> 270 360<1128.32 1268.87> 300 300<100 900>
 LayerCount: 2
 Fore
-Refer: 256 808 S 1 0 0 1 100 0 2
-Refer: 9 105 S 1 0 0 1 0 0 2
+Refer: 256 808 N 1 0 0 1 100 0 2
+Refer: 9 105 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: dcroat
@@ -6201,8 +6300,8 @@ HStem: 0 100<100 300 600 800> 880 120<779.141 1011.94> 900 100<100 300> 1100 300
 VStem: 300 300<100 653.856 864.287 900> 900 300<684.525 840.822>
 LayerCount: 2
 Fore
-Refer: 421 711 S 1 0 0 1 100 -200 2
-Refer: 18 114 N 1 0 0 1 0 0 2
+Refer: 247 780 N 1 0 0 1 100 -200 2
+Refer: 18 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0162
@@ -6210,12 +6309,12 @@ Encoding: 354 354 273
 Width: 1500
 VWidth: 1200
 Flags: W
-HStem: -400 100<600.044 800> -20 20G<716 804> 0 100<300 600 900 1200> 1000 21G<100 250 1250 1400> 1300 100<466.406 600 900 1033.59>
-VStem: 600 300<100 1300> 720 80<-70 0>
+HStem: -400 100<500.044 700> -20 20G<616 704> 0 100<300 600 900 1200> 1000 21G<100 250 1250 1400> 1300 100<466.406 600 900 1033.59>
+VStem: 600 300<100 1300> 620 80<-70 0>
 LayerCount: 2
 Fore
-Refer: 133 184 S 1 0 0 1 500 0 2
-Refer: 48 84 N 1 0 0 1 0 0 2
+Refer: 231 807 N 1 0 0 1 400 0 2
+Refer: 48 84 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0163
@@ -6227,8 +6326,8 @@ HStem: -400 100<400.044 600> -20 20G<516 604> 0 100<620.816 822.863> 900.15 99.8
 VStem: 300 300<118.816 900 1000 1050> 520 80<-70 0>
 LayerCount: 2
 Fore
-Refer: 133 184 S 1 0 0 1 300 0 2
-Refer: 19 116 N 1 0 0 1 0 0 2
+Refer: 231 807 N 1 0 0 1 300 0 2
+Refer: 19 116 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: sacute
@@ -6237,11 +6336,11 @@ Width: 1200
 VWidth: 1200
 Flags: W
 HStem: -10 110<427.108 776.684> 900 100<420.016 785.165> 1100 300
-VStem: 100 100<0 180 264.633 400> 100 300<650.148 814.56> 500 500 800 300<187.68 341.555> 900 102.132<900 1000.35>
+VStem: 100 100<0 180 264.633 400> 100 300<650.148 814.56> 600 500 800 300<187.68 341.555> 900 102.132<900 1000.35>
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 400 -200 2
-Refer: 20 115 N 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 500 -200 2
+Refer: 20 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: scircumflex
@@ -6253,8 +6352,8 @@ HStem: -10 110<427.108 776.684> 900 100<420.016 785.165> 1100 300
 VStem: 100 100<0 180 264.633 400> 100 300<650.148 814.56> 800 300<187.68 341.555> 900 102.132<900 1000.35>
 LayerCount: 2
 Fore
-Refer: 420 710 S 1 0 0 1 0 -200 2
-Refer: 20 115 N 1 0 0 1 0 0 2
+Refer: 228 770 N 1 0 0 1 100 -200 2
+Refer: 20 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: scedilla
@@ -6266,8 +6365,8 @@ HStem: -400 100<400.044 600> -20 20G<516 604> -10 110<427.108 776.684> 900 100<4
 VStem: 100 100<0 180 264.633 400> 100 300<650.148 814.56> 520 80<-70 0> 800 300<187.68 341.555> 900 102.132<900 1000.35>
 LayerCount: 2
 Fore
-Refer: 133 184 S 1 0 0 1 300 0 2
-Refer: 20 115 N 1 0 0 1 0 0 2
+Refer: 231 807 N 1 0 0 1 300 0 2
+Refer: 20 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: scaron
@@ -6279,8 +6378,8 @@ HStem: -10 110<427.108 776.684> 900 100<420.016 785.165> 1100 300
 VStem: 100 100<0 180 264.633 400> 100 300<650.148 814.56> 800 300<187.68 341.555> 900 102.132<900 1000.35>
 LayerCount: 2
 Fore
-Refer: 247 780 S 1 0 0 1 100 -200 2
-Refer: 20 115 N 1 0 0 1 0 0 2
+Refer: 247 780 N 1 0 0 1 100 -200 2
+Refer: 20 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: OE
@@ -6730,7 +6829,7 @@ EndChar
 
 StartChar: jcircumflex
 Encoding: 309 309 291
-Width: 1400
+Width: 1100
 VWidth: 1200
 Flags: W
 HStem: -400 100<305.874 594.21> -20 20G<212.5 308.892> 900 100<500 700> 1100 300
@@ -6969,17 +7068,18 @@ HStem: -400 100<288.057 582.507> 900 100<100 300 600 800 1100 1350 1450 1700> 11
 VStem: 100 300<-236.357 -79.5252>
 LayerCount: 2
 Fore
-Refer: 420 710 S 1 0 0 1 400 -200 2
-Refer: 1 121 N 1 0 0 1 0 0 2
+Refer: 228 770 N 1 0 0 1 400 -200 2
+Refer: 1 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0312
 Encoding: 786 786 299
-Width: 500
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 1090 510
 VStem: 200 200<1320 1414.51>
+AnchorPoint: "top" 200 1000 mark 0
 LayerCount: 2
 Fore
 Refer: 405 8216 N 1 0 0 1 0 200 2
@@ -6987,10 +7087,11 @@ EndChar
 
 StartChar: uni0326
 Encoding: 806 806 300
-Width: 500
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: -240 150<111.914 190>
+AnchorPoint: "bottom" 200 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7009,12 +7110,12 @@ Encoding: 310 310 301
 Width: 2000
 VWidth: 1200
 Flags: W
-HStem: -240 150<811.914 890> 0 100<100 300 600 800 1100 1350 1750 1900> 1300 100<100 300 600 800 1200 1350 1550 1700>
+HStem: -240 150<911.914 990> 0 100<100 300 600 800 1100 1350 1750 1900> 1300 100<100 300 600 800 1200 1350 1550 1700>
 VStem: 300 300<100 350 550 1300>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 700 0 2
-Refer: 57 75 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 800 0 2
+Refer: 57 75 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0137
@@ -7022,12 +7123,12 @@ Encoding: 311 311 302
 Width: 1700
 VWidth: 1200
 Flags: W
-HStem: -240 150<711.914 790> 0 100<100 300 600 800 1000 1150 1450 1600> 900 100<800 1050 1250 1500> 1300 100<100 300>
+HStem: -240 150<811.914 890> 0 100<100 300 600 800 1000 1150 1450 1600> 900 100<800 1050 1250 1500> 1300 100<100 300>
 VStem: 300 300<100 350 450 1300>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 600 0 2
-Refer: 11 107 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 700 0 2
+Refer: 11 107 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0123
@@ -7039,8 +7140,8 @@ HStem: -400 100<521.571 977.149> 100 100<572.242 985.237> 300 100<601.049 904.70
 VStem: 100 300<-209.297 9.32889> 200 300<517.89 779.295> 300 250<191.263 313.251> 700 200<1320 1414.51> 1000 300<520.491 806.331> 1100 300<-209.082 9.18907>
 LayerCount: 2
 Fore
-Refer: 299 786 S 1 0 0 1 500 0 2
-Refer: 7 103 N 1 0 0 1 0 0 2
+Refer: 299 786 N 1 0 0 1 500 0 2
+Refer: 7 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uhungarumlaut
@@ -7052,13 +7153,13 @@ HStem: 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100> 1100 300
 VStem: 300 300<284.258 900> 500 500 900 500 1100 300<200 900>
 LayerCount: 2
 Fore
-Refer: 248 779 S 1 0 0 1 400 -200 2
-Refer: 21 117 N 1 0 0 1 0 0 2
+Refer: 248 779 N 1 0 0 1 400 -200 2
+Refer: 21 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0315
 Encoding: 789 789 305
-Width: 500
+Width: 0
 VWidth: 1200
 Flags: W
 HStem: 900 510<110 250>
@@ -7142,8 +7243,8 @@ HStem: -240 150<311.914 390> 0 100<100 300 600 800> 1300 100<100 300>
 VStem: 300 300<100 1300>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 200 0 2
-Refer: 12 108 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 200 0 2
+Refer: 12 108 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni013B
@@ -7155,8 +7256,8 @@ HStem: -240 150<711.914 790> 0 100<100 300 600 1133.59> 1300 100<100 300 600 900
 VStem: 300 300<100 1300>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 600 0 2
-Refer: 58 76 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 600 0 2
+Refer: 58 76 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0146
@@ -7168,8 +7269,8 @@ HStem: -240 150<711.914 790> 0 100<100 300 600 800 1400 1600> 900 100<100 300 81
 VStem: 300 300<100 600 730 900> 1100 300<100 832.134>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 600 0 2
-Refer: 13 110 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 600 0 2
+Refer: 13 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ncaron
@@ -7181,8 +7282,8 @@ HStem: 0 100<100 300 600 800 1400 1600> 900 100<100 300 811.716 1063.16> 1100 30
 VStem: 300 300<100 600 730 900> 1100 300<100 832.134>
 LayerCount: 2
 Fore
-Refer: 421 711 S 1 0 0 1 300 -200 2
-Refer: 13 110 N 1 0 0 1 0 0 2
+Refer: 247 780 N 1 0 0 1 300 -200 2
+Refer: 13 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: omacron
@@ -7194,8 +7295,8 @@ HStem: 0 100<524.869 775.131> 900 100<523.926 776.074> 1200 100<200 1100>
 VStem: 100 300<263.472 736.764> 900 300<263.472 736.764>
 LayerCount: 2
 Fore
-Refer: 124 175 S 1 0 0 1 100 -200 2
-Refer: 15 111 N 1 0 0 1 0 0 2
+Refer: 230 772 N 1 0 0 1 100 -200 2
+Refer: 15 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: obreve
@@ -7207,8 +7308,8 @@ HStem: 0 100<524.869 775.131> 900 100<523.926 776.074> 1075 125<451.256 848.702>
 VStem: 100 300<263.472 736.764> 900 300<263.472 736.764>
 LayerCount: 2
 Fore
-Refer: 426 728 S 1 0 0 1 100 -200 2
-Refer: 15 111 N 1 0 0 1 0 0 2
+Refer: 232 774 N 1 0 0 1 100 -200 2
+Refer: 15 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ohungarumlaut
@@ -7217,11 +7318,11 @@ Width: 1300
 VWidth: 1200
 Flags: W
 HStem: 0 100<524.869 775.131> 900 100<523.926 776.074> 1100 300
-VStem: 100 300<263.472 736.764> 400 500 800 500 900 300<263.472 736.764>
+VStem: 100 300<263.472 736.764> 300 500 700 500 900 300<263.472 736.764>
 LayerCount: 2
 Fore
-Refer: 248 779 S 1 0 0 1 300 -200 2
-Refer: 15 111 N 1 0 0 1 0 0 2
+Refer: 248 779 N 1 0 0 1 200 -200 2
+Refer: 15 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: racute
@@ -7233,8 +7334,8 @@ HStem: 0 100<100 300 600 800> 880 120<779.141 1011.94> 900 100<100 300> 1100 300
 VStem: 300 300<100 653.856 864.287 900> 600 500 900 300<684.525 840.822>
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 500 -200 2
-Refer: 18 114 N 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 500 -200 2
+Refer: 18 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0157
@@ -7246,8 +7347,8 @@ HStem: -240 150<311.914 390> 0 100<100 300 600 800> 880 120<779.141 1011.94> 900
 VStem: 300 300<100 653.856 864.287 900> 900 300<684.525 840.822>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 200 0 2
-Refer: 18 114 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 200 0 2
+Refer: 18 114 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: tcaron
@@ -7272,8 +7373,8 @@ HStem: 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100> 1070 100<975.68
 VStem: 300 300<284.258 900> 400 80<1070 1181.99> 1100 300<200 900> 1220 80<1218.05 1330>
 LayerCount: 2
 Fore
-Refer: 229 771 S 1 0 0 1 300 -200 2
-Refer: 21 117 N 1 0 0 1 0 0 2
+Refer: 229 771 N 1 0 0 1 300 -200 2
+Refer: 21 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: umacron
@@ -7285,8 +7386,8 @@ HStem: 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100> 1200 100<400 13
 VStem: 300 300<284.258 900> 1100 300<200 900>
 LayerCount: 2
 Fore
-Refer: 124 175 S 1 0 0 1 300 -200 2
-Refer: 21 117 N 1 0 0 1 0 0 2
+Refer: 230 772 N 1 0 0 1 300 -200 2
+Refer: 21 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ubreve
@@ -7294,12 +7395,12 @@ Encoding: 365 365 323
 Width: 1700
 VWidth: 1200
 Flags: W
-HStem: 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100> 1075 125<551.256 948.702>
+HStem: 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100> 1075 125<651.256 1048.7>
 VStem: 300 300<284.258 900> 1100 300<200 900>
 LayerCount: 2
 Fore
-Refer: 426 728 S 1 0 0 1 200 -200 2
-Refer: 21 117 N 1 0 0 1 0 0 2
+Refer: 232 774 N 1 0 0 1 300 -200 2
+Refer: 21 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uring
@@ -7307,12 +7408,12 @@ Encoding: 367 367 324
 Width: 1700
 VWidth: 1200
 Flags: W
-HStem: 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100> 1100 100<655.219 944.781> 1400 100<655.219 944.781>
-VStem: 300 300<284.258 900> 500 125<1231.12 1368.88> 975 125<1231.12 1368.88> 1100 300<200 900>
+HStem: 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100> 1000 100<755.219 1044.78> 1300 100<755.219 1044.78>
+VStem: 300 300<284.258 900> 600 125<1131.12 1268.88> 1075 125<1131.12 1268.88> 1100 300<200 900>
 LayerCount: 2
 Fore
-Refer: 425 730 S 1 0 0 1 400 -100 2
-Refer: 21 117 N 1 0 0 1 0 0 2
+Refer: 253 778 N 1 0 0 1 500 -200 2
+Refer: 21 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uogonek
@@ -7320,12 +7421,12 @@ Encoding: 371 371 325
 Width: 1700
 VWidth: 1200
 Flags: W
-HStem: -400 100<1309.92 1507.96> -20 20G<1250 1400> 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100>
-VStem: 300 300<284.258 900> 1100 200<-290.337 -146.916> 1100 300<200 900>
+HStem: -400 100<809.918 1007.96> -20 20G<750 900> 0 100<690.532 989.95 1400 1600> 900 100<100 300 900 1100>
+VStem: 300 300<284.258 900> 600 200<-290.337 -146.916> 1100 300<200 900>
 LayerCount: 2
 Fore
-Refer: 441 731 S 1 0 0 1 1000 0 2
-Refer: 21 117 N 1 0 0 1 0 0 2
+Refer: 256 808 N 1 0 0 1 500 0 2
+Refer: 21 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Uogonek
@@ -7337,8 +7438,8 @@ HStem: -400 100<909.918 1107.96> -20 20G<850 1000> 0 100<741.602 1250.07> 1300 1
 VStem: 300 300<218.662 1300> 700 200<-290.337 -146.916> 1400 200<219.143 1300>
 LayerCount: 2
 Fore
-Refer: 441 731 S 1 0 0 1 600 0 2
-Refer: 64 85 N 1 0 0 1 0 0 2
+Refer: 256 808 N 1 0 0 1 600 0 2
+Refer: 64 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: wcircumflex
@@ -7349,8 +7450,8 @@ Flags: W
 HStem: 0 21G<640 810 1490 1660> 900 100<100 200 500 700 1000 1100 1350 1400 1700 1950 2100 2300> 1100 300
 LayerCount: 2
 Fore
-Refer: 420 710 S 1 0 0 1 600 -200 2
-Refer: 23 119 N 1 0 0 1 0 0 2
+Refer: 228 770 N 1 0 0 1 600 -200 2
+Refer: 23 119 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: zacute
@@ -7362,8 +7463,8 @@ HStem: 0 100<450 1071.88> 900 100<428.125 950> 1100 300
 VStem: 700 500
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 600 -200 2
-Refer: 25 122 N 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 600 -200 2
+Refer: 25 122 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: zdotaccent
@@ -7375,8 +7476,8 @@ HStem: 0 100<450 1071.88> 900 100<428.125 950> 1190 220<609.714 889.673>
 VStem: 570 360<1228.32 1368.87>
 LayerCount: 2
 Fore
-Refer: 233 775 S 1 0 0 1 500 -200 2
-Refer: 25 122 N 1 0 0 1 0 0 2
+Refer: 233 775 N 1 0 0 1 500 -200 2
+Refer: 25 122 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: zcaron
@@ -7387,8 +7488,8 @@ Flags: W
 HStem: 0 100<450 1071.88> 900 100<428.125 950> 1100 300
 LayerCount: 2
 Fore
-Refer: 421 711 S 1 0 0 1 200 -200 2
-Refer: 25 122 N 1 0 0 1 0 0 2
+Refer: 247 780 N 1 0 0 1 200 -200 2
+Refer: 25 122 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Omacron
@@ -7583,8 +7684,8 @@ HStem: -240 150<911.914 990> 0 100<100 300 500 700> 1300 100<100 300 1300 1500 1
 VStem: 300 200<100 1050> 1500 200<450 1300>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 800 0 2
-Refer: 60 78 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 800 0 2
+Refer: 60 78 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Tcaron
@@ -7688,12 +7789,12 @@ Encoding: 350 350 346
 Width: 1500
 VWidth: 1200
 Flags: W
-HStem: -400 100<600.044 800> -20 20G<716 804> -10 110<537.866 999.214> 1000 21G<1225 1300> 1300 110<392.963 945.187>
-VStem: 100 100<0 200 316.911 500> 100 200<954.058 1193.3> 720 80<-70 0> 1200 100<1250 1400> 1200 200<294.627 578.728>
+HStem: -400 100<500.044 700> -20 20G<616 704> -10 110<537.866 999.214> 1000 21G<1225 1300> 1300 110<392.963 945.187>
+VStem: 100 100<0 200 316.911 500> 100 200<954.058 1193.3> 620 80<-70 0> 1200 100<1250 1400> 1200 200<294.627 578.728>
 LayerCount: 2
 Fore
-Refer: 133 184 S 1 0 0 1 500 0 2
-Refer: 63 83 N 1 0 0 1 0 0 2
+Refer: 231 807 N 1 0 0 1 400 0 2
+Refer: 63 83 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Scaron
@@ -7766,12 +7867,12 @@ Encoding: 342 342 350
 Width: 1800
 VWidth: 1200
 Flags: W
-HStem: -240 150<811.914 890> 0 100<100 300 600 900 1542.81 1700> 500 100<600 1121.48> 1100 100<100 300 600 1116.51>
-VStem: 300 300<100 500 600 1100> 1200 300<141.864 457.246 681.943 1005.63>
+HStem: -240 150<811.914 890> 0 100<100 300 600 900 1542.81 1700> 600 100<600 1103.79> 1300 100<100 300 600 1103.79>
+VStem: 300 300<100 600 700 1300> 1200 300<141.864 481.086 825.507 1163.44>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 700 0 2
-Refer: 348 640 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 700 0 2
+Refer: 62 82 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Racute
@@ -7865,12 +7966,12 @@ Encoding: 290 290 356
 Width: 2000
 VWidth: 1200
 Flags: W
-HStem: -240 150<811.914 890> -10 110<699.378 1178.94> 400 100<1000 1300 1600 1900> 1100 100<698.298 1212.87>
-VStem: 100 400<389.616 810.613> 1300 300<172.556 400> 1500 100<1020 1200>
+HStem: -240 150<811.914 890> -10 110<745.285 1178.94> 500 100<1000 1300 1600 1900> 1000 21G<1475 1600> 1300 100<732.039 1212.87>
+VStem: 100 400<485.7 914.503> 1300 300<172.556 500> 1500 100<1220 1400>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 700 0 2
-Refer: 352 610 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 700 0 2
+Refer: 53 71 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni029C
@@ -10145,7 +10246,7 @@ EndChar
 
 StartChar: circumflex
 Encoding: 710 710 420
-Width: 1100
+Width: 1000
 VWidth: 1200
 Flags: W
 HStem: 1300 300
@@ -10167,7 +10268,7 @@ EndChar
 
 StartChar: caron
 Encoding: 711 711 421
-Width: 1100
+Width: 1000
 VWidth: 1200
 Flags: W
 HStem: 1300 300
@@ -10189,7 +10290,7 @@ EndChar
 
 StartChar: uni02CA
 Encoding: 714 714 422
-Width: 200
+Width: 600
 VWidth: 1200
 Flags: W
 HStem: 1300 300
@@ -10201,7 +10302,7 @@ EndChar
 
 StartChar: uni02CB
 Encoding: 715 715 423
-Width: 200
+Width: 600
 VWidth: 1200
 Flags: W
 HStem: 1300 300
@@ -10213,7 +10314,7 @@ EndChar
 
 StartChar: dotaccent
 Encoding: 729 729 424
-Width: 500
+Width: 430
 VWidth: 1200
 Flags: W
 HStem: 1390 220<109.714 389.673>
@@ -10225,7 +10326,7 @@ EndChar
 
 StartChar: ring
 Encoding: 730 730 425
-Width: 800
+Width: 700
 VWidth: 1200
 Flags: W
 HStem: 1200 100<255.219 544.781> 1500 100<255.219 544.781>
@@ -10248,7 +10349,7 @@ EndChar
 
 StartChar: breve
 Encoding: 728 728 426
-Width: 1100
+Width: 1000
 VWidth: 1200
 Flags: W
 HStem: 1275 125<351.256 748.702>
@@ -10267,7 +10368,7 @@ EndChar
 
 StartChar: uni02C9
 Encoding: 713 713 427
-Width: 1100
+Width: 1000
 VWidth: 1200
 Flags: W
 HStem: 1400 100<100 1000>
@@ -10278,7 +10379,7 @@ EndChar
 
 StartChar: uni02BB
 Encoding: 699 699 428
-Width: 200
+Width: 400
 VWidth: 1200
 Flags: W
 HStem: 1090 510
@@ -10323,8 +10424,8 @@ HStem: -240 150<611.914 690> -10 110<537.866 999.214> 1000 21G<1225 1300> 1300 1
 VStem: 100 100<0 200 316.911 500> 100 200<954.058 1193.3> 1200 100<1250 1400> 1200 200<294.627 578.728>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 500 0 2
-Refer: 63 83 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 500 0 2
+Refer: 63 83 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0219
@@ -10332,12 +10433,12 @@ Encoding: 537 537 431
 Width: 1200
 VWidth: 1200
 Flags: W
-HStem: -240 150<411.914 490> -10 110<427.108 776.684> 900 100<420.016 785.165>
+HStem: -240 150<511.914 590> -10 110<427.108 776.684> 900 100<420.016 785.165>
 VStem: 100 100<0 180 264.633 400> 100 300<650.148 814.56> 800 300<187.68 341.555> 900 102.132<900 1000.35>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 300 0 2
-Refer: 20 115 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 400 0 2
+Refer: 20 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni021A
@@ -10349,8 +10450,8 @@ HStem: -240 150<611.914 690> 0 100<300 600 900 1200> 1000 21G<100 250 1250 1400>
 VStem: 600 300<100 1300>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 500 0 2
-Refer: 48 84 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 500 0 2
+Refer: 48 84 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni021B
@@ -10358,12 +10459,12 @@ Encoding: 539 539 433
 Width: 1000
 VWidth: 1200
 Flags: W
-HStem: -240 150<311.914 390> 0 100<620.816 822.863> 900.15 99.8496<100 300 600 900>
+HStem: -240 150<511.914 590> 0 100<620.816 822.863> 900.15 99.8496<100 300 600 900>
 VStem: 300 300<118.816 900 1000 1050>
 LayerCount: 2
 Fore
-Refer: 300 806 S 1 0 0 1 200 0 2
-Refer: 19 116 N 1 0 0 1 0 0 2
+Refer: 300 806 N 1 0 0 1 400 0 2
+Refer: 19 116 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni018F
@@ -10576,7 +10677,7 @@ EndChar
 
 StartChar: ogonek
 Encoding: 731 731 441
-Width: 700
+Width: 600
 VWidth: 1200
 Flags: W
 HStem: -400 100<309.918 507.959> -20 20G<250 400>
@@ -11235,39 +11336,39 @@ StartChar: Phi
 Encoding: 934 934 462
 Width: 1900
 Flags: W
-HStem: 0 100<500 800 1100 1400> 190 79.0137<639.686 800 1100 1260.31> 1130.99 79.0137<639.789 800 1100 1260.21> 1300 100<500 800 1100 1400>
-VStem: 100 350<534.541 860.681> 800 300<100 190 269.014 1130.99 1210 1300> 1450 350<534.541 860.681>
+HStem: 0 100<500 800 1100 1400> 190 110<622.673 800 1100 1277.33> 1100 110<622.783 800 1100 1277.22> 1300 100<500 800 1100 1400>
+VStem: 100 350<537.24 862.697> 800 300<100 190 300 1100 1210 1300> 1450 350<537.24 862.697>
 CounterMasks: 1 0e
 LayerCount: 2
 Fore
 SplineSet
-500 1400 m 1
- 1400 1400 l 1
- 1400 1300 l 1
- 1100 1300 l 1
- 1100 1210 l 1
- 1493.42089844 1208.86914062 1800 951.407226562 1800 700 c 0
- 1800 448.592773438 1493.74902344 190 1100 190 c 1
- 1100 100 l 1
- 1400 100 l 1
- 1400 0 l 1
- 500 0 l 1
- 500 100 l 1
- 800 100 l 1
- 800 190 l 1
- 406.250976562 190 100 448.592773438 100 700 c 0
- 100 951.407226562 406.579101562 1208.86914062 800 1210 c 1
- 800 1300 l 1
- 500 1300 l 1
- 500 1400 l 1
-800 1130.98632812 m 1
- 537.500976562 1130.98632812 450 915.4921875 450 700 c 0
- 450 484.5078125 536.057617188 269.013671875 800 269.013671875 c 1
- 800 1130.98632812 l 1
-1100 1130.98632812 m 1
- 1100 269.013671875 l 1
- 1363.94238281 269.013671875 1450 484.5078125 1450 700 c 0
- 1450 915.4921875 1362.49902344 1130.98632812 1100 1130.98632812 c 1
+500 1400 m 5
+ 1400 1400 l 5
+ 1400 1300 l 5
+ 1100 1300 l 5
+ 1100 1210 l 5
+ 1493.42089844 1208.86914062 1800 951.407226562 1800 700 c 4
+ 1800 448.592773438 1493.74902344 190 1100 190 c 5
+ 1100 100 l 5
+ 1400 100 l 5
+ 1400 0 l 5
+ 500 0 l 5
+ 500 100 l 5
+ 800 100 l 5
+ 800 190 l 5
+ 406.250976562 190 100 448.592773438 100 700 c 4
+ 100 951.407226562 406.579101562 1208.86914062 800 1210 c 5
+ 800 1300 l 5
+ 500 1300 l 5
+ 500 1400 l 5
+800 1100 m 5
+ 537.500976562 1100 450 915.4921875 450 700 c 4
+ 450 484.5078125 536.057617188 300 800 300 c 5
+ 800 1100 l 5
+1100 1100 m 5
+ 1100 300 l 5
+ 1363.94238281 300 1450 484.5078125 1450 700 c 4
+ 1450 915.4921875 1362.49902344 1100 1100 1100 c 5
 EndSplineSet
 EndChar
 
@@ -11557,6 +11658,8 @@ Width: 1400
 Flags: W
 HStem: 0 100<529.476 772.418> 900 100<523.926 748.031 1256.04 1300>
 VStem: 100 300<263.375 736.764>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11588,6 +11691,8 @@ Width: 1300
 Flags: W
 HStem: 0 100<521.834 801.759> 700 100<500 705.596> 1300 100<457.404 706.359>
 VStem: 100 300<-300 100 178.999 1199.89> 800 300<905.233 1176.92> 900 300<228.911 573.317>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11622,6 +11727,8 @@ Width: 1700
 Flags: W
 HStem: 900 100<100 300 600 700>
 VStem: 1300 300<546.182 824.146>
+AnchorPoint: "bottom" 900 0 basechar 0
+AnchorPoint: "top" 900 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11650,6 +11757,8 @@ Width: 1300
 Flags: W
 HStem: 0 100<524.869 775.131> 900 100<592.512 755.99> 1300 100<530.227 1017.25>
 VStem: 100 300<263.473 658.45> 150 300<1040.64 1235.37> 900 300<263.473 691.954 1099.41 1250.68>
+AnchorPoint: "bottom" 600 0 basechar 0
+AnchorPoint: "top" 600 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11681,6 +11790,8 @@ Width: 1300
 Flags: W
 HStem: 0 100<521.809 1063.43> 500 100<443.75 900> 900 100<493.728 1017.25>
 VStem: 100 300<191.538 417.123 638.755 829.319> 905 295<699.413 855.199>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11713,6 +11824,8 @@ Width: 1300
 Flags: W
 HStem: -400 100<701.871 946.997> 0 100<564.87 968.543> 1300 100<100 1001.83>
 VStem: 100 300<296.753 653.598> 1000 200<-241.734 -36.1107>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11743,6 +11856,8 @@ Width: 1500
 Flags: W
 HStem: 0 21G<300 600> 900 100<100 300 811.716 1063.16>
 VStem: 300 300<0 600 730 900> 1100 300<-400 832.134>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11771,6 +11886,8 @@ Flags: W
 HStem: 0 100<547.187 752.813> 625 150<401.531 898.469> 1300 100<554.735 745.265>
 VStem: 100 301.531<369.567 625 775 1030.43> 898.469 301.531<369.567 625 775 1030.43>
 CounterMasks: 1 e0
+AnchorPoint: "bottom" 600 0 basechar 0
+AnchorPoint: "top" 600 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11796,6 +11913,8 @@ Width: 1000
 Flags: W
 HStem: 0 100<620.816 822.863> 900 100<100 300>
 VStem: 300 300<118.816 900>
+AnchorPoint: "bottom" 400 0 basechar 0
+AnchorPoint: "top" 400 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11821,6 +11940,8 @@ Width: 1700
 Flags: W
 HStem: 0 100<100 300 600 800 1000 1150 1450 1600> 900 100<100 300 800 1050 1250 1500>
 VStem: 300 300<100 350 450 900>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11860,6 +11981,8 @@ Width: 1600
 Flags: W
 HStem: 0 100<100 300 600 700 1100 1200 1350 1500> 1300 100<378.312 595.915>
 VStem: 200 295<1099.41 1255.2>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11894,6 +12017,8 @@ Width: 1700
 Flags: W
 HStem: 0 100<682.877 989.95 1400 1600> 900 100<100 300 900 1100>
 VStem: 300 300<-400 34.0605 200.375 900> 1100 300<200 900>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11928,6 +12053,8 @@ Width: 1700
 Flags: W
 HStem: 0 21G<740 1050> 900 100<100 300 600 700>
 VStem: 1300 300<535.987 824.146>
+AnchorPoint: "bottom" 900 0 basechar 0
+AnchorPoint: "top" 900 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11955,6 +12082,8 @@ Width: 1300
 Flags: W
 HStem: -400 100<701.871 946.997> 0 100<506.739 968.543> 700 100<683.594 1000> 1300 100<100 952.076 1109.91 1200>
 VStem: 100 300<211.818 564.81> 300 300<863.281 1039.31> 1000 200<-241.734 -36.1107>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11990,6 +12119,8 @@ Width: 1300
 Flags: W
 HStem: 0 100<499.869 750.131> 900 100<498.926 751.074>
 VStem: 75 300<263.472 736.764> 875 300<263.472 736.764>
+AnchorPoint: "bottom" 600 0 basechar 0
+AnchorPoint: "top" 600 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12012,6 +12143,8 @@ Width: 1700
 Flags: W
 HStem: 0 100<100 300 600 800 900 1100 1400 1600> 900 100<100 300 600 1100 1400 1600>
 VStem: 300 300<100 900> 1100 300<100 900>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12045,6 +12178,8 @@ Width: 1300
 Flags: W
 HStem: 0 100<521.34 775.131> 900 100<523.926 776.074>
 VStem: 100 300<-400 36.5059 248.97 735.398> 900 300<263.473 736.764>
+AnchorPoint: "bottom" 600 0 basechar 0
+AnchorPoint: "top" 600 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12070,6 +12205,8 @@ Width: 1300
 Flags: W
 HStem: -400 100<701.871 946.997> 0 100<564.869 968.543> 900 100<637.739 1017.25>
 VStem: 100 300<296.753 672.259> 905 295<699.413 855.199> 1000 200<-241.734 -36.1107>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12101,6 +12238,8 @@ Width: 1500
 Flags: W
 HStem: 0 100<524.869 775.131> 900 100<527.592 779.74 1030.95 1400>
 VStem: 100 300<263.473 736.764> 900 300<263.473 736.919>
+AnchorPoint: "bottom" 600 0 basechar 0
+AnchorPoint: "top" 600 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12126,6 +12265,8 @@ Width: 1500
 Flags: W
 HStem: 0 100<920.816 1122.86> 900 100<100 600 900 1400>
 VStem: 600 300<118.816 900>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12151,6 +12292,8 @@ Width: 1600
 Flags: W
 HStem: 0 100<690.531 992> 900 100<100 300>
 VStem: 300 300<284.1 900> 1200 300<342.75 756.573>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12178,6 +12321,8 @@ Flags: W
 HStem: 0 100<608 800 1100 1292> 900 100<1165.06 1431.57>
 VStem: 100 300<342.75 756.573> 800 300<100 816.923> 1500 300<342.75 779.466>
 CounterMasks: 1 38
+AnchorPoint: "bottom" 900 0 basechar 0
+AnchorPoint: "top" 900 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12208,6 +12353,8 @@ Encoding: 967 967 501
 Width: 1500
 Flags: W
 HStem: -400 100<100 300 600 700 1115.19 1386.58> 900 100<113.424 384.812 800 900 1200 1400>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12254,6 +12401,8 @@ Flags: W
 HStem: 0 100<727.149 900 1200 1372.85> 980 20G<100 350 1750 2000> 1380 20G<900 1200>
 VStem: 300 300<303.623 756.319> 900 300<100 1400> 1500 300<303.623 756.319>
 CounterMasks: 1 1c
+AnchorPoint: "bottom" 1000 0 basechar 0
+AnchorPoint: "top" 1000 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12286,31 +12435,33 @@ Flags: W
 HStem: 0 100<527.149 831.478 1272.01 1572.85> 980 20G<350 600 1500 1750>
 VStem: 100 300<302.432 756.573> 900 300<177.289 800> 1700 300<303.38 756.573>
 CounterMasks: 1 38
+AnchorPoint: "bottom" 1000 0 basechar 0
+AnchorPoint: "top" 1000 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-400 1000 m 6
- 600 1000 l 5
- 600 900 l 5
- 600 900 400 850 400 550 c 4
- 400 250 456.735351562 91.2626953125 700 100 c 4
- 850.8515625 105.41796875 907.223632812 188.512695312 900 400 c 5
- 900 500 l 5
- 900 800 l 5
- 1200 800 l 5
- 1200 500 l 5
- 1200 400 l 5
- 1192.77636719 188.512695312 1261.79101562 100 1400 100 c 4
- 1643.421875 100 1700 250 1700 550 c 4
- 1700 850 1500 900 1500 900 c 5
- 1500 1000 l 5
- 1700 1000 l 6
- 1800 1000 2000 900 2000 550 c 4
- 2000 200 1799.99804688 -1.0185546875 1400 0 c 4
- 1255.328125 0.3681640625 1135.86230469 45.0048828125 1050 123.548828125 c 5
- 964.137695312 45.0048828125 844.670898438 0.3681640625 700 0 c 4
- 300.001953125 -1.0185546875 100 200 100 550 c 4
- 100 900 300 1000 400 1000 c 6
+400 1000 m 2
+ 600 1000 l 1
+ 600 900 l 1
+ 600 900 400 850 400 550 c 0
+ 400 250 456.735351562 91.2626953125 700 100 c 0
+ 850.8515625 105.41796875 907.223632812 188.512695312 900 400 c 1
+ 900 500 l 1
+ 900 800 l 1
+ 1200 800 l 1
+ 1200 500 l 1
+ 1200 400 l 1
+ 1192.77636719 188.512695312 1261.79101562 100 1400 100 c 0
+ 1643.421875 100 1700 250 1700 550 c 0
+ 1700 850 1500 900 1500 900 c 1
+ 1500 1000 l 1
+ 1700 1000 l 2
+ 1800 1000 2000 900 2000 550 c 0
+ 2000 200 1799.99804688 -1.0185546875 1400 0 c 0
+ 1255.328125 0.3681640625 1135.86230469 45.0048828125 1050 123.548828125 c 1
+ 964.137695312 45.0048828125 844.670898438 0.3681640625 700 0 c 0
+ 300.001953125 -1.0185546875 100 200 100 550 c 0
+ 100 900 300 1000 400 1000 c 2
 EndSplineSet
 EndChar
 
@@ -12767,6 +12918,7 @@ SplineSet
  850 800 950 900 1050 1000 c 1
  1100 1000 l 1xec
 EndSplineSet
+Substitution2: "SmallCaps" uni0415.smallcaps
 EndChar
 
 StartChar: uni0400
@@ -13076,6 +13228,7 @@ SplineSet
  1200 1400 l 1
  1900 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0418.smallcaps
 EndChar
 
 StartChar: uni0419
@@ -13216,6 +13369,7 @@ SplineSet
  1200 560 1120 700 1000 700 c 2
  600 700 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0411.smallcaps
 EndChar
 
 StartChar: uni0410
@@ -13248,6 +13402,7 @@ SplineSet
  350 100 l 1
  1000 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0410.smallcaps
 EndChar
 
 StartChar: uni0412
@@ -13284,6 +13439,7 @@ SplineSet
  1300 570 1220 700 1100 700 c 2
  600 700 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0412.smallcaps
 EndChar
 
 StartChar: uni0413
@@ -13311,6 +13467,7 @@ SplineSet
  1250 1200 1100 1300 1000 1300 c 2
  600 1300 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0413.smallcaps
 EndChar
 
 StartChar: uni0416
@@ -13383,6 +13540,7 @@ SplineSet
  250 1100 200 1150 200 1225 c 0
  200 1323.94628906 275.000976562 1400 450 1400 c 0
 EndSplineSet
+Substitution2: "SmallCaps" uni0416.smallcaps
 EndChar
 
 StartChar: uni041A
@@ -13431,6 +13589,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni041A.smallcaps
 EndChar
 
 StartChar: uni0417
@@ -13464,6 +13623,7 @@ SplineSet
  200 1250 l 1
  200 1250 380 1410 700 1410 c 0xfa
 EndSplineSet
+Substitution2: "SmallCaps" uni0417.smallcaps
 EndChar
 
 StartChar: uni041C
@@ -13502,6 +13662,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni041C.smallcaps
 EndChar
 
 StartChar: uni041D
@@ -13543,6 +13704,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni041D.smallcaps
 EndChar
 
 StartChar: uni041E
@@ -13565,6 +13727,7 @@ SplineSet
  1201.6484375 100 1300 400 1300 700 c 0
  1300 1000 1200 1300 900 1300 c 0
 EndSplineSet
+Substitution2: "SmallCaps" uni041E.smallcaps
 EndChar
 
 StartChar: uni041F
@@ -13597,6 +13760,7 @@ SplineSet
  1400 100 l 1
  1400 1300 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni041F.smallcaps
 EndChar
 
 StartChar: uni0420
@@ -13629,6 +13793,7 @@ SplineSet
  1200 1160 1120 1300 1000 1300 c 2
  600 1300 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0420.smallcaps
 EndChar
 
 StartChar: uni0421
@@ -13655,6 +13820,7 @@ SplineSet
  1300 100 1450 280 1500 330 c 1
  1500 230 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0421.smallcaps
 EndChar
 
 StartChar: uni0422
@@ -13684,6 +13850,7 @@ SplineSet
  100 1100 l 1
  100 1400 l 1xd0
 EndSplineSet
+Substitution2: "SmallCaps" uni0422.smallcaps
 EndChar
 
 StartChar: uni0423
@@ -13718,73 +13885,48 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0423.smallcaps
 EndChar
 
 StartChar: uni0424
 Encoding: 1060 1060 555
 Width: 1900
 Flags: W
-HStem: 0 100<500 800 1100 1400> 190 79.0137<536.058 800 1100 1363.94> 1130.99 79.0137<537.501 800 1100 1362.5> 1300 100<500 800 1100 1400>
-VStem: 100 350<466.55 933.45> 800 300<100 190 269.014 1130.99 1210 1300> 1450 350<466.55 933.45>
+HStem: 0 100<500 800 1100 1400> 190 110<622.673 800 1100 1277.33> 1100 110<622.783 800 1100 1277.22> 1300 100<500 800 1100 1400>
+VStem: 100 350<537.24 862.697> 800 300<100 190 300 1100 1210 1300> 1450 350<537.24 862.697>
 CounterMasks: 1 0e
 LayerCount: 2
 Fore
 SplineSet
-800 1210 m 1
- 800 1130.98632812 l 1
- 537.500976562 1130.98632812 450 915.4921875 450 700 c 0
- 450 484.5078125 536.057617188 269.013671875 800 269.013671875 c 1
- 800 190 l 1
- 406.25 190 100 448.591796875 100 700 c 0
- 100 951.408203125 406.579101562 1208.86914062 800 1210 c 1
-1100 1210 m 1
- 1493.42089844 1208.86914062 1800 951.408203125 1800 700 c 0
- 1800 448.591796875 1493.75 190 1100 190 c 1
- 1100 269.013671875 l 1
- 1363.94238281 269.013671875 1450 484.5078125 1450 700 c 0
- 1450 915.4921875 1362.49902344 1130.98632812 1100 1130.98632812 c 1
- 1100 1210 l 1
-500 1400 m 1
- 1400 1400 l 1
- 1400 1300 l 1
- 1100 1300 l 1
- 1100 100 l 1
- 1400 100 l 1
- 1400 0 l 1
- 500 0 l 1
- 500 100 l 1
- 800 100 l 1
- 800 1300 l 1
- 500 1300 l 1
- 500 1400 l 1
-500 1400 m 1
- 1400 1400 l 1
- 1400 1300 l 1
- 1100 1300 l 1
- 1100 1210 l 1
- 1493.42089844 1208.86914062 1800 951.407226562 1800 700 c 0
- 1800 448.592773438 1493.74902344 190 1100 190 c 1
- 1100 100 l 1
- 1400 100 l 1
- 1400 0 l 1
- 500 0 l 1
- 500 100 l 1
- 800 100 l 1
- 800 190 l 1
- 406.250976562 190 100 448.592773438 100 700 c 0
- 100 951.407226562 406.579101562 1208.86914062 800 1210 c 1
- 800 1300 l 1
- 500 1300 l 1
- 500 1400 l 1
-800 1130.98632812 m 1
- 537.500976562 1130.98632812 450 915.4921875 450 700 c 0
- 450 484.5078125 536.057617188 269.013671875 800 269.013671875 c 1
- 800 1130.98632812 l 1
-1100 1130.98632812 m 1
- 1100 269.013671875 l 1
- 1363.94238281 269.013671875 1450 484.5078125 1450 700 c 0
- 1450 915.4921875 1362.49902344 1130.98632812 1100 1130.98632812 c 1
+500 1400 m 5
+ 1400 1400 l 5
+ 1400 1300 l 5
+ 1100 1300 l 5
+ 1100 1210 l 5
+ 1493.42089844 1208.86914062 1800 951.407226562 1800 700 c 4
+ 1800 448.592773438 1493.74902344 190 1100 190 c 5
+ 1100 100 l 5
+ 1400 100 l 5
+ 1400 0 l 5
+ 500 0 l 5
+ 500 100 l 5
+ 800 100 l 5
+ 800 190 l 5
+ 406.250976562 190 100 448.592773438 100 700 c 4
+ 100 951.407226562 406.579101562 1208.86914062 800 1210 c 5
+ 800 1300 l 5
+ 500 1300 l 5
+ 500 1400 l 5
+800 1100 m 5
+ 537.500976562 1100 450 915.4921875 450 700 c 4
+ 450 484.5078125 536.057617188 300 800 300 c 5
+ 800 1100 l 5
+1100 1100 m 5
+ 1100 300 l 5
+ 1363.94238281 300 1450 484.5078125 1450 700 c 4
+ 1450 915.4921875 1362.49902344 1100 1100 1100 c 5
 EndSplineSet
+Substitution2: "SmallCaps" uni0424.smallcaps
 EndChar
 
 StartChar: uni0425
@@ -13825,6 +13967,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0425.smallcaps
 EndChar
 
 StartChar: uni0403
@@ -13883,6 +14026,7 @@ SplineSet
  1700 100 l 1
  1900 100 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0426.smallcaps
 EndChar
 
 StartChar: uni0428
@@ -13925,6 +14069,7 @@ SplineSet
  2600 100 l 1
  2600 0 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0428.smallcaps
 EndChar
 
 StartChar: uni0429
@@ -13968,6 +14113,7 @@ SplineSet
  100 1300 l 1
  100 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0429.smallcaps
 EndChar
 
 StartChar: uni042F
@@ -14009,6 +14155,7 @@ SplineSet
  1100 1300 l 1
  700 1300 l 2
 EndSplineSet
+Substitution2: "SmallCaps" uni042F.smallcaps
 EndChar
 
 StartChar: uni042D
@@ -14042,6 +14189,7 @@ SplineSet
  200 1220 l 1
  200 1220 400 1410 700 1410 c 0xde
 EndSplineSet
+Substitution2: "SmallCaps" uni042D.smallcaps
 EndChar
 
 StartChar: uni042A
@@ -14079,6 +14227,7 @@ SplineSet
  1700 559.999023438 1620 700 1500 700 c 2
  1100 700 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni042A.smallcaps
 EndChar
 
 StartChar: uni042C
@@ -14113,18 +14262,67 @@ SplineSet
  1200 559.999023438 1120 700 1000 700 c 2
  600 700 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni042C.smallcaps
 EndChar
 
 StartChar: uni042B
 Encoding: 1067 1067 566
 Width: 2600
 Flags: W
-HStem: 0 100<100 300 600 1103.79 1600 1900 2200 2500> 700 100<600 1103.79> 1300 100<100 300 600 800 1600 1900 2200 2500>
-VStem: 300 300<100 700 800 1300> 1200 300<228.914 563.44> 1900 300<100 1300>
+HStem: 0.5 100<100 300 600 1103.79 1600 1900.5 2199.5 2500> 700 100<600 1103.79> 1300.5 100<100 300 600 800 1600 1900.5 2199.5 2500>
+VStem: 300 300<100 700 800 1300> 1200 300<228.914 563.44> 1900 300<100.5 1300.5>
 LayerCount: 2
 Fore
-Refer: 529 1030 S 1 0 0 1 1500 0 2
-Refer: 565 1068 N 1 0 0 1 0 0 2
+SplineSet
+1600.5 1400.5 m 2
+ 2499.5 1400.5 l 2
+ 2499.77734375 1400.5 2500 1400.27734375 2500 1400 c 2
+ 2500 1301 l 2
+ 2500 1300.72265625 2499.77734375 1300.5 2499.5 1300.5 c 2
+ 2199.5 1300.5 l 1
+ 2199.77734375 1300.5 2200 1300.27734375 2200 1300 c 2
+ 2200 101 l 2
+ 2200 100.72265625 2199.77734375 100.5 2199.5 100.5 c 1
+ 2499.5 100.5 l 2
+ 2499.77734375 100.5 2500 100.27734375 2500 100 c 2
+ 2500 1 l 2
+ 2500 0.72265625 2499.77734375 0.5 2499.5 0.5 c 2
+ 1600.5 0.5 l 2
+ 1600.22265625 0.5 1600 0.72265625 1600 1 c 2
+ 1600 100 l 2
+ 1600 100.27734375 1600.22265625 100.5 1600.5 100.5 c 2
+ 1900.5 100.5 l 1
+ 1900.22265625 100.5 1900 100.72265625 1900 101 c 2
+ 1900 1300 l 2
+ 1900 1300.27734375 1900.22265625 1300.5 1900.5 1300.5 c 1
+ 1600.5 1300.5 l 2
+ 1600.22265625 1300.5 1600 1300.72265625 1600 1301 c 2
+ 1600 1400 l 2
+ 1600 1400.27734375 1600.22265625 1400.5 1600.5 1400.5 c 2
+100 1300 m 1
+ 100 1400 l 1
+ 800 1400 l 1
+ 800 1300 l 1
+ 600 1300 l 1
+ 600 800 l 1
+ 1000 800 l 2
+ 1249.99902344 800 1504.49804688 649.264648438 1500 390 c 0
+ 1495.50195312 130.735351562 1249.99902344 0 1000 0 c 2
+ 800 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1300 l 1
+ 100 1300 l 1
+600 700 m 1
+ 600 100 l 1
+ 800 100 l 1
+ 1000 100 l 2
+ 1120 100 1200 240.000976562 1200 400 c 0
+ 1200 559.999023438 1120 700 1000 700 c 2
+ 600 700 l 1
+EndSplineSet
+Substitution2: "SmallCaps" uni042B.smallcaps
 EndChar
 
 StartChar: uni0427
@@ -14160,6 +14358,7 @@ SplineSet
  800 1400 l 1
  1700 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0427.smallcaps
 EndChar
 
 StartChar: uni042E
@@ -14197,6 +14396,7 @@ SplineSet
  2001.6484375 100 2100 400.000976562 2100 700 c 0
  2100 999.999023438 1999.99902344 1300 1700 1300 c 0
 EndSplineSet
+Substitution2: "SmallCaps" uni042E.smallcaps
 EndChar
 
 StartChar: uni041B
@@ -14234,6 +14434,7 @@ SplineSet
  400 1300 l 1
  400 1400 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni041B.smallcaps
 EndChar
 
 StartChar: uni0409
@@ -14324,6 +14525,7 @@ SplineSet
  1300 1300 l 1
  1200 1300 l 1
 EndSplineSet
+Substitution2: "SmallCaps" uni0414.smallcaps
 EndChar
 
 StartChar: uni0432
@@ -14332,6 +14534,8 @@ Width: 1500
 Flags: W
 HStem: 0 100<100 300 600 1052> 500 100<600 956.805> 900 100<100 300 600 957.48>
 VStem: 300 300<100 500 600 900> 1000 300<644.795 854.76> 1100 300<151.789 416.739>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14368,6 +14572,8 @@ Width: 1400
 Flags: W
 HStem: 0 100<100 298.571 600 800> 900 100<100 300 601.429 1075.53>
 VStem: 298.571 301.429<100 900>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14395,6 +14601,8 @@ Width: 1500
 Flags: W
 HStem: -200 300<100 218.895 1280.4 1400> 0 100<419.015 900 1200 1211.04> 900 100<200 482.281 621.277 900 1200 1400>
 VStem: 100 100<-200 -115.368> 900 300<100 900> 1300 100<-200.004 -115.531>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14439,6 +14647,8 @@ Width: 1500
 Flags: W
 HStem: 0 100<493.658 795.507 1160.85 1302.9> 500 100<494.346 897.385> 900 100<382.768 833.44>
 VStem: 100 300<181.399 410.54> 200 295<699.413 854.878> 900 300<224.585 493.814 572.297 755.848>
+AnchorPoint: "bottom" 600 0 basechar 0
+AnchorPoint: "top" 600 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14478,6 +14688,8 @@ Width: 1400
 Flags: W
 HStem: 0 100<545.009 1015.45> 500 100<404.543 1000> 900 100<541.14 886.612>
 VStem: 100 300<320.734 500 600 681.473>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14504,6 +14716,8 @@ Flags: W
 HStem: 0 100<100 342.578 800 1000 1300 1500 1957.42 2200> 500 100<787.622 1000 1300 1512.38> 775 225<234.66 395.05 1904.95 2065.34> 900 100<800 1000 1300 1500>
 VStem: 200 225<799.943 924.348> 1000 300<100 500 600 900> 1875 225<799.943 924.348>
 CounterMasks: 1 0e
+AnchorPoint: "bottom" 1100 0 basechar 0
+AnchorPoint: "top" 1100 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14571,30 +14785,32 @@ Width: 1200
 Flags: W
 HStem: -10 110<297.136 690.678> 500 100<300 696.594> 900 100<336.008 744.32>
 VStem: 100 100<910 1000> 800 300<195.988 413.256> 800 250<669.281 847.477>
+AnchorPoint: "bottom" 600 0 basechar 0
+AnchorPoint: "top" 600 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-600 1010 m 4xf4
- 871.428710938 1010 1050 930 1050 750 c 4xf4
- 1050 658.55078125 963.2890625 595.543945312 849.9296875 555.634765625 c 5
- 987.295898438 515.959960938 1100 444.298828125 1100 320 c 4
- 1100 90 774.28515625 -10 560 -10 c 4
- 274.286132812 -10 135.713867188 117.142578125 100 160 c 5
- 100 260 l 5
- 135.713867188 224.286132812 240 100 490 100 c 4
- 740 100 800 227.142578125 800 320 c 4xf8
- 800 412.857421875 682.51953125 498.1796875 500 500 c 6
- 300 500 l 5
- 300 600 l 5
- 500 600 l 6
- 678.571289062 600 801.28515625 668.297851562 800 748.572265625 c 4
- 799.115234375 803.81640625 774.28515625 900 560 900 c 4
- 281.428710938 900 171.428710938 735.713867188 135.71484375 700 c 5
- 100 700 l 5
- 100 1000 l 5
- 200 1000 l 5
- 200 910 l 5
- 200 910 371.428710938 1010 600 1010 c 4xf4
+600 1010 m 0xf4
+ 871.428710938 1010 1050 930 1050 750 c 0xf4
+ 1050 658.55078125 963.2890625 595.543945312 849.9296875 555.634765625 c 1
+ 987.295898438 515.959960938 1100 444.298828125 1100 320 c 0
+ 1100 90 774.28515625 -10 560 -10 c 0
+ 274.286132812 -10 135.713867188 117.142578125 100 160 c 1
+ 100 260 l 1
+ 135.713867188 224.286132812 240 100 490 100 c 0
+ 740 100 800 227.142578125 800 320 c 0xf8
+ 800 412.857421875 682.51953125 498.1796875 500 500 c 2
+ 300 500 l 1
+ 300 600 l 1
+ 500 600 l 2
+ 678.571289062 600 801.28515625 668.297851562 800 748.572265625 c 0
+ 799.115234375 803.81640625 774.28515625 900 560 900 c 0
+ 281.428710938 900 171.428710938 735.713867188 135.71484375 700 c 1
+ 100 700 l 1
+ 100 1000 l 1
+ 200 1000 l 1
+ 200 910 l 1
+ 200 910 371.428710938 1010 600 1010 c 0xf4
 EndSplineSet
 EndChar
 
@@ -14604,6 +14820,8 @@ Width: 1800
 Flags: W
 HStem: 0 100<100 300 600 800 1000 1200 1500 1700> 900 100<100 300 600 800 1000 1200 1500 1700>
 VStem: 300 300<100 125 275 900> 1200 300<100 725 875 900>
+AnchorPoint: "bottom" 900 0 basechar 0
+AnchorPoint: "top" 900 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14645,6 +14863,8 @@ Width: 1600
 Flags: W
 HStem: 0 100<100 300 600 800 1257.42 1500> 500 100<600 812.378> 775 225<1204.95 1365.34> 900 100<100 300 600 800>
 VStem: 300 300<100 500 600 900> 1175 225<799.943 924.348>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14691,6 +14911,8 @@ Width: 1600
 Flags: W
 HStem: -0.00585938 100.006<300 379.374 800.715 999.285 1300 1499.29> 900 100<299.285 581.898 724.324 999.285 1300 1499.29>
 VStem: 100 225<100.016 234.601> 999.285 300.715<100 900>
+AnchorPoint: "bottom" 900 0 basechar 0
+AnchorPoint: "top" 900 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14728,6 +14950,8 @@ Width: 1800
 Flags: W
 HStem: 0 100<100 300 500 700 1000 1200 1500 1700> 900 100<100 300 1500 1700>
 VStem: 300 200<100 700> 1200 300<100 700>
+AnchorPoint: "bottom" 900 0 basechar 0
+AnchorPoint: "top" 900 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14766,6 +14990,8 @@ Width: 1700
 Flags: W
 HStem: 0 100<100 300 600 800 900 1100 1400 1600> 500 100<600 1100> 900 100<100 300 600 800 900 1100 1400 1600>
 VStem: 300 300<100 500 600 900> 1100 300<100 500 600 900>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14809,8 +15035,8 @@ HStem: 0 100<100 300 600 800 1000 1200 1500 1700> 900 100<100 300 600 800 1000 1
 VStem: 300 300<100 125 275 900> 1200 300<100 725 875 900>
 LayerCount: 2
 Fore
-Refer: 426 728 S 1 0 0 1 400 -200 2
-Refer: 579 1080 N 1 0 0 1 0 0 2
+Refer: 232 774 N 1 0 0 1 400 -200 2
+Refer: 579 1080 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni043E
@@ -14819,6 +15045,8 @@ Width: 1300
 Flags: W
 HStem: 0 100<524.869 775.131> 900 100<523.926 776.074>
 VStem: 100 300<263.472 736.764> 900 300<263.472 736.764>
+AnchorPoint: "bottom" 600 0 basechar 0
+AnchorPoint: "top" 600 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14841,6 +15069,8 @@ Width: 1700
 Flags: W
 HStem: 0 100<100 300 600 800 900 1100 1400 1600> 900 100<100 300 600 1100 1400 1600>
 VStem: 300 300<100 900> 1100 300<100 900>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14874,6 +15104,8 @@ Width: 1600
 Flags: W
 HStem: -400 100<100 300 600 800> 0 100<710.05 1038.54> 900 100<100 300 710.049 1041.49>
 VStem: 300 300<-300 100 200 800> 1200 300<286.94 717.505>
+AnchorPoint: "bottom" 900 0 basechar 0
+AnchorPoint: "top" 900 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14908,6 +15140,8 @@ Width: 1300
 Flags: W
 HStem: 0 100<640 1063.43> 900 100<637.739 1017.25>
 VStem: 100 300<328.106 672.259> 905 295<699.413 855.199>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14933,6 +15167,8 @@ Width: 1300
 Flags: W
 HStem: 0 100<300 500 800 1028.57> 750 250<100 192.627 1102.93 1196.43> 900 100<263.939 500 800 1032.24>
 VStem: 500 300<100 900>
+AnchorPoint: "bottom" 600 0 basechar 0
+AnchorPoint: "top" 600 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14962,6 +15198,8 @@ Width: 1800
 Flags: W
 HStem: -400 100<288.057 582.507> 900 100<100 300 600 800 1100 1350 1450 1700>
 VStem: 100 300<-236.357 -79.5252>
+AnchorPoint: "bottom" 900 0 basechar 0
+AnchorPoint: "top" 900 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14997,6 +15235,8 @@ Flags: W
 HStem: -400 100<800 1000 1300 1500> 0 100<561.456 889.95 1410.05 1738.54> 900 100<558.509 889.951 1410.05 1741.49> 1300 100<800 1000>
 VStem: 100 300<286.94 717.505> 1000 300<-300 100 200 800 900 1300> 1900 300<286.94 717.505>
 CounterMasks: 1 0e
+AnchorPoint: "bottom" 1100 0 basechar 0
+AnchorPoint: "top" 1100 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15041,6 +15281,8 @@ Encoding: 1093 1093 592
 Width: 1600
 Flags: W
 HStem: 0 100<100 250 350 600 900 1050 1350 1500> 900 100<100 250 550 700 1000 1150 1250 1500>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15082,6 +15324,8 @@ Width: 1700
 Flags: W
 HStem: 0 100<100 300 600 1100> 900 100<100 300 600 800 900 1100 1400 1600>
 VStem: 300 300<100 900> 1100 300<100 900> 1492.86 107.143<-200 -113.584>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15117,6 +15361,8 @@ Width: 1600
 Flags: W
 HStem: 0 100<800 1000 1300 1500> 275 85.7148<662.252 846.417> 900 100<100 325 800 1000 1300 1500>
 VStem: 325 300<396.343 900> 1000 300<100 482.143 575 900>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15176,6 +15422,8 @@ Width: 2500
 Flags: W
 HStem: 0 100<100 300 600 1100 1400 1900> 900 100<100 300 600 800 900 1100 1400 1600 1700 1900 2200 2400>
 VStem: 300 300<100 900> 1100 300<100 900> 1900 300<100 900> 2292.86 107.143<-200 -113.584>
+AnchorPoint: "bottom" 1200 0 basechar 0
+AnchorPoint: "top" 1200 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15220,6 +15468,8 @@ Flags: W
 HStem: 0 100<100 300 600 1100 1400 1900 2200 2400> 900 100<100 300 600 800 900 1100 1400 1600 1700 1900 2200 2400>
 VStem: 300 300<100 900> 1100 300<100 900> 1900 300<100 900>
 CounterMasks: 1 38
+AnchorPoint: "bottom" 1200 0 basechar 0
+AnchorPoint: "top" 1200 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15261,6 +15511,8 @@ Width: 1700
 Flags: W
 HStem: 0 100<400 600 900 1243.82> 500 100<900 1243.82> 900 100<335.019 600 900 1100>
 VStem: 600 300<100 500 600 900> 1300 300<157.673 442.327>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15296,6 +15548,8 @@ Width: 1400
 Flags: W
 HStem: 0 100<100 300 600 943.823> 500 100<600 943.823> 900 100<100 300 600 800>
 VStem: 300 300<100 500 600 900> 1000 300<157.673 442.327>
+AnchorPoint: "bottom" 700 0 basechar 0
+AnchorPoint: "top" 700 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15328,6 +15582,8 @@ Width: 2200
 Flags: W
 HStem: 0 100<100 300 600 943.823 1400 1600 1900 2100> 500 100<600 943.823> 900 100<100 300 600 800 1400 1600 1900 2100>
 VStem: 300 300<100 500 600 900> 1000 300<157.673 442.327> 1600 300<100 900>
+AnchorPoint: "bottom" 1100 0 basechar 0
+AnchorPoint: "top" 1100 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15406,6 +15662,8 @@ Width: 1300
 Flags: W
 HStem: 0 100<524.869 775.131> 900 100<521.671 776.074> 1100 200<327.11 919.797>
 VStem: 100 300<264.602 751.03> 100 150<885.094 1023.09> 900 300<263.473 736.764> 1000 100<1381.18 1500>
+AnchorPoint: "bottom" 600 0 basechar 0
+AnchorPoint: "top" 600 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15438,6 +15696,8 @@ Flags: W
 HStem: 0 100<100 300 600 800 1222.38 1475.13> 425 150<600 807.762> 900 100<100 300 600 800 1221.4 1476.07>
 VStem: 300 300<100 425 575 900> 803.627 296.373<260.085 425 575 740.364> 1600 300<263.473 736.764>
 CounterMasks: 1 e0
+AnchorPoint: "bottom" 900 0 basechar 0
+AnchorPoint: "top" 900 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15475,6 +15735,8 @@ Width: 1200
 Flags: W
 HStem: -10 110<279.102 677.139> 500 100<510.399 796.395> 900 110<327.799 673.92>
 VStem: 100 100<890 998.572> 800 300<321.041 500 600 678.959>
+AnchorPoint: "bottom" 600 0 basechar 0
+AnchorPoint: "top" 600 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15508,6 +15770,8 @@ Width: 1500
 Flags: W
 HStem: 0 100<100 241.088 700 900 1200 1400> 428.572 71.4277<626.493 900> 900 100<556.177 900 1200 1400>
 VStem: 200 300<561.242 838.564> 900 300<100 428.572 500 900>
+AnchorPoint: "bottom" 800 0 basechar 0
+AnchorPoint: "top" 800 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15550,11 +15814,11 @@ Encoding: 1107 1107 608
 Width: 1400
 Flags: W
 HStem: 0 100<100 298.571 600 800> 900 100<100 300 601.429 1075.53> 1100 300
-VStem: 298.571 301.429<100 900> 600 500
+VStem: 298.571 301.429<100 900> 700 500
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 500 -200 2
-Refer: 573 1075 S 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 600 -200 2
+Refer: 573 1075 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni045C
@@ -15562,11 +15826,11 @@ Encoding: 1116 1116 609
 Width: 1600
 Flags: W
 HStem: 0 100<100 300 600 800 1257.42 1500> 500 100<600 812.378> 775 225<1204.95 1365.34> 900 100<100 300 600 800> 1100 300
-VStem: 300 300<100 500 600 900> 600 500 1175 225<799.943 924.348>
+VStem: 300 300<100 500 600 900> 800 500 1175 225<799.943 924.348>
 LayerCount: 2
 Fore
-Refer: 129 180 N 1 0 0 1 500 -200 2
-Refer: 580 1082 N 1 0 0 1 0 0 2
+Refer: 227 769 N 1 0 0 1 700 -200 2
+Refer: 580 1082 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni045D
@@ -15577,8 +15841,8 @@ HStem: 0 100<100 300 600 800 1000 1200 1500 1700> 900 100<100 300 600 800 1000 1
 VStem: 300 300<100 125 275 900> 500 500 1200 300<100 725 875 900>
 LayerCount: 2
 Fore
-Refer: 30 96 S 1 0 0 1 400 -200 2
-Refer: 579 1080 N 1 0 0 1 0 0 2
+Refer: 226 768 N 1 0 0 1 400 -200 2
+Refer: 579 1080 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni045E
@@ -15589,8 +15853,8 @@ HStem: -400 100<288.057 582.507> 900 100<100 300 600 800 1100 1350 1450 1700> 10
 VStem: 100 300<-236.357 -79.5252>
 LayerCount: 2
 Fore
-Refer: 426 728 S 1 0 0 1 400 -200 2
-Refer: 590 1091 N 1 0 0 1 0 0 2
+Refer: 232 774 N 1 0 0 1 400 -200 2
+Refer: 590 1091 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0454
@@ -16012,8 +16276,8 @@ HStem: 0 100<493.658 795.507 1160.85 1302.9> 500 100<494.346 897.385> 900 100<38
 VStem: 100 300<181.399 410.54> 200 295<699.413 854.878> 900 300<224.585 493.814 572.297 755.848>
 LayerCount: 2
 Fore
-Refer: 426 728 S 1 0 0 1 100 -200 2
-Refer: 575 1072 N 1 0 0 1 0 0 2
+Refer: 232 774 N 1 0 0 1 100 -200 2
+Refer: 575 1072 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni04D6
@@ -16032,12 +16296,12 @@ StartChar: uni04D7
 Encoding: 1239 1239 627
 Width: 1400
 Flags: W
-HStem: 0 100<545.009 1015.45> 500 100<404.543 1000> 900 100<541.14 886.612> 1075 125<451.256 848.702>
+HStem: 0 100<545.009 1015.45> 500 100<404.543 1000> 900 100<541.14 886.612> 1075 125<551.256 948.702>
 VStem: 100 300<320.734 500 600 681.473>
 LayerCount: 2
 Fore
-Refer: 426 728 S 1 0 0 1 100 -200 2
-Refer: 576 1077 N 1 0 0 1 0 0 2
+Refer: 232 774 N 1 0 0 1 200 -200 2
+Refer: 576 1077 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni04F2
@@ -16058,17 +16322,16 @@ Encoding: 1267 1267 629
 Width: 1800
 Flags: W
 HStem: -400 100<288.057 582.507> 900 100<100 300 600 800 1100 1350 1450 1700> 1100 300
-VStem: 100 300<-236.357 -79.5252> 500 500 900 500
+VStem: 100 300<-236.357 -79.5252> 600 500 1000 500
 LayerCount: 2
 Fore
-Refer: 129 180 S 1 0 0 1 800 -200 2
-Refer: 129 180 S 1 0 0 1 400 -200 2
-Refer: 590 1091 N 1 0 0 1 0 0 2
+Refer: 248 779 N 1 0 0 1 500 -200 2
+Refer: 590 1091 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni02BC
 Encoding: 700 700 630
-Width: 500
+Width: 400
 VWidth: 1200
 Flags: W
 HStem: 900 510<110 250>
@@ -16374,6 +16637,1792 @@ SplineSet
  960 200 1045.39746094 372.908203125 1100 460 c 1
  1100 250 l 1xfa
 EndSplineSet
+EndChar
+
+StartChar: uni0412.smallcaps
+Encoding: 65564 -1 641
+Width: 1700
+Flags: W
+HStem: 0 100<100 300 600 1219.93> 600 100<600 1127.37> 1100 100<100 300 600 1127.51>
+VStem: 300 300<100 600 700 1100> 1200 300<773.885 1027.03> 1300 300<201.704 499.862>
+AnchorPoint: "top" 800 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1xf4
+ 1000 1200 l 2
+ 1250 1200 1500 1090 1500 900 c 0xf8
+ 1500 710 1270 650 1270 650 c 1
+ 1270 650 1600 630 1600 350 c 0
+ 1600 70 1249.77441406 0 1100 0 c 2
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1xf4
+600 1100 m 1
+ 600 700 l 1
+ 1000 700 l 2
+ 1120 700 1200 790 1200 900 c 0
+ 1200 1010 1120 1100 1000 1100 c 2
+ 600 1100 l 1
+600 600 m 1
+ 600 100 l 1
+ 1100 100 l 2
+ 1220 100 1300 197.991210938 1300 350 c 0xf4
+ 1300 502.008789062 1220 600 1100 600 c 2
+ 600 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: A.smallcaps
+Encoding: 65536 -1 642
+Width: 2200
+VWidth: 1200
+Flags: W
+HStem: 0 100<100 400 500 800 1300 1550 1850 2100> 400 100<700 1350> 1100 100<1000 1050>
+AnchorPoint: "top" 1100 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 192 7424 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: B.smallcaps
+Encoding: 65537 -1 643
+Width: 1700
+Flags: W
+HStem: 0 100<100 300 600 1219.93> 600 100<600 1127.37> 1100 100<100 300 600 1127.51>
+VStem: 300 300<100 600 700 1100> 1200 300<773.885 1027.03> 1300 300<201.704 499.862>
+AnchorPoint: "top" 800 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 698 665 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: C.smallcaps
+Encoding: 65538 -1 644
+Width: 1600
+VWidth: 1200
+Flags: W
+HStem: -10 110<699.378 1203.21> 1100 100<698.298 1147.42>
+VStem: 100 400<389.615 810.621> 1400 100<1020 1200>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 196 7428 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: D.smallcaps
+Encoding: 65539 -1 645
+Width: 1900
+VWidth: 1200
+Flags: W
+HStem: 0 100<100 300 600 1198.79> 1100 100<100 300 600 1198.6>
+VStem: 300 300<100 1100> 1400 400<385.108 814.892>
+AnchorPoint: "top" 1000 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 197 7429 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: E.smallcaps
+Encoding: 65540 -1 646
+Width: 1600
+VWidth: 1200
+Flags: W
+HStem: 0 100<100 300 600 1133.59> 600 100<600 871.875> 1100 100<100 300 600 1133.59>
+VStem: 300 300<100 600 700 1100>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 198 7431 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: F.smallcaps
+Encoding: 65541 -1 647
+Width: 1500
+Flags: W
+HStem: 0 100<0 200 500 800> 600 100<500 771.875> 1100 100<0 200 500 1033.59>
+VStem: 200 300<100 600 700 1100>
+AnchorPoint: "top" 800 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 702 42800 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: G.smallcaps
+Encoding: 65542 -1 648
+Width: 2000
+VWidth: 1200
+Flags: W
+HStem: -10 110<699.378 1178.94> 400 100<1000 1300 1600 1900> 1100 100<698.298 1212.87>
+VStem: 100 400<389.616 810.613> 1300 300<172.556 400> 1500 100<1020 1200>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 352 610 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: H.smallcaps
+Encoding: 65543 -1 649
+Width: 1900
+VWidth: 1200
+Flags: W
+HStem: 0 100<100 300 600 800 1100 1300 1600 1800> 600 100<600 1300> 1100 100<100 300 600 800 1100 1300 1600 1800>
+VStem: 300 300<100 600 700 1100> 1300 300<100 600 700 1100>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 357 668 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: I.smallcaps
+Encoding: 65544 -1 650
+Width: 1100
+VWidth: 1200
+Flags: W
+HStem: 0 100<100 400 700 1000> 1100 100<100 400 700 1000>
+VStem: 400 300<100 1100>
+AnchorPoint: "top" 500 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 234 618 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: J.smallcaps
+Encoding: 65545 -1 651
+Width: 1500
+VWidth: 1200
+Flags: W
+HStem: -10 110<312.266 721.5> 280 240<292.477 488.024> 1100 100<500 800 1100 1400>
+VStem: 800 300<221.743 1100>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 359 7434 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: K.smallcaps
+Encoding: 65546 -1 652
+Width: 2000
+Flags: W
+HStem: 0 100<100 300 600 800 1100 1250 1650 1900> 1100 100<100 300 600 800 1200 1250 1450 1700>
+VStem: 300 300<100 250 450 1100>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 699 7435 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: L.smallcaps
+Encoding: 65547 -1 653
+Width: 1600
+VWidth: 1200
+Flags: W
+HStem: 0 100<100 300 600 1133.59> 1100 100<100 300 600 900>
+VStem: 300 300<100 1100>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 360 671 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: M.smallcaps
+Encoding: 65548 -1 654
+Width: 2100
+Flags: W
+HStem: 0 100<100 300 500 700 1300 1500 1800 2000> 1100 100<100 300 1800 2000>
+VStem: 300 200<100 900> 1500 300<100 900>
+AnchorPoint: "top" 1000 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 700 7437 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: N.smallcaps
+Encoding: 65549 -1 655
+Width: 2000
+VWidth: 1200
+Flags: W
+HStem: 0 100<100 300 500 700> 1100 100<100 300 1300 1500 1700 1900>
+VStem: 300 200<100 950> 1500 200<350 1100>
+AnchorPoint: "top" 1000 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 245 628 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: O.smallcaps
+Encoding: 65550 -1 656
+Width: 1800
+VWidth: 1200
+Flags: W
+HStem: -10 110<713.513 1086.49> 1100 110<718.022 1081.98>
+VStem: 100 400<415.749 778.507> 1300 400<415.749 784.442>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 252 7439 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: P.smallcaps
+Encoding: 65551 -1 657
+Width: 1600
+VWidth: 1100
+Flags: W
+HStem: 0 100<100 300 600 900> 500 100<600 1115.96> 1100 100<100 300 600 1116.51>
+VStem: 300 300<100 500 600 1100> 1200 300<685.866 1005.63>
+AnchorPoint: "top" 800 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 362 7448 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Q.smallcaps
+Encoding: 65552 -1 658
+Width: 1700
+Flags: W
+HStem: -200 100<1155.94 1472.72> -10 110<612.176 898.486> 300 100<619.98 870.118> 1100 110<618.022 981.978>
+VStem: 0 400<417.977 778.507> 1200 400<416.5 784.442>
+AnchorPoint: "top" 800 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 703 42927 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: R.smallcaps
+Encoding: 65553 -1 659
+Width: 1800
+VWidth: 1200
+Flags: W
+HStem: 0 100<100 300 600 900 1542.81 1700> 500 100<600 1121.48> 1100 100<100 300 600 1116.51>
+VStem: 300 300<100 500 600 1100> 1200 300<141.864 457.246 681.943 1005.63>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 348 640 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S.smallcaps
+Encoding: 65554 -1 660
+Width: 1500
+VWidth: 1200
+Flags: W
+HStem: -10.0029 110.003<514.171 1027.88> 1100 110<375.319 945.187>
+VStem: 100 100<-1.41113 170.42 271.882 500> 100 200<818.029 1023> 1200 100<1072.54 1201.41> 1200 200<251.911 490.853>
+AnchorPoint: "top" 700 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 344 42801 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: T.smallcaps
+Encoding: 65555 -1 661
+Width: 1500
+VWidth: 1200
+Flags: W
+HStem: 0 100<300 600 900 1200> 1100 100<466.406 600 900 1033.59>
+VStem: 600 300<100 1100>
+AnchorPoint: "top" 700 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 339 7451 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: U.smallcaps
+Encoding: 65556 -1 662
+Width: 1900
+VWidth: 1200
+Flags: W
+HStem: 0 100<741.602 1250.07> 1100 100<100 300 600 800 1200 1400 1600 1800>
+VStem: 300 300<218.662 1100> 1400 200<219.143 1100>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 239 7452 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: V.smallcaps
+Encoding: 65557 -1 663
+Width: 2000
+Flags: W
+HStem: 0 21G<890 1110> 1100 100<100 350 700 900 1300 1500 1650 1900>
+AnchorPoint: "top" 1000 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 701 7456 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: W.smallcaps
+Encoding: 65558 -1 664
+Width: 2700
+VWidth: 1200
+Flags: W
+HStem: 0 21G<840 1110 1640 1910> 1100 100<100 300 650 700 900 1100 1450 1600 2100 2300 2450 2600>
+AnchorPoint: "top" 1300 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 333 7457 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: X.smallcaps
+Encoding: 65559 -1 665
+Width: 1900
+Flags: W
+HStem: 0 100<100 350 550 700 1200 1250 1650 1800> 1100 100<100 350 750 800 1300 1350 1550 1800>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 800 1200 l 1
+ 800 1100 l 1
+ 750 1100 l 1
+ 1050 800 l 1
+ 1350 1100 l 1
+ 1300 1100 l 1
+ 1300 1200 l 1
+ 1800 1200 l 1
+ 1800 1100 l 1
+ 1550 1100 l 1
+ 1100 650 l 1
+ 1650 100 l 1
+ 1800 100 l 1
+ 1800 0 l 1
+ 1200 0 l 1
+ 1200 100 l 1
+ 1250 100 l 1
+ 900 450 l 1
+ 550 100 l 1
+ 700 100 l 1
+ 700 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 350 100 l 1
+ 850 600 l 1
+ 350 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: Y.smallcaps
+Encoding: 65560 -1 666
+Width: 1600
+VWidth: 1200
+Flags: W
+HStem: 0 100<400 600 900 1100> 1100 100<100 300 600 700 1000 1100 1275 1500>
+VStem: 600 300<100 400>
+AnchorPoint: "top" 700 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 246 655 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Z.smallcaps
+Encoding: 65561 -1 667
+Width: 1600
+VWidth: 1200
+Flags: W
+HStem: 0 100<450 1133.59> 1100 100<466.406 1050>
+AnchorPoint: "top" 800 1200 basechar 0
+LayerCount: 2
+Fore
+Refer: 334 7458 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0410.smallcaps
+Encoding: 65562 -1 668
+Width: 2200
+Flags: W
+HStem: 0 100<100 400 500 800 1300 1550 1850 2100> 400 100<700 1350> 1100 100<1000 1050>
+AnchorPoint: "top" 1100 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+700 500 m 1
+ 1350 500 l 1
+ 1050 1100 l 1
+ 1000 1100 l 1
+ 700 500 l 1
+950 1200 m 1
+ 1300 1200 l 1
+ 1850 100 l 1
+ 2100 100 l 1
+ 2100 0 l 1
+ 1300 0 l 1
+ 1300 100 l 1
+ 1550 100 l 1
+ 1400 400 l 1
+ 650 400 l 1
+ 500 100 l 1
+ 800 100 l 1
+ 800 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 400 100 l 1
+ 950 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0411.smallcaps
+Encoding: 65563 -1 669
+Width: 1600
+Flags: W
+HStem: 0 100<100 300 600 1116.51> 600 100<600 1115.96> 1100 100<100 300 600 1133.59>
+VStem: 300 300<100 600 700 1100> 1200 300<194.373 514.134>
+AnchorPoint: "top" 800 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 1500 1200 l 1
+ 1500 800 l 1
+ 1450 800 l 1
+ 1250.00097656 999.999023438 1100 1100 1000 1100 c 2
+ 600 1100 l 1
+ 600 700 l 1
+ 1000 700 l 2
+ 1250 700 1495.50195312 619.265625 1500 360 c 0
+ 1504.49804688 100.735351562 1250 0 1000 0 c 2
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+600 600 m 1
+ 600 100 l 1
+ 1000 100 l 2
+ 1120 100 1200 190 1200 350 c 0
+ 1200 510 1120 600 1000 600 c 2
+ 600 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0413.smallcaps
+Encoding: 65565 -1 670
+Width: 1600
+Flags: W
+HStem: 0 100<100 300 600 900> 1100 100<100 300 600 1133.59>
+VStem: 300 300<100 1100>
+AnchorPoint: "top" 800 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+600 1100 m 1
+ 600 100 l 1
+ 900 100 l 1
+ 900 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+ 1500 1200 l 1
+ 1500 800 l 1
+ 1450 800 l 1
+ 1250 1000 1100 1100 1000 1100 c 2
+ 600 1100 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0414.smallcaps
+Encoding: 65566 -1 671
+Width: 1900
+Flags: W
+HStem: -300 400<100 270.141 1629.86 1800> 0 100<512.823 1300> 1100 100<300 637.295 785.287 1300 1600 1800>
+VStem: 100 150<-300 -223.288> 1300 300<100 1100> 1650 150<-300 -223.288>
+AnchorPoint: "top" 1100 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+300 1200 m 1xbc
+ 975 1200 l 1
+ 1150 1200 l 1
+ 1800 1200 l 1
+ 1800 1100 l 1
+ 1600 1100 l 1
+ 1600 100 l 1x7c
+ 1800 100 l 1xbc
+ 1800 0 l 1x7c
+ 1800 -300 l 1
+ 1650 -300 l 1xbc
+ 1500 -0.0009765625 1499.99902344 0 1300 0 c 2
+ 1100 0 l 1
+ 600 0 l 2x7c
+ 400.000976562 0 400 -0.0009765625 250 -300 c 1
+ 100 -300 l 1
+ 100 100 l 1
+ 268.2890625 100 l 2
+ 326.495117188 102.45703125 381.44921875 125.796875 425 300 c 2
+ 600 1000 l 2
+ 608.725585938 1034.90234375 616.796875 1069.5234375 637.294921875 1100 c 1
+ 300 1100 l 1
+ 300 1200 l 1xbc
+975 1100 m 2
+ 800 1100 774.986328125 1100.18066406 725 900.177734375 c 2
+ 575 300 l 2
+ 553.157226562 212.604492188 536.530273438 147.263671875 508.3671875 100 c 1
+ 1100 100 l 1
+ 1300 100 l 1
+ 1300 1100 l 1
+ 1150 1100 l 1
+ 975 1100 l 2
+EndSplineSet
+EndChar
+
+StartChar: uni0415.smallcaps
+Encoding: 65567 -1 672
+Width: 1600
+Flags: W
+HStem: 0 100<100 300 600 1133.59> 600 100<600 871.875> 1100 100<100 300 600 1133.59>
+VStem: 300 300<100 600 700 1100>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1100 900 m 1
+ 1100 400 l 1
+ 1050 400 l 1
+ 950 500 850 600 750 600 c 2
+ 600 600 l 1
+ 600 100 l 1
+ 1000 100 l 2
+ 1100 100 1250 200 1450 400 c 1
+ 1500 400 l 1
+ 1500 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+ 1500 1200 l 1
+ 1500 800 l 1
+ 1450 800 l 1
+ 1250 1000 1100 1100 1000 1100 c 2
+ 600 1100 l 1
+ 600 700 l 1
+ 750 700 l 2
+ 850 700 950 800 1050 900 c 1
+ 1100 900 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0416.smallcaps
+Encoding: 65568 -1 673
+Width: 2900
+Flags: W
+HStem: 0 100<100 334.339 1100 1300 1600 1800 2565.66 2800> 600 100<986.949 1300 1600 1913.05> 1100 100<426.047 541.61 1100 1300 1600 1800 2358.39 2473.95>
+VStem: 200 300<930.384 1082.02> 1300 300<100 600 700 1100> 2400 300<930.384 1082.02>
+CounterMasks: 1 1c
+AnchorPoint: "top" 1400 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+450 1200 m 0
+ 699.999023438 1200 700 1099.99902344 800 900 c 2
+ 850 800 l 2
+ 887.970703125 724.05859375 900 700 1075 700 c 0
+ 1165.37304688 700.310546875 1204.89355469 700.091796875 1250 700 c 0
+ 1262.88769531 699.973632812 1287.44726562 700 1300 700 c 1
+ 1300 1100 l 1
+ 1100 1100 l 1
+ 1100 1200 l 1
+ 1800 1200 l 1
+ 1800 1100 l 1
+ 1600 1100 l 1
+ 1600 700 l 1
+ 1612.55273438 700 1637.11230469 699.973632812 1650 700 c 0
+ 1695.10644531 700.091796875 1734.62695312 700.310546875 1825 700 c 0
+ 1999.99902344 700 2012.02929688 724.05859375 2050 800 c 2
+ 2100 900 l 2
+ 2200 1099.99902344 2200.00097656 1200 2450 1200 c 0
+ 2624.99902344 1200 2700 1123.94628906 2700 1025 c 0
+ 2700 950 2650 900 2550 900 c 0
+ 2450 900 2400 950 2400 1000 c 0
+ 2400 1075 2475 1100 2475 1100 c 1
+ 2401.13574219 1100 2350 1099.99902344 2250 900 c 2
+ 2200 800 l 2
+ 2171.41601562 742.83203125 2160.08691406 696.322265625 2124.20703125 662.5625 c 1
+ 2220.37402344 628.731445312 2263.42675781 573.146484375 2300 500 c 2
+ 2400 300 l 2
+ 2500 100 2726.13574219 100 2800 100 c 1
+ 2800 0 l 1
+ 2500 0 l 2
+ 2250.00097656 0 2150 100 2050 300 c 2
+ 1950 500 l 2
+ 1912.02929688 575.94140625 1894.46777344 600 1750 600 c 2
+ 1650 600 l 1
+ 1600 600 l 1
+ 1600 550 l 1
+ 1600 350 l 1
+ 1600 100 l 1
+ 1800 100 l 1
+ 1800 0 l 1
+ 1100 0 l 1
+ 1100 100 l 1
+ 1300 100 l 1
+ 1300 350 l 1
+ 1300 550 l 1
+ 1300 600 l 1
+ 1250 600 l 1
+ 1150 600 l 2
+ 1005.53222656 600 987.970703125 575.94140625 950 500 c 2
+ 850 300 l 2
+ 750 100 649.999023438 0 400 0 c 2
+ 100 0 l 1
+ 100 100 l 1
+ 173.864257812 100 400 100 500 300 c 2
+ 600 500 l 2
+ 636.573242188 573.146484375 679.625976562 628.731445312 775.79296875 662.5625 c 1
+ 739.913085938 696.322265625 728.583984375 742.83203125 700 800 c 2
+ 650 900 l 2
+ 550 1099.99902344 498.864257812 1100 425 1100 c 1
+ 425 1100 500 1075 500 1000 c 0
+ 500 950 450 900 350 900 c 0
+ 250 900 200 950 200 1025 c 0
+ 200 1123.94628906 275 1200 450 1200 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0417.smallcaps
+Encoding: 65569 -1 674
+Width: 1400
+Flags: W
+HStem: -10 110<341.666 841.623> 600 100<400 877.786> 1100 101.408<432.061 920.233>
+VStem: 100 100<1072.54 1201.41> 1000 300<240.048 499.523> 1000 250<798.851 1028.43>
+AnchorPoint: "top" 700 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+700 1210 m 0xf4
+ 1080 1210 1250 1072.53613281 1250 900.705078125 c 0xf4
+ 1250 795.267578125 1156.59863281 713.92578125 1021.96875 662.576171875 c 1
+ 1181.69921875 621.887695312 1301.57714844 540.696289062 1300 385.2109375 c 0
+ 1297.30175781 119.15625 950 -10 650 -10 c 0
+ 250 -10 150 144.6484375 100 196.197265625 c 1
+ 100 300 l 1
+ 150 257.041992188 250 100 600 100 c 0
+ 950 100 1000 273.520507812 1000 385.2109375 c 0xf8
+ 1000 496.901367188 905.52734375 597.809570312 650 600 c 2
+ 400 600 l 1
+ 400 700 l 1
+ 650 700 l 2
+ 900 700 1001.79882812 804.150390625 1000 900.705078125 c 0
+ 998.76171875 967.153320312 1000 1100 700 1100 c 0
+ 310 1100 200 892.958007812 150 850 c 1
+ 100 850 l 1
+ 100 1201.40820312 l 1
+ 200 1201.40820312 l 1
+ 200 1072.53515625 l 1
+ 200 1072.53515625 380 1210 700 1210 c 0xf4
+EndSplineSet
+EndChar
+
+StartChar: uni0418.smallcaps
+Encoding: 65570 -1 675
+Width: 2000
+Flags: W
+HStem: 0 100<100 300 600 800 1200 1400 1700 1900> 1150 100<100 300 600 800 1200 1400 1700 1900>
+VStem: 300 300<100 150 350 1150> 1400 300<100 950>
+AnchorPoint: "top" 1000 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1900 1250 m 1
+ 1900 1150 l 1
+ 1700 1150 l 1
+ 1700 100 l 1
+ 1900 100 l 1
+ 1900 0 l 1
+ 1200 0 l 1
+ 1200 100 l 1
+ 1400 100 l 1
+ 1400 950 l 1
+ 600 150 l 1
+ 600 100 l 1
+ 800 100 l 1
+ 800 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1150 l 1
+ 100 1150 l 1
+ 100 1250 l 1
+ 800 1250 l 1
+ 800 1150 l 1
+ 600 1150 l 1
+ 600 350 l 1
+ 1400 1150 l 1
+ 1200 1150 l 1
+ 1200 1250 l 1
+ 1900 1250 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni041A.smallcaps
+Encoding: 65571 -1 676
+Width: 1900
+Flags: W
+HStem: 0 100<100 300 600 800 1565.66 1800> 600 100<600 913.051> 1100 100<100 300 600 800 1358.39 1473.95>
+VStem: 300 300<100 600 700 1100> 1400 300<930.384 1082.02>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 800 1200 l 1
+ 800 1100 l 1
+ 600 1100 l 1
+ 600 700 l 1
+ 612.552734375 700 637.112304688 699.973632812 650 700 c 0
+ 695.106445312 700.091796875 734.626953125 700.310546875 825 700 c 0
+ 1000 700 1012.02929688 724.05859375 1050 800 c 2
+ 1100 900 l 2
+ 1200 1100 1200.00097656 1200 1450 1200 c 0
+ 1625 1200 1700 1123.94628906 1700 1025 c 0
+ 1700 950 1650 900 1550 900 c 0
+ 1450 900 1400 950 1400 1000 c 0
+ 1400 1075 1475 1100 1475 1100 c 1
+ 1401.13574219 1100 1350 1100 1250 900 c 2
+ 1200 800 l 2
+ 1171.41601562 742.83203125 1160.08789062 696.322265625 1124.20703125 662.5625 c 1
+ 1220.37402344 628.731445312 1263.42675781 573.146484375 1300 500 c 2
+ 1400 300 l 2
+ 1500 100 1726.13574219 100 1800 100 c 1
+ 1800 0 l 1
+ 1500 0 l 2
+ 1250 0 1150 100 1050 300 c 2
+ 950 500 l 2
+ 912.029296875 575.94140625 894.467773438 600 750 600 c 2
+ 650 600 l 1
+ 600 600 l 1
+ 600 100 l 1
+ 800 100 l 1
+ 800 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 350 l 1
+ 300 550 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni041B.smallcaps
+Encoding: 65572 -1 677
+Width: 2000
+Flags: W
+HStem: 0 100<326.047 451.401 1200 1400 1700 1900> 1100 100<400 737.295 885.287 1400 1700 1900>
+VStem: 100 300<117.984 269.616> 1400 300<100 1100>
+AnchorPoint: "top" 1100 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+400 1200 m 1
+ 1075 1200 l 1
+ 1250 1200 l 1
+ 1900 1200 l 1
+ 1900 1100 l 1
+ 1700 1100 l 1
+ 1700 100 l 1
+ 1900 100 l 1
+ 1900 0 l 1
+ 1200 0 l 1
+ 1200 100 l 1
+ 1400 100 l 1
+ 1400 1100 l 1
+ 1250 1100 l 1
+ 1075 1100 l 2
+ 900 1100 874.986328125 1100.18066406 825 900.177734375 c 2
+ 675 300 l 2
+ 620.782226562 83.06640625 599.999023438 0 350 0 c 0
+ 175 0 100 76.0537109375 100 175 c 0
+ 100 250 150 300 250 300 c 0
+ 350 300 400 250 400 200 c 0
+ 400 125 325 100 325 100 c 1
+ 398.864257812 100 470.767578125 83.0703125 525 300 c 2
+ 700 1000 l 2
+ 708.725585938 1034.90234375 716.796875 1069.5234375 737.294921875 1100 c 1
+ 400 1100 l 1
+ 400 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni041C.smallcaps
+Encoding: 65573 -1 678
+Width: 2100
+Flags: W
+HStem: 0 100<100 300 500 700 1300 1500 1800 2000> 1100 100<100 300 1800 2000>
+VStem: 300 200<100 900> 1500 300<100 900>
+AnchorPoint: "top" 1000 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 650 1200 l 1
+ 1075 350 l 1
+ 1500 1200 l 1
+ 2000 1200 l 1
+ 2000 1100 l 1
+ 1800 1100 l 1
+ 1800 100 l 1
+ 2000 100 l 1
+ 2000 0 l 1
+ 1300 0 l 1
+ 1300 100 l 1
+ 1500 100 l 1
+ 1500 900 l 1
+ 1150 200 l 1
+ 850 200 l 1
+ 500 900 l 1
+ 500 100 l 1
+ 700 100 l 1
+ 700 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni041D.smallcaps
+Encoding: 65574 -1 679
+Width: 1900
+Flags: W
+HStem: 0 100<100 300 600 800 1100 1300 1600 1800> 600 100<600 1300> 1100 100<100 300 600 800 1100 1300 1600 1800>
+VStem: 300 300<100 600 700 1100> 1300 300<100 600 700 1100>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 800 1200 l 1
+ 800 1100 l 1
+ 600 1100 l 1
+ 600 700 l 1
+ 1300 700 l 1
+ 1300 1100 l 1
+ 1100 1100 l 1
+ 1100 1200 l 1
+ 1800 1200 l 1
+ 1800 1100 l 1
+ 1600 1100 l 1
+ 1600 100 l 1
+ 1800 100 l 1
+ 1800 0 l 1
+ 1100 0 l 1
+ 1100 100 l 1
+ 1300 100 l 1
+ 1300 600 l 1
+ 600 600 l 1
+ 600 100 l 1
+ 800 100 l 1
+ 800 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni041E.smallcaps
+Encoding: 65575 -1 680
+Width: 1800
+Flags: W
+HStem: -10 110<713.513 1086.49> 1100 110<718.022 1081.98>
+VStem: 100 400<415.749 778.507> 1300 400<415.749 784.442>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+900 1210 m 0
+ 1346.02636719 1213.86425781 1700 900.704101562 1700 600 c 0
+ 1700 299.295898438 1350 -10 900 -10 c 0
+ 450 -10 100 299.295898438 100 600 c 0
+ 100 900.704101562 453.973632812 1206.13574219 900 1210 c 0
+900 1100 m 0
+ 600 1100 500 857.74609375 500 600 c 0
+ 500 342.25390625 598.3515625 100 900 100 c 0
+ 1201.6484375 100 1300 342.25390625 1300 600 c 0
+ 1300 857.74609375 1200 1100 900 1100 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni041F.smallcaps
+Encoding: 65576 -1 681
+Width: 2000
+Flags: W
+HStem: 0 100<100 300 600 800 1200 1400 1700 1900> 1100 100<100 300 600 1400 1700 1900>
+VStem: 300 300<100 1100> 1400 300<100 1100>
+AnchorPoint: "top" 1000 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1400 1100 m 1
+ 600 1100 l 1
+ 600 100 l 1
+ 800 100 l 1
+ 800 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+ 1900 1200 l 1
+ 1900 1100 l 1
+ 1700 1100 l 1
+ 1700 100 l 1
+ 1900 100 l 1
+ 1900 0 l 1
+ 1200 0 l 1
+ 1200 100 l 1
+ 1400 100 l 1
+ 1400 1100 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0420.smallcaps
+Encoding: 65577 -1 682
+Width: 1600
+Flags: W
+HStem: 0 100<100 300 600 900> 500 100<600 1115.96> 1100 100<100 300 600 1116.51>
+VStem: 300 300<100 500 600 1100> 1200 300<685.866 1005.63>
+AnchorPoint: "top" 800 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1000 500 m 2
+ 600 500 l 1
+ 600 100 l 1
+ 900 100 l 1
+ 900 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+ 1000 1200 l 2
+ 1250 1200 1504.49804688 1099.265625 1500 840 c 0
+ 1495.50195312 580.734375 1250 500 1000 500 c 2
+600 1100 m 1
+ 600 600 l 1
+ 1000 600 l 2
+ 1120 600 1200 690 1200 850 c 0
+ 1200 1010 1120 1100 1000 1100 c 2
+ 600 1100 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0421.smallcaps
+Encoding: 65578 -1 683
+Width: 1600
+Flags: W
+HStem: -10 110<699.378 1203.21> 1100 100<698.298 1147.42>
+VStem: 100 400<389.615 810.621> 1400 100<1020 1200>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1500 230 m 1
+ 1450 170 1300 -10 900 -10 c 0
+ 600 -10 100 150 100 600 c 0
+ 100 1050 600 1210 900 1210 c 0
+ 1200 1210 1400 1020 1400 1020 c 1
+ 1400 1200 l 1
+ 1500 1200 l 1
+ 1500 800 l 1
+ 1450 800 l 1
+ 1300 950 1202.00878906 1097.30175781 950 1100 c 0
+ 600.020507812 1103.74804688 500 950 500 600 c 0
+ 500 250 600 100 950 100 c 0
+ 1300 100 1450 280 1500 330 c 1
+ 1500 230 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0422.smallcaps
+Encoding: 65579 -1 684
+Width: 1500
+Flags: W
+HStem: 0 100<300 600 900 1200> 1100 100<466.406 600 900 1033.59>
+VStem: 600 300<100 1100>
+AnchorPoint: "top" 700 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 1400 1200 l 1
+ 1400 800 l 1
+ 1350 800 l 1
+ 1150 1000 1000 1100 900 1100 c 1
+ 900 100 l 1
+ 1200 100 l 1
+ 1200 0 l 1
+ 300 0 l 1
+ 300 100 l 1
+ 600 100 l 1
+ 600 1100 l 1
+ 500 1100 350 1000 150 800 c 1
+ 100 800 l 1
+ 100 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0423.smallcaps
+Encoding: 65580 -1 685
+Width: 1800
+Flags: W
+HStem: 0 100<288.057 582.507> 1100 100<100 400 700 800 1100 1200 1350 1700>
+VStem: 100 300<163.643 320.475>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 800 1200 l 1
+ 800 1100 l 1
+ 700 1100 l 1
+ 950 600 l 1
+ 1200 1100 l 1
+ 1100 1100 l 1
+ 1100 1200 l 1
+ 1700 1200 l 1
+ 1700 1100 l 1
+ 1350 1100 l 1
+ 950 300 l 2
+ 900 200 701.274414062 -0.4501953125 400 0 c 0
+ 150.000976562 0.373046875 100 128.569335938 100 225 c 0
+ 100 322.829101562 175 350 250 350 c 0
+ 367.784179688 350 400 300 400 250 c 0
+ 400 135 280 145 280 145 c 1
+ 280 145 299.860351562 99.1005859375 400 100 c 0
+ 579.9921875 101.6171875 825 250 750 400 c 2
+ 400 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0424.smallcaps
+Encoding: 65581 -1 686
+Width: 1900
+Flags: W
+HStem: 0 100<500 800 1100 1400> 190 110<572.723 800 1100 1327.28> 900 110<572.85 800 1100 1327.15> 1100 100<500 800 1100 1400>
+VStem: 100 350<448.627 751.309> 800 300<100 190 300 900 1010 1100> 1450 350<448.627 751.309>
+CounterMasks: 1 0e
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+500 1200 m 1
+ 1400 1200 l 1
+ 1400 1100 l 1
+ 1100 1100 l 1
+ 1100 1010 l 1
+ 1493.42089844 1008.86914062 1800 851.407226562 1800 600 c 0
+ 1800 348.592773438 1493.74902344 190 1100 190 c 1
+ 1100 100 l 1
+ 1400 100 l 1
+ 1400 0 l 1
+ 500 0 l 1
+ 500 100 l 1
+ 800 100 l 1
+ 800 190 l 1
+ 406.250976562 190 100 348.592773438 100 600 c 0
+ 100 851.407226562 406.579101562 1008.86914062 800 1010 c 1
+ 800 1100 l 1
+ 500 1100 l 1
+ 500 1200 l 1
+800 900 m 1
+ 537.500976562 900 450 815.4921875 450 600 c 0
+ 450 384.5078125 536.057617188 300 800 300 c 1
+ 800 900 l 1
+1100 900 m 1
+ 1100 300 l 1
+ 1363.94238281 300 1450 384.5078125 1450 600 c 0
+ 1450 815.4921875 1362.49902344 900 1100 900 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni0425.smallcaps
+Encoding: 65582 -1 687
+Width: 1900
+Flags: W
+HStem: 0 100<100 350 550 700 1200 1250 1650 1800> 1100 100<100 350 750 800 1300 1350 1550 1800>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 800 1200 l 1
+ 800 1100 l 1
+ 750 1100 l 1
+ 1050 800 l 1
+ 1350 1100 l 1
+ 1300 1100 l 1
+ 1300 1200 l 1
+ 1800 1200 l 1
+ 1800 1100 l 1
+ 1550 1100 l 1
+ 1100 650 l 1
+ 1650 100 l 1
+ 1800 100 l 1
+ 1800 0 l 1
+ 1200 0 l 1
+ 1200 100 l 1
+ 1250 100 l 1
+ 900 450 l 1
+ 550 100 l 1
+ 700 100 l 1
+ 700 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 350 100 l 1
+ 850 600 l 1
+ 350 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0426.smallcaps
+Encoding: 65583 -1 688
+Width: 2000
+Flags: W
+HStem: 0 100<100 300 600 1400> 1100 100<100 300 600 800 1200 1400 1700 1900>
+VStem: 300 300<100 1100> 1400 300<100 1100> 1750 150<-300 -223.288>
+AnchorPoint: "top" 1000 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1900 100 m 1
+ 1900 -300 l 1
+ 1750 -300 l 1
+ 1600 0 1600 0 1400 0 c 2
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+ 800 1200 l 1
+ 800 1100 l 1
+ 600 1100 l 1
+ 600 100 l 1
+ 1400 100 l 1
+ 1400 1100 l 1
+ 1200 1100 l 1
+ 1200 1200 l 1
+ 1900 1200 l 1
+ 1900 1100 l 1
+ 1700 1100 l 1
+ 1700 100 l 1
+ 1900 100 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0427.smallcaps
+Encoding: 65584 -1 689
+Width: 1800
+Flags: W
+HStem: 0 100<800 1100 1400 1700> 300 100<636.839 888.284> 1100 100<100 300 800 1100 1400 1700>
+VStem: 300 300<467.866 1100> 1100 300<100 570 700 1100>
+AnchorPoint: "top" 800 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1700 1200 m 1
+ 1700 1100 l 1
+ 1400 1100 l 1
+ 1400 100 l 1
+ 1700 100 l 1
+ 1700 0 l 1
+ 800 0 l 1
+ 800 100 l 1
+ 1100 100 l 1
+ 1100 570 l 1
+ 1100 570 1000 300 740 300 c 0
+ 400 300 299.100585938 499.790039062 300 580 c 2
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+ 600 1200 l 1
+ 600 600 l 2
+ 600 500 600 400.732421875 740 400 c 0
+ 983.252929688 398.727539062 1100 700 1100 700 c 1
+ 1100 1100 l 1
+ 800 1100 l 1
+ 800 1200 l 1
+ 1700 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0428.smallcaps
+Encoding: 65585 -1 690
+Width: 2700
+Flags: W
+HStem: 0 100<100 300 600 1200 1500 2100 2400 2600> 1100 100<100 300 600 800 1000 1200 1500 1700 1900 2100 2400 2600>
+VStem: 300 300<100 1100> 1200 300<100 1100> 2100 300<100 1100>
+CounterMasks: 1 38
+AnchorPoint: "top" 1300 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+2600 0 m 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+ 800 1200 l 1
+ 800 1100 l 1
+ 600 1100 l 1
+ 600 100 l 1
+ 1200 100 l 1
+ 1200 1100 l 1
+ 1000 1100 l 1
+ 1000 1200 l 1
+ 1700 1200 l 1
+ 1700 1100 l 1
+ 1500 1100 l 1
+ 1500 100 l 1
+ 2100 100 l 1
+ 2100 1100 l 1
+ 1900 1100 l 1
+ 1900 1200 l 1
+ 2600 1200 l 1
+ 2600 1100 l 1
+ 2400 1100 l 1
+ 2400 100 l 1
+ 2600 100 l 1
+ 2600 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0429.smallcaps
+Encoding: 65586 -1 691
+Width: 2700
+Flags: W
+HStem: 0 100<100 300 600 1200 1500 2100> 1100 100<100 300 600 800 1000 1200 1500 1700 1900 2100 2400 2600>
+VStem: 300 300<100 1100> 1200 300<100 1100> 2100 300<100 1100> 2475 125<-300 -224.437>
+AnchorPoint: "top" 1300 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 800 1200 l 1
+ 800 1100 l 1
+ 600 1100 l 1
+ 600 100 l 1
+ 1200 100 l 1
+ 1200 1100 l 1
+ 1000 1100 l 1
+ 1000 1200 l 1
+ 1700 1200 l 1
+ 1700 1100 l 1
+ 1500 1100 l 1
+ 1500 100 l 1
+ 2100 100 l 1
+ 2100 1100 l 1
+ 1900 1100 l 1
+ 1900 1200 l 1
+ 2600 1200 l 1
+ 2600 1100 l 1
+ 2400 1100 l 1
+ 2400 100 l 1
+ 2600 100 l 1
+ 2600 -300 l 1
+ 2475 -300 l 1
+ 2324.94335938 -4.974609375 2324.99902344 0 2125 0 c 2
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni042A.smallcaps
+Encoding: 65587 -1 692
+Width: 2100
+Flags: W
+HStem: 0 100<600 800 1100 1615.96> 600 100<1100 1616.51> 1100 100<466.406 800 1100 1300>
+VStem: 800 300<100 600 700 1100> 1700 300<185.866 505.627>
+AnchorPoint: "top" 900 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 600 1200 l 1
+ 1300 1200 l 1
+ 1300 1100 l 1
+ 1100 1100 l 1
+ 1100 700 l 1
+ 1500 700 l 2
+ 1749.99902344 700 2004.49804688 599.264648438 2000 340 c 0
+ 1995.50195312 80.7353515625 1749.99902344 0 1500 0 c 2
+ 1300 0 l 1
+ 600 0 l 1
+ 600 100 l 1
+ 800 100 l 1
+ 800 1100 l 1
+ 600 1100 l 2
+ 500 1100 349.999023438 999.999023438 150 800 c 1
+ 100 800 l 1
+ 100 1200 l 1
+1100 600 m 1
+ 1100 100 l 1
+ 1300 100 l 1
+ 1500 100 l 2
+ 1620 100 1700 190.000976562 1700 350 c 0
+ 1700 509.999023438 1620 600 1500 600 c 2
+ 1100 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni042B.smallcaps
+Encoding: 65588 -1 693
+Width: 2599
+Flags: W
+HStem: 0.75 99.5<100 300 600 1115.96 1600.25 1900.25 2199.75 2499.75> 600 100<600 1127.51> 1100.5 99.5<100 300 600 800 1600 1900 2199.5 2499.5>
+VStem: 300 300<100 600 700 1100> 1200 300<194.476 514.065> 1900.25 299.5<100.75 1100>
+AnchorPoint: "top" 1300 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+2199.75 100.75 m 1
+ 2499.75 100.25 l 1
+ 2499.75 0.75 l 1
+ 1600.25 0.75 l 1
+ 1600.25 100.25 l 1
+ 1900.25 100.75 l 1
+ 1900 1100 l 1
+ 1600 1100.5 l 1
+ 1600 1200 l 1
+ 2499.5 1200 l 1
+ 2499.5 1100.5 l 1
+ 2199.5 1100 l 1
+ 2199.75 100.75 l 1
+100 1100 m 1
+ 100 1200 l 1
+ 800 1200 l 1
+ 800 1100 l 1
+ 600 1100 l 1
+ 600 700 l 1
+ 1000 700 l 2
+ 1249.99902344 700 1504.49804688 609.264648438 1500 350 c 0
+ 1495.50195312 90.7353515625 1249.99902344 0 1000 0 c 2
+ 800 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+600 600 m 1
+ 600 100 l 1
+ 800 100 l 1
+ 1000 100 l 2
+ 1120 100 1200 200.000976562 1200 360 c 0
+ 1200 519.999023438 1120 600 1000 600 c 2
+ 600 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni042C.smallcaps
+Encoding: 65589 -1 694
+Width: 1600
+Flags: W
+HStem: 0 100<100 300 600 1115.96> 600 100<600 1127.51> 1100 100<100 300 600 800>
+VStem: 300 300<100 600 700 1100> 1200 300<194.476 514.065>
+AnchorPoint: "top" 800 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 1100 m 1
+ 100 1200 l 1
+ 800 1200 l 1
+ 800 1100 l 1
+ 600 1100 l 1
+ 600 700 l 1
+ 1000 700 l 2
+ 1249.99902344 700 1504.49804688 609.264648438 1500 350 c 0
+ 1495.50195312 90.7353515625 1249.99902344 0 1000 0 c 2
+ 800 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+600 600 m 1
+ 600 100 l 1
+ 800 100 l 1
+ 1000 100 l 2
+ 1120 100 1200 200.000976562 1200 360 c 0
+ 1200 519.999023438 1120 600 1000 600 c 2
+ 600 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni042D.smallcaps
+Encoding: 65590 -1 695
+Width: 1600
+Flags: W
+HStem: -10 110<379.559 882.015> 600 100<732.812 1095.59> 1100 110<440.52 885.229>
+VStem: 100 100<1046.76 1201.41> 1100 400<418.245 600 700 784.578>
+AnchorPoint: "top" 700 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+700 1210 m 0
+ 1000 1210 1500 986.619140625 1500 600 c 0
+ 1500 213.380859375 1000 -10 700 -10 c 0
+ 300 -10 150 144.6484375 100 196.197265625 c 1
+ 100 300 l 1
+ 150 257.041992188 300 100 650 100 c 0
+ 1000 100 1100 299.295898438 1100 600 c 1
+ 850 600 l 2
+ 750 600 650 485.915039062 550 400 c 1
+ 500 400 l 1
+ 500 900 l 1
+ 550 900 l 1
+ 650 814.084960938 750 700 850 700 c 2
+ 1095.58789062 700 l 1
+ 1073.36816406 944.604492188 959.529296875 1102.84765625 650 1100 c 0
+ 397.991210938 1097.68164062 300 978.873046875 150 850 c 1
+ 100 850 l 1
+ 100 1201.40820312 l 1
+ 200 1201.40820312 l 1
+ 200 1046.75976562 l 1
+ 200 1046.75976562 400 1210 700 1210 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni042E.smallcaps
+Encoding: 65591 -1 696
+Width: 2600
+Flags: W
+HStem: -10 110<100 300 600 800 1511.88 1886.49> 525 150<600 916.419> 1100 100<100 300 600 800 1514.78 1881.98>
+VStem: 300 300<100 525 675 1100> 2100 400<415.749 784.442>
+AnchorPoint: "top" 1200 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1700 1210 m 0
+ 2146.02636719 1213.86425781 2500 900.703125 2500 600 c 0
+ 2500 299.296875 2149.99902344 -10 1700 -10 c 0
+ 1287.42089844 -10 959.118164062 250.006835938 907.333984375 525 c 1
+ 600 525 l 1
+ 600 100 l 1
+ 800 100 l 1
+ 800 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+ 800 1200 l 1
+ 800 1100 l 1
+ 600 1100 l 1
+ 600 675 l 1
+ 907.423828125 675 l 1
+ 959.784179688 949.44921875 1291.10058594 1206.45703125 1700 1210 c 0
+1700 1100 m 0
+ 1400.00097656 1100 1300 857.74609375 1300 600 c 0
+ 1300 342.25390625 1398.3515625 100 1700 100 c 0
+ 2001.6484375 100 2100 342.25390625 2100 600 c 0
+ 2100 857.74609375 1999.99902344 1100 1700 1100 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni042F.smallcaps
+Encoding: 65592 -1 697
+Width: 1800
+Flags: W
+HStem: 0 100<100 257.193 900 1200 1500 1700> 500 100<678.522 1200> 1100 100<683.488 1200 1500 1700>
+VStem: 300 300<141.864 457.246 681.943 1005.63> 1200 300<100 500 600 1100>
+AnchorPoint: "top" 1000 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1700 1200 m 1
+ 1700 1100 l 1
+ 1500 1100 l 1
+ 1500 100 l 1
+ 1700 100 l 1
+ 1700 0 l 1
+ 900 0 l 1
+ 900 100 l 1
+ 1200 100 l 1
+ 1200 500 l 1
+ 800 500 l 2
+ 650 500 599.100585938 455.921875 600 300 c 0
+ 601.153320312 100.00390625 490 0 400 0 c 2
+ 100 0 l 1
+ 100 100 l 1
+ 200 100 300 100 300 300 c 0
+ 300 455.389648438 373.174804688 531.27734375 466.8828125 568.015625 c 1
+ 368.81640625 620.172851562 302.319335938 706.301757812 300 840 c 0
+ 295.501953125 1099.26464844 550 1200 800 1200 c 2
+ 1700 1200 l 1
+1200 1100 m 1
+ 800 1100 l 2
+ 680 1100 600 1010 600 850 c 0
+ 600 690 680 600 800 600 c 2
+ 1200 600 l 1
+ 1200 1100 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0299
+Encoding: 665 665 698
+Width: 1700
+Flags: W
+HStem: 0 100<100 300 600 1219.93> 600 100<600 1127.37> 1100 100<100 300 600 1127.51>
+VStem: 300 300<100 600 700 1100> 1200 300<773.885 1027.03> 1300 300<201.704 499.862>
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1xf4
+ 1000 1200 l 2
+ 1250 1200 1500 1090 1500 900 c 0xf8
+ 1500 710 1270 650 1270 650 c 1
+ 1270 650 1600 630 1600 350 c 0
+ 1600 70 1249.77441406 0 1100 0 c 2
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1xf4
+600 1100 m 1
+ 600 700 l 1
+ 1000 700 l 2
+ 1120 700 1200 790 1200 900 c 0
+ 1200 1010 1120 1100 1000 1100 c 2
+ 600 1100 l 1
+600 600 m 1
+ 600 100 l 1
+ 1100 100 l 2
+ 1220 100 1300 197.991210938 1300 350 c 0xf4
+ 1300 502.008789062 1220 600 1100 600 c 2
+ 600 600 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni1D0B
+Encoding: 7435 7435 699
+Width: 2000
+HStem: 0 100<100 300 600 800 1100 1250 1650 1900> 1100 100<100 300 600 800 1200 1250 1450 1700>
+VStem: 300 300<100 250 450 1100>
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 800 1200 l 1
+ 800 1100 l 1
+ 600 1100 l 1
+ 600 450 l 1
+ 1250 1100 l 1
+ 1200 1100 l 1
+ 1200 1200 l 1
+ 1700 1200 l 1
+ 1700 1100 l 1
+ 1450 1100 l 1
+ 1050 700 l 1
+ 1650 100 l 1
+ 1900 100 l 1
+ 1900 0 l 1
+ 1100 0 l 1
+ 1100 100 l 1
+ 1250 100 l 1
+ 850 500 l 1
+ 600 250 l 1
+ 600 100 l 1
+ 800 100 l 1
+ 800 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni1D0D
+Encoding: 7437 7437 700
+Width: 2100
+Flags: W
+HStem: 0 100<100 300 500 700 1300 1500 1800 2000> 1100 100<100 300 1800 2000>
+VStem: 300 200<100 900> 1500 300<100 900>
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 650 1200 l 1
+ 1075 350 l 1
+ 1500 1200 l 1
+ 2000 1200 l 1
+ 2000 1100 l 1
+ 1800 1100 l 1
+ 1800 100 l 1
+ 2000 100 l 1
+ 2000 0 l 1
+ 1300 0 l 1
+ 1300 100 l 1
+ 1500 100 l 1
+ 1500 900 l 1
+ 1150 200 l 1
+ 850 200 l 1
+ 500 900 l 1
+ 500 100 l 1
+ 700 100 l 1
+ 700 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 300 100 l 1
+ 300 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni1D20
+Encoding: 7456 7456 701
+Width: 2000
+HStem: 0 21G<890 1110> 1100 100<100 350 700 900 1300 1500 1650 1900>
+LayerCount: 2
+Fore
+SplineSet
+100 1200 m 1
+ 900 1200 l 1
+ 900 1100 l 1
+ 700 1100 l 1
+ 1100 300 l 1
+ 1500 1100 l 1
+ 1300 1100 l 1
+ 1300 1200 l 1
+ 1900 1200 l 1
+ 1900 1100 l 1
+ 1650 1100 l 1
+ 1100 0 l 1
+ 900 0 l 1
+ 350 1100 l 1
+ 100 1100 l 1
+ 100 1200 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniA730
+Encoding: 42800 42800 702
+Width: 1500
+Flags: W
+HStem: 0 100<0 200 500 800> 600 100<500 771.875> 1100 100<0 200 500 1033.59>
+VStem: 200 300<100 600 700 1100>
+LayerCount: 2
+Fore
+SplineSet
+1000 900 m 1
+ 1000 400 l 1
+ 950 400 l 1
+ 850 500 750 600 650 600 c 2
+ 500 600 l 1
+ 500 100 l 1
+ 800 100 l 1
+ 800 0 l 1
+ 0 0 l 1
+ 0 100 l 1
+ 200 100 l 1
+ 200 1100 l 1
+ 0 1100 l 1
+ 0 1200 l 1
+ 1400 1200 l 1
+ 1400 800 l 1
+ 1350 800 l 1
+ 1150 1000 1000 1100 900 1100 c 2
+ 500 1100 l 1
+ 500 700 l 1
+ 650 700 l 2
+ 750 700 850 800 950 900 c 1
+ 1000 900 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniA7AF
+Encoding: 42927 42927 703
+Width: 1700
+Flags: W
+HStem: -200 100<1155.94 1472.72> -10 110<612.176 898.486> 300 100<619.98 870.118> 1100 110<618.022 981.978>
+VStem: 0 400<417.977 778.507> 1200 400<416.5 784.442>
+LayerCount: 2
+Fore
+SplineSet
+800 1210 m 0
+ 1246.02636719 1213.86425781 1600 900.703125 1600 600 c 0
+ 1600 371.709960938 1398.17480469 138.608398438 1104.11132812 39.51171875 c 1
+ 1116.6640625 -41.1494140625 1162.56054688 -100 1300 -100 c 0
+ 1495.36035156 -100 1600 30 1600 30 c 1
+ 1600 -70 l 1
+ 1600 -70 1500 -200 1250 -200 c 0
+ 984.075195312 -200 920.319335938 -110.786132812 904.974609375 -4.115234375 c 1
+ 870.666992188 -7.84765625 835.69140625 -10 800 -10 c 0
+ 350 -10 0 299.296875 0 600 c 0
+ 0 900.703125 353.973632812 1206.13574219 800 1210 c 0
+800 1100 m 0
+ 500.000976562 1100 400 857.74609375 400 600 c 0
+ 400 461.34765625 428.538085938 327.247070312 501.796875 232.861328125 c 1
+ 510.995117188 247.916015625 607.34375 400 750 400 c 0
+ 904.662109375 400 1039.42871094 360.221679688 1084.21484375 215.982421875 c 1
+ 1167.85351562 310.836914062 1200 452.852539062 1200 600 c 0
+ 1200 857.74609375 1099.99902344 1100 800 1100 c 0
+750 300 m 0
+ 658.877929688 300 586.396484375 237.34375 543.38671875 188.09375 c 1
+ 604.65234375 133.236328125 688.374023438 100 800 100 c 0
+ 836.1796875 100 869.357421875 103.5703125 899.869140625 110.1484375 c 1
+ 898.540039062 261.4375 867.33984375 300 750 300 c 0
+EndSplineSet
+EndChar
+
+StartChar: tilde
+Encoding: 732 732 704
+Width: 1000
+VWidth: 1200
+Flags: W
+HStem: 1270 100<675.683 873.438> 1430 100<225.156 426.049>
+VStem: 100 80<1270 1381.99> 920 80<1418.05 1530>
+LayerCount: 2
+Fore
+Refer: 109 126 S 1 0 0 1 0 900 2
+EndChar
+
+StartChar: uni0344
+Encoding: 836 836 705
+Width: 0
+VWidth: 1200
+Flags: W
+HStem: 1300 250<136.578 363.422 736.578 963.422> 1300 300<500 550>
+VStem: 100 300<1336.61 1513.39> 400 300 700 300<1336.61 1513.39>
+AnchorPoint: "top" 500 1200 mark 0
+LayerCount: 2
+Fore
+Refer: 468 900 N 1 0 0 1 300 0 2
+Refer: 117 168 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
