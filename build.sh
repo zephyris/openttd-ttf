@@ -15,3 +15,5 @@ cd ..
 cd openttd-mono
 bash build.sh
 cd ..
+
+python3 checkOpenTTDStrings.py ../openttd/src/lang
