@@ -39,7 +39,7 @@ for scale in scales:
         shadowtext(draw, scale, (3, 5 + line * 2), "Numerics: 0123456789 ⁰¹²³⁴ ½¾¾ 6×7=42 95%", font, foreground, shadow)
         shadowtext(draw, scale, (3, 5 + line * 3), "Upper case: ABCDEFGHIJKLMNOPQRSTUVWXYZ", font, foreground, shadow)
         shadowtext(draw, scale, (3, 5 + line * 4), "Lower case: abcdefghijklmnopqrstuvwxyz", font, foreground, shadow)
-        shadowtext(draw, scale, (3, 5 + line * 5), "Symbols: !\"#$%@()*+,-.;/<=>?[\]^_{|}~¡¤¦§©ª«¬­®", font, foreground, shadow)
+        shadowtext(draw, scale, (3, 5 + line * 5), "Symbols: !\"#$%@()*+,-.;/<=>?[\\]^_{|}~¡¤¦§©ª«¬­®", font, foreground, shadow)
         shadowtext(draw, scale, (3, 5 + line * 6), "Diacritics: ÀÁÂÃÄÅĀĂĄÆāàáâãäåăąæ ÇçÈèÍíÐðÑñÔôÜüÞþŊŋ", font, foreground, shadow)
         shadowtext(draw, scale, (3, 5 + line * 7), "Currencies: $£¥¢֏฿₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿", font, foreground, shadow)
         shadowtext(draw, scale, (3, 5 + line * 8), "Greek upper: ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ", font, foreground, shadow)
