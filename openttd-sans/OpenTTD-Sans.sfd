@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1702291130
-ModificationTime: 1710623379
+ModificationTime: 1742127242
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
@@ -107,7 +107,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1408 32 8
+WinInfo: 896 32 8
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "sin" "Diacritics" "shin" "Diacritics" "sin"""  "dagesh" "Diacritics" "bottom" "Diacritics" "top" "Diacritics"
@@ -1029,7 +1029,7 @@ EndChar
 StartChar: igrave
 Encoding: 236 236 41
 Width: 300
-Flags: HW
+Flags: W
 HStem: 0 21G<0 200> 580 20G<0 200> 672 175
 VStem: -50 200 0 200<0 600>
 LayerCount: 2
@@ -1041,7 +1041,7 @@ EndChar
 StartChar: iacute
 Encoding: 237 237 42
 Width: 300
-Flags: HW
+Flags: W
 HStem: 0 21G<0 200> 580 20G<0 200> 672 175
 VStem: 0 200<0 600> 50 200
 LayerCount: 2
@@ -1052,14 +1052,14 @@ EndChar
 
 StartChar: icircumflex
 Encoding: 238 238 43
-Width: 300
-Flags: HW
+Width: 400
+Flags: W
 HStem: 0 21G<0 200> 580 20G<0 200> 672 175
-VStem: -50 300 0 200<0 600>
+VStem: 0 200<0 600> 0 300
 LayerCount: 2
 Fore
-Refer: 657 770 N 1 0 0 1 -50 47 2
-Refer: 40 305 N 1 0 0 1 0 0 3
+Refer: 657 770 N 1 0 0 1 0 47 2
+Refer: 40 305 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: A
@@ -3923,26 +3923,26 @@ EndChar
 
 StartChar: Icircumflex
 Encoding: 206 206 155
-Width: 300
-Flags: HW
+Width: 400
+Flags: W
 HStem: 0 21G<0 200> 580 20G<0 200> 625 175
 VStem: 0 200<0 600> 0 300
 LayerCount: 2
 Fore
 Refer: 404 710 S 1 0 0 1 0 0 2
-Refer: 226 618 N 1 0 0 1 0 0 2
+Refer: 226 618 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: Idieresis
 Encoding: 207 207 156
 Width: 500
-Flags: W
+Flags: HW
 HStem: 0 21G<100 300> 580 20G<100 300> 675 125<17.1282 132.868 267.128 382.868>
 VStem: 0 150<691.844 796.232> 100 200<0 600> 250 150<691.844 796.232>
 LayerCount: 2
 Fore
 Refer: 117 168 N 1 0 0 1 0 0 2
-Refer: 226 618 N 1 0 0 1 100 0 2
+Refer: 226 618 S 1 0 0 1 100 0 2
 EndChar
 
 StartChar: Eth
@@ -4388,14 +4388,14 @@ EndChar
 
 StartChar: idieresis
 Encoding: 239 239 182
-Width: 300
+Width: 500
 Flags: W
-HStem: 0 21G<0 200> 580 20G<0 200> 672 125<-82.8718 32.8676 167.128 282.868>
-VStem: -100 150<688.844 793.232> 0 200<0 600> 150 150<688.844 793.232>
+HStem: 0 21G<100 300> 580 20G<100 300> 672 125<17.1282 132.868 267.128 382.868>
+VStem: 0 150<688.844 793.232> 100 200<0 600> 250 150<688.844 793.232>
 LayerCount: 2
 Fore
-Refer: 664 776 N 1 0 0 1 -100 -3 2
-Refer: 40 305 N 1 0 0 1 0 0 3
+Refer: 664 776 N 1 0 0 1 0 -3 2
+Refer: 40 305 N 1 0 0 1 100 0 2
 EndChar
 
 StartChar: eth
@@ -5046,7 +5046,7 @@ HStem: 0 21G<100 300> 580 20G<100 300> 625 75<300.523 350> 700 100<150 204.597>
 VStem: 100 200<0 600>
 LayerCount: 2
 Fore
-Refer: 506 732 S 1 0 0 1 0 0 2
+Refer: 506 732 N 1 0 0 1 0 0 2
 Refer: 40 305 N 1 0 0 1 100 0 2
 EndChar
 
@@ -5094,13 +5094,13 @@ EndChar
 
 StartChar: Itilde
 Encoding: 296 296 227
-Width: 300
+Width: 600
 Flags: HW
 HStem: 0 21G<100 300> 580 20G<100 300> 625 75<300.523 350> 700 100<150 204.597>
 VStem: 100 200<0 600>
 LayerCount: 2
 Fore
-Refer: 506 732 S 1 0 0 1 0 0 2
+Refer: 506 732 N 1 0 0 1 0 0 2
 Refer: 226 618 N 1 0 0 1 100 0 2
 EndChar
 
@@ -8781,7 +8781,7 @@ EndChar
 StartChar: circumflex
 Encoding: 710 710 404
 Width: 300
-Flags: HW
+Flags: W
 HStem: 625 175
 VStem: 0 300
 LayerCount: 2
@@ -8825,7 +8825,7 @@ EndChar
 StartChar: uni02CA
 Encoding: 714 714 406
 Width: 200
-Flags: HW
+Flags: W
 HStem: 625 175
 VStem: 0 200
 LayerCount: 2
@@ -8836,7 +8836,7 @@ EndChar
 StartChar: uni02CB
 Encoding: 715 715 407
 Width: 200
-Flags: HW
+Flags: W
 HStem: 625 175
 VStem: 0 200
 LayerCount: 2
@@ -10850,13 +10850,13 @@ EndChar
 
 StartChar: Iotadieresis
 Encoding: 938 938 494
-Width: 600
-Flags: W
+Width: 500
+Flags: HW
 HStem: 0 16.8G<100 300> 624 16G<100 300> 675 125<17.1282 132.868 267.128 382.868>
 VStem: 0 150<691.844 796.232> 100 200<0 640> 250 150<691.844 796.232>
 LayerCount: 2
 Fore
-Refer: 117 168 S 1 0 0 1 0 0 2
+Refer: 117 168 N 1 0 0 1 0 0 2
 Refer: 429 921 N 1 0 0 0.8 100 0 2
 EndChar
 
@@ -12530,7 +12530,7 @@ EndChar
 StartChar: uni0406
 Encoding: 1030 1030 552
 Width: 300
-Flags: W
+Flags: WO
 HStem: 0 21G<0 200> 780 20G<0 200>
 VStem: 0 200<0 800>
 LayerCount: 2
@@ -14945,7 +14945,7 @@ EndChar
 StartChar: uni0302
 Encoding: 770 770 657
 Width: 0
-Flags: HW
+Flags: W
 HStem: 625 175
 VStem: 0 300
 AnchorPoint: "top" 200 600 mark 0
@@ -14957,7 +14957,7 @@ EndChar
 StartChar: acutecomb
 Encoding: 769 769 658
 Width: 0
-Flags: HW
+Flags: W
 HStem: 625 175
 VStem: 0 200
 AnchorPoint: "top" 100 600 mark 0
@@ -14969,7 +14969,7 @@ EndChar
 StartChar: gravecomb
 Encoding: 768 768 659
 Width: 0
-Flags: HW
+Flags: W
 HStem: 625 175
 VStem: 0 200
 AnchorPoint: "top" 200 600 mark 0
