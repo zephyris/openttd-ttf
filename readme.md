@@ -106,10 +106,14 @@ mono_font =
 
 ## Mistakes and Bugs
 
-There might be mistakes or bugs, if you spot any problems please let me know! I'm a native English speaker, so the non-standard Latin alphabet and diacritics are where you are most likely to find errors. The best way to report problems is is using Github Issues.
+There might be mistakes or bugs, if you spot any problems please let us know! The fonts were developed by a native English speaker, so the non-standard Latin alphabet and diacritics are where you are most likely to find errors. The best way to report problems is is using Github Issues.
 
 ## Building
-Run `build.sh` to build the output TTF files. Requires `FontForge` and `Python`. `Python` requires `PIL`.
+Run `make all` to build the output TTF files and re-generate the image previews. Requires `FontForge` and `Python`. `Python` requires `PIL`.
 Developed and tested using `WSL`.
 
+`build.sh` in the root directory also builds the output TTF files and previews. `build.sh` in each font sub-durectory builds that font's output TTF files and previews. These are legacy, mirroring the code in the makefile, and may be removed.
+
 The master source files are the Fontforge SFD file. SVG files of individual glyphs are provided for convenience and not automatically imported.
+
+To maintain an up-to-date set of font previews, we maintain a copy of the built TTFs and preview images in the repository. Please run `make all` to update these files prior to comitting updates.
